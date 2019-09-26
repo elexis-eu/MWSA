@@ -14,6 +14,7 @@ The following is a description of our data:
 | English | Global-Password | 39 | 140 | [K-Dictionaries](https://www.lexicala.com/)|
 | English | Webster-Princeton WordNet | 256 | 2747 | [National University of Ireland-Galway](http://www.nuigalway.ie/)|
 |Estonian| | 1652 | 1877 | [Institute of the Estonian Language (EKI)](https://www.eki.ee)|
+|Slovenian| WordNet-Lexical database | 21 | 63 | [Jožef Stefan Institute (JSI)](www.ijs.si)|
 
 ## Licence
 
