@@ -16,10 +16,12 @@ The following is a description of our data:
 |Estonian| | 1652 | 1877 | [Institute of the Estonian Language (EKI)](https://www.eki.ee)|
 |Slovenian| WordNet-Lexical database | 21 | 63 | [Jožef Stefan Institute (JSI)](www.ijs.si)|
 |German | German OmegaWiki-Wiktionary |||[Austrian Academy of Sciences (OEAW)](https://www.oeaw.ac.at/en/austrian-academy-of-sciences/)|
+|Bulgarian |Dictionary of Bulgarian Language-Synonymous dictionary||||
+|Bulgarian |Bulgarian Wiktionary-Bulgarian WordNet ||||
 |Spanish ||||[The Royal Spanish Academy (RAE)](http://www.rae.es)|
 |Portuguese (obv.)|||||
 |Basque (obv.)|||||
-|Irish (obv.)|||||
+|Irish (obv.)|An Foclóir Beag-Wiktionary||||
 ## Licence
 
 This repository is licensed under the [Apache License 2.0](https://raw.githubusercontent.com/elexis-eu/Sense-alignment-datasets/master/LICENSE).
