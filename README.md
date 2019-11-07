@@ -24,6 +24,7 @@ The following is a description of the data (updated on November 7, 2019):
 |Basque (obv.)|Wikidata-WordNet| UPV/EHU University of the Basque Country | Ongoing (final)|
 |Irish (obv.)| An Foclóir Beag-Wiktionary | NUI Galway | Ongoing (final)|
 |Russian (obv.)| Ozhegov - MAS | [ILS-RAS](https://elex.is/portfolio-item/ils-ras/) | Ongoing (initial)|
+| Serbian (obv.) | Serbian WordNet-Dictionary of Serbocroatian Language | UB FMG | Finished (initial)|
 
 `initial` refers to the 100-sense objective and `final` refers to the 1000-sense objective. 
 
