@@ -13,6 +13,7 @@ The following is a description of the data (updated on November 7, 2019):
 | Hungarian | Comprehensive-Explanatory (?) |  [Research Institute for Linguistics Hungarian Academy of Sciences (RILMTA)](http://www.nytud.hu/eng/) | Finished (initial) |
 | English | Global-Password |  [K-Dictionaries](https://www.lexicala.com/) | Finished (initial) |
 | English | Webster-Princeton WordNet | [National University of Ireland-Galway](http://www.nuigalway.ie/)| Ongoing (final) |
+| Dutch | WordNet-AWN| [instituut voor de nederlandse taal](https://ivdnt.org)| Ongoing (Initial) |
 |Estonian| EKS-PSV | [Institute of the Estonian Language (EKI)](https://www.eki.ee)| **Finished (final)**|
 |Italian| IWN-Simple | [CNR-ILC](http://www.ilc.cnr.it/)| Finished (initial)|
 |Slovenian| WordNet-Lexical database | [Jožef Stefan Institute (JSI)](www.ijs.si)| Finished (initial)|
