@@ -1,0 +1,31 @@
+EN:
+	Fleiss' Kappa:
+		Five: 0.35042084817092894
+		Two: 0.08390022675736919
+	Krippendorff's alpha:
+		Five: 0.43100479874383346
+		Two: 0.7346180128532944
+
+IE:
+	Fleiss' Kappa:
+		Five: 0.05055818809734118
+		Two: 0.29523809523809585
+	Krippendorff's alpha:
+		Five: 0.8345995322447131
+		Two: 0.9897580415286912
+
+DA:
+	Fleiss' Kappa:
+		Five: -0.031257615028467724
+		Two: -0.026615969581750554
+	Krippendorff's alpha:
+		Five: 0.9484106075255359
+		Two: 0.91674543163201
+
+DE:
+	Fleiss' Kappa:
+		Five: -0.12078771806718017
+		Two: -0.26579382229566534
+	Krippendorff's alpha:
+		Five: 0.7156794013035566
+		Two: 0.5799939698521658
