@@ -1,0 +1,792 @@
+<https://github.com/elexis-eu/mwsa#abeceda_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#abeceda_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense1> .
+<https://github.com/elexis-eu/mwsa#abeceda_noun> <http://www.w3.org/2000/01/rdf-schema#label> "abeceda"@sl .
+<https://github.com/elexis-eu/mwsa#sense1> <http://www.w3.org/2004/02/skos/core#definition> "abeceda |ustaljeno zaporedje črk|"@sl .
+<https://github.com/elexis-eu/mwsa#abecednik_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#abecednik_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense5> .
+<https://github.com/elexis-eu/mwsa#abecednik_noun> <http://www.w3.org/2000/01/rdf-schema#label> "abecednik"@sl .
+<https://github.com/elexis-eu/mwsa#sense5> <http://www.w3.org/2004/02/skos/core#definition> "abecednik |prvo berilo|"@sl .
+<https://github.com/elexis-eu/mwsa#ajda_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#ajda_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense10> .
+<https://github.com/elexis-eu/mwsa#ajda_noun> <http://www.w3.org/2000/01/rdf-schema#label> "ajda"@sl .
+<https://github.com/elexis-eu/mwsa#sense10> <http://www.w3.org/2004/02/skos/core#definition> "ajda |kulturna rastlina z gostimi rdečkastimi ali belimi cveti v gostem socvetju ali njeno seme|"@sl .
+<https://github.com/elexis-eu/mwsa#ajdov_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#ajdov_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense13> .
+<https://github.com/elexis-eu/mwsa#ajdov_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "ajdov"@sl .
+<https://github.com/elexis-eu/mwsa#sense13> <http://www.w3.org/2004/02/skos/core#definition> "ajdov |ki se nanaša na ajdo|"@sl .
+<https://github.com/elexis-eu/mwsa#babica_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#babica_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense18> .
+<https://github.com/elexis-eu/mwsa#babica_noun> <http://www.w3.org/2000/01/rdf-schema#label> "babica"@sl .
+<https://github.com/elexis-eu/mwsa#sense18> <http://www.w3.org/2004/02/skos/core#definition> "babica, stara mama, stara mati"@sl .
+<https://github.com/elexis-eu/mwsa#babica_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#babica_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense19> .
+<https://github.com/elexis-eu/mwsa#babica_noun> <http://www.w3.org/2000/01/rdf-schema#label> "babica"@sl .
+<https://github.com/elexis-eu/mwsa#sense19> <http://www.w3.org/2004/02/skos/core#definition> "babica |ženska, ki pomaga pri porodu|"@sl .
+<https://github.com/elexis-eu/mwsa#babica_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#babica_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense20> .
+<https://github.com/elexis-eu/mwsa#babica_noun> <http://www.w3.org/2000/01/rdf-schema#label> "babica"@sl .
+<https://github.com/elexis-eu/mwsa#sense20> <http://www.w3.org/2004/02/skos/core#definition> "babica |zgornji del klepalnika|"@sl .
+<https://github.com/elexis-eu/mwsa#babica_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#babica_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense21> .
+<https://github.com/elexis-eu/mwsa#babica_noun> <http://www.w3.org/2000/01/rdf-schema#label> "babica"@sl .
+<https://github.com/elexis-eu/mwsa#sense21> <http://www.w3.org/2004/02/skos/core#definition> "babica |del zaponke, kamor se zatakne kaveljček|"@sl .
+<https://github.com/elexis-eu/mwsa#babica_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#babica_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense22> .
+<https://github.com/elexis-eu/mwsa#babica_noun> <http://www.w3.org/2000/01/rdf-schema#label> "babica"@sl .
+<https://github.com/elexis-eu/mwsa#sense22> <http://www.w3.org/2004/02/skos/core#definition> "koruzni storž, ki ima redko in nedozorelo zrnje"@sl .
+<https://github.com/elexis-eu/mwsa#babica_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#babica_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense23> .
+<https://github.com/elexis-eu/mwsa#babica_noun> <http://www.w3.org/2000/01/rdf-schema#label> "babica"@sl .
+<https://github.com/elexis-eu/mwsa#sense23> <http://www.w3.org/2004/02/skos/core#definition> "koničast kamen, ki štrli iz zemlje"@sl .
+<https://github.com/elexis-eu/mwsa#balin_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#balin_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense31> .
+<https://github.com/elexis-eu/mwsa#balin_noun> <http://www.w3.org/2000/01/rdf-schema#label> "balin"@sl .
+<https://github.com/elexis-eu/mwsa#sense31> <http://www.w3.org/2004/02/skos/core#definition> "balin |najmanjša krogla pri balinanju|"@sl .
+<https://github.com/elexis-eu/mwsa#balinanje_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#balinanje_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense33> .
+<https://github.com/elexis-eu/mwsa#balinanje_noun> <http://www.w3.org/2000/01/rdf-schema#label> "balinanje"@sl .
+<https://github.com/elexis-eu/mwsa#sense33> <http://www.w3.org/2004/02/skos/core#definition> "balinanje |(športna) igra, pri kateri se mečejo krogle k balinu|"@sl .
+<https://github.com/elexis-eu/mwsa#belica_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#belica_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense37> .
+<https://github.com/elexis-eu/mwsa#belica_noun> <http://www.w3.org/2000/01/rdf-schema#label> "belica"@sl .
+<https://github.com/elexis-eu/mwsa#sense37> <http://www.w3.org/2004/02/skos/core#definition> "češnja belica |svetla češnja ali drevo, ki jo rodi|"@sl .
+<https://github.com/elexis-eu/mwsa#belica_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#belica_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense38> .
+<https://github.com/elexis-eu/mwsa#belica_noun> <http://www.w3.org/2000/01/rdf-schema#label> "belica"@sl .
+<https://github.com/elexis-eu/mwsa#sense38> <http://www.w3.org/2004/02/skos/core#definition> "belica |majhna srebrno bela sladkovodna riba|"@sl .
+<https://github.com/elexis-eu/mwsa#belou%C5%A1ka_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#belou%C5%A1ka_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense43> .
+<https://github.com/elexis-eu/mwsa#belou%C5%A1ka_noun> <http://www.w3.org/2000/01/rdf-schema#label> "belouška"@sl .
+<https://github.com/elexis-eu/mwsa#sense43> <http://www.w3.org/2004/02/skos/core#definition> "belouška |nestrupena kača z belo pego za ušesi|"@sl .
+<https://github.com/elexis-eu/mwsa#bezeg_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#bezeg_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense45> .
+<https://github.com/elexis-eu/mwsa#bezeg_noun> <http://www.w3.org/2000/01/rdf-schema#label> "bezeg"@sl .
+<https://github.com/elexis-eu/mwsa#sense45> <http://www.w3.org/2004/02/skos/core#definition> "bezeg |grm ali nizko drevo z zdravilnimi rumenkasto belimi cveti in črnimi jagodami|"@sl .
+<https://github.com/elexis-eu/mwsa#bezgov_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#bezgov_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense48> .
+<https://github.com/elexis-eu/mwsa#bezgov_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "bezgov"@sl .
+<https://github.com/elexis-eu/mwsa#sense48> <http://www.w3.org/2004/02/skos/core#definition> "bezgov |ki se nanaša na bezeg|"@sl .
+<https://github.com/elexis-eu/mwsa#brin_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#brin_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense52> .
+<https://github.com/elexis-eu/mwsa#brin_noun> <http://www.w3.org/2000/01/rdf-schema#label> "brin"@sl .
+<https://github.com/elexis-eu/mwsa#sense52> <http://www.w3.org/2004/02/skos/core#definition> "brin |zimzelen iglast grm z drobnimi jagodami|"@sl .
+<https://github.com/elexis-eu/mwsa#brinje_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#brinje_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense55> .
+<https://github.com/elexis-eu/mwsa#brinje_noun> <http://www.w3.org/2000/01/rdf-schema#label> "brinje"@sl .
+<https://github.com/elexis-eu/mwsa#sense55> <http://www.w3.org/2004/02/skos/core#definition> "brinje |brinovo grmovje|"@sl .
+<https://github.com/elexis-eu/mwsa#brinov_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#brinov_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense58> .
+<https://github.com/elexis-eu/mwsa#brinov_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "brinov"@sl .
+<https://github.com/elexis-eu/mwsa#sense58> <http://www.w3.org/2004/02/skos/core#definition> "brinov |ki se nanaša na brin|"@sl .
+<https://github.com/elexis-eu/mwsa#briti_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#briti_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense62> .
+<https://github.com/elexis-eu/mwsa#briti_verb> <http://www.w3.org/2000/01/rdf-schema#label> "briti"@sl .
+<https://github.com/elexis-eu/mwsa#sense62> <http://www.w3.org/2004/02/skos/core#definition> "|rezati dlake tik ob koži|"@sl .
+<https://github.com/elexis-eu/mwsa#briti_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#briti_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense63> .
+<https://github.com/elexis-eu/mwsa#briti_verb> <http://www.w3.org/2000/01/rdf-schema#label> "briti"@sl .
+<https://github.com/elexis-eu/mwsa#sense63> <http://www.w3.org/2004/02/skos/core#definition> "|ostro pihati|"@sl .
+<https://github.com/elexis-eu/mwsa#britof_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#britof_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense66> .
+<https://github.com/elexis-eu/mwsa#britof_noun> <http://www.w3.org/2000/01/rdf-schema#label> "britof"@sl .
+<https://github.com/elexis-eu/mwsa#sense66> <http://www.w3.org/2004/02/skos/core#definition> "pokopališče |navadno ograjen prostor za pokopavanje mrličev|"@sl .
+<https://github.com/elexis-eu/mwsa#bu%C4%8Da_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#bu%C4%8Da_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense68> .
+<https://github.com/elexis-eu/mwsa#bu%C4%8Da_noun> <http://www.w3.org/2000/01/rdf-schema#label> "buča"@sl .
+<https://github.com/elexis-eu/mwsa#sense68> <http://www.w3.org/2004/02/skos/core#definition> "buča |kulturna rastlina s plazečim se steblom ali njen debeli sad|"@sl .
+<https://github.com/elexis-eu/mwsa#bu%C4%8Da_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#bu%C4%8Da_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense69> .
+<https://github.com/elexis-eu/mwsa#bu%C4%8Da_noun> <http://www.w3.org/2000/01/rdf-schema#label> "buča"@sl .
+<https://github.com/elexis-eu/mwsa#sense69> <http://www.w3.org/2004/02/skos/core#definition> "[*buča], glava"@sl .
+<https://github.com/elexis-eu/mwsa#bu%C4%8Danje_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#bu%C4%8Danje_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense77> .
+<https://github.com/elexis-eu/mwsa#bu%C4%8Danje_noun> <http://www.w3.org/2000/01/rdf-schema#label> "bučanje"@sl .
+<https://github.com/elexis-eu/mwsa#sense77> <http://www.w3.org/2004/02/skos/core#definition> "bučanje |glagolnik od bučati|"@sl .
+<https://github.com/elexis-eu/mwsa#bu%C4%8Dati_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#bu%C4%8Dati_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense80> .
+<https://github.com/elexis-eu/mwsa#bu%C4%8Dati_verb> <http://www.w3.org/2000/01/rdf-schema#label> "bučati"@sl .
+<https://github.com/elexis-eu/mwsa#sense80> <http://www.w3.org/2004/02/skos/core#definition> "bučati |dajati močne, zamolkle glasove|"@sl .
+<https://github.com/elexis-eu/mwsa#bu%C4%8Dnica_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#bu%C4%8Dnica_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense87> .
+<https://github.com/elexis-eu/mwsa#bu%C4%8Dnica_noun> <http://www.w3.org/2000/01/rdf-schema#label> "bučnica"@sl .
+<https://github.com/elexis-eu/mwsa#sense87> <http://www.w3.org/2004/02/skos/core#definition> "bučnica |bučno seme|"@sl .
+<https://github.com/elexis-eu/mwsa#bula_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#bula_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense90> .
+<https://github.com/elexis-eu/mwsa#bula_noun> <http://www.w3.org/2000/01/rdf-schema#label> "bula"@sl .
+<https://github.com/elexis-eu/mwsa#sense90> <http://www.w3.org/2004/02/skos/core#definition> "bula |oteklina, nabreklina|"@sl .
+<https://github.com/elexis-eu/mwsa#cajtenge_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#cajtenge_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense96> .
+<https://github.com/elexis-eu/mwsa#cajtenge_noun> <http://www.w3.org/2000/01/rdf-schema#label> "cajtenge"@sl .
+<https://github.com/elexis-eu/mwsa#sense96> <http://www.w3.org/2004/02/skos/core#definition> "[*cajtenge], časopis"@sl .
+<https://github.com/elexis-eu/mwsa#cediti_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#cediti_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense98> .
+<https://github.com/elexis-eu/mwsa#cediti_verb> <http://www.w3.org/2000/01/rdf-schema#label> "cediti"@sl .
+<https://github.com/elexis-eu/mwsa#sense98> <http://www.w3.org/2004/02/skos/core#definition> "cediti, precejati"@sl .
+<https://github.com/elexis-eu/mwsa#crkniti_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#crkniti_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense103> .
+<https://github.com/elexis-eu/mwsa#crkniti_verb> <http://www.w3.org/2000/01/rdf-schema#label> "crkniti"@sl .
+<https://github.com/elexis-eu/mwsa#sense103> <http://www.w3.org/2004/02/skos/core#definition> "poginiti"@sl .
+<https://github.com/elexis-eu/mwsa#crkniti_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#crkniti_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense104> .
+<https://github.com/elexis-eu/mwsa#crkniti_verb> <http://www.w3.org/2000/01/rdf-schema#label> "crkniti"@sl .
+<https://github.com/elexis-eu/mwsa#sense104> <http://www.w3.org/2004/02/skos/core#definition> "umreti"@sl .
+<https://github.com/elexis-eu/mwsa#%C4%8Debela_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#%C4%8Debela_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense108> .
+<https://github.com/elexis-eu/mwsa#%C4%8Debela_noun> <http://www.w3.org/2000/01/rdf-schema#label> "čebela"@sl .
+<https://github.com/elexis-eu/mwsa#sense108> <http://www.w3.org/2004/02/skos/core#definition> "čebela |žuželka, ki daje med in vosek|"@sl .
+<https://github.com/elexis-eu/mwsa#%C4%8Desen_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#%C4%8Desen_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense110> .
+<https://github.com/elexis-eu/mwsa#%C4%8Desen_noun> <http://www.w3.org/2000/01/rdf-schema#label> "česen"@sl .
+<https://github.com/elexis-eu/mwsa#sense110> <http://www.w3.org/2004/02/skos/core#definition> "česen |začimbna rastlina z dolgimi ozkimi listi ali njeni iz strokov sestavljeni podzemeljski deli|"@sl .
+<https://github.com/elexis-eu/mwsa#%C4%8Dist_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#%C4%8Dist_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense113> .
+<https://github.com/elexis-eu/mwsa#%C4%8Dist_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "čist"@sl .
+<https://github.com/elexis-eu/mwsa#sense113> <http://www.w3.org/2004/02/skos/core#definition> "|ki je brez umazanije, prahu|"@sl .
+<https://github.com/elexis-eu/mwsa#%C4%8Dist_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#%C4%8Dist_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense114> .
+<https://github.com/elexis-eu/mwsa#%C4%8Dist_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "čist"@sl .
+<https://github.com/elexis-eu/mwsa#sense114> <http://www.w3.org/2004/02/skos/core#definition> "|ki je brez primesi|"@sl .
+<https://github.com/elexis-eu/mwsa#%C4%8Distiti_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#%C4%8Distiti_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense139> .
+<https://github.com/elexis-eu/mwsa#%C4%8Distiti_verb> <http://www.w3.org/2000/01/rdf-schema#label> "čistiti"@sl .
+<https://github.com/elexis-eu/mwsa#sense139> <http://www.w3.org/2004/02/skos/core#definition> "čistiti |odstranjevati umazanijo, prah|"@sl .
+<https://github.com/elexis-eu/mwsa#%C4%8Distiti_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#%C4%8Distiti_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense140> .
+<https://github.com/elexis-eu/mwsa#%C4%8Distiti_verb> <http://www.w3.org/2000/01/rdf-schema#label> "čistiti"@sl .
+<https://github.com/elexis-eu/mwsa#sense140> <http://www.w3.org/2004/02/skos/core#definition> "|odstranjevati pleve, smeti|"@sl .
+<https://github.com/elexis-eu/mwsa#%C4%8Disto%C4%8Da_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#%C4%8Disto%C4%8Da_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense146> .
+<https://github.com/elexis-eu/mwsa#%C4%8Disto%C4%8Da_noun> <http://www.w3.org/2000/01/rdf-schema#label> "čistoča"@sl .
+<https://github.com/elexis-eu/mwsa#sense146> <http://www.w3.org/2004/02/skos/core#definition> "čistoča |stanje brez umazanije, prahu|"@sl .
+<https://github.com/elexis-eu/mwsa#%C4%8Divkati_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#%C4%8Divkati_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense151> .
+<https://github.com/elexis-eu/mwsa#%C4%8Divkati_verb> <http://www.w3.org/2000/01/rdf-schema#label> "čivkati"@sl .
+<https://github.com/elexis-eu/mwsa#sense151> <http://www.w3.org/2004/02/skos/core#definition> "čivkati |oglašati se s kratkimi, visokimi glasovi|"@sl .
+<https://github.com/elexis-eu/mwsa#%C4%8Dmrlj_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#%C4%8Dmrlj_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense158> .
+<https://github.com/elexis-eu/mwsa#%C4%8Dmrlj_noun> <http://www.w3.org/2000/01/rdf-schema#label> "čmrlj"@sl .
+<https://github.com/elexis-eu/mwsa#sense158> <http://www.w3.org/2004/02/skos/core#definition> "čmrlj |čebeli podobna žuželka z debelim, kosmatim telesom|"@sl .
+<https://github.com/elexis-eu/mwsa#%C4%8Dutara_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#%C4%8Dutara_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense160> .
+<https://github.com/elexis-eu/mwsa#%C4%8Dutara_noun> <http://www.w3.org/2000/01/rdf-schema#label> "čutara"@sl .
+<https://github.com/elexis-eu/mwsa#sense160> <http://www.w3.org/2004/02/skos/core#definition> "čutara |ploščata, steklenici podobna okrogla posoda za nošenje pijače|"@sl .
+<https://github.com/elexis-eu/mwsa#da_conjuction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#da_conjuction> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense162> .
+<https://github.com/elexis-eu/mwsa#da_conjuction> <http://www.w3.org/2000/01/rdf-schema#label> "da"@sl .
+<https://github.com/elexis-eu/mwsa#sense162> <http://www.w3.org/2004/02/skos/core#definition> "da |za uvajanje stavka, ki dopolnjuje nadrednega"@sl .
+<https://github.com/elexis-eu/mwsa#da_conjuction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#da_conjuction> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense163> .
+<https://github.com/elexis-eu/mwsa#da_conjuction> <http://www.w3.org/2000/01/rdf-schema#label> "da"@sl .
+<https://github.com/elexis-eu/mwsa#sense163> <http://www.w3.org/2004/02/skos/core#definition> "da |za izražanje načina, kako poteka dejanje nadrednega stavka|"@sl .
+<https://github.com/elexis-eu/mwsa#da_conjuction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#da_conjuction> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense164> .
+<https://github.com/elexis-eu/mwsa#da_conjuction> <http://www.w3.org/2000/01/rdf-schema#label> "da"@sl .
+<https://github.com/elexis-eu/mwsa#sense164> <http://www.w3.org/2004/02/skos/core#definition> "da |za izražanje primerjave z dejanjem v nadrednem stavku|"@sl .
+<https://github.com/elexis-eu/mwsa#da_conjuction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#da_conjuction> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense165> .
+<https://github.com/elexis-eu/mwsa#da_conjuction> <http://www.w3.org/2000/01/rdf-schema#label> "da"@sl .
+<https://github.com/elexis-eu/mwsa#sense165> <http://www.w3.org/2004/02/skos/core#definition> "če bi"@sl .
+<https://github.com/elexis-eu/mwsa#da_conjuction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#da_conjuction> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense166> .
+<https://github.com/elexis-eu/mwsa#da_conjuction> <http://www.w3.org/2000/01/rdf-schema#label> "da"@sl .
+<https://github.com/elexis-eu/mwsa#sense166> <http://www.w3.org/2004/02/skos/core#definition> "za izražanje želje"@sl .
+<https://github.com/elexis-eu/mwsa#da_conjuction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#da_conjuction> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense167> .
+<https://github.com/elexis-eu/mwsa#da_conjuction> <http://www.w3.org/2000/01/rdf-schema#label> "da"@sl .
+<https://github.com/elexis-eu/mwsa#sense167> <http://www.w3.org/2004/02/skos/core#definition> "čeprav |za izražanje dejstva, kljub kateremu se dejanje nadrednega stavka uresniči|"@sl .
+<https://github.com/elexis-eu/mwsa#da_particle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#da_particle> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense189> .
+<https://github.com/elexis-eu/mwsa#da_particle> <http://www.w3.org/2000/01/rdf-schema#label> "da"@sl .
+<https://github.com/elexis-eu/mwsa#sense189> <http://www.w3.org/2004/02/skos/core#definition> "za izražanje naklonskosti"@sl .
+<https://github.com/elexis-eu/mwsa#da_particle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#da_particle> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense190> .
+<https://github.com/elexis-eu/mwsa#da_particle> <http://www.w3.org/2000/01/rdf-schema#label> "da"@sl .
+<https://github.com/elexis-eu/mwsa#sense190> <http://www.w3.org/2004/02/skos/core#definition> "za poudarjanje ugibanja"@sl .
+<https://github.com/elexis-eu/mwsa#da_particle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#da_particle> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense191> .
+<https://github.com/elexis-eu/mwsa#da_particle> <http://www.w3.org/2000/01/rdf-schema#label> "da"@sl .
+<https://github.com/elexis-eu/mwsa#sense191> <http://www.w3.org/2004/02/skos/core#definition> "za pritrditev povedanemu"@sl .
+<https://github.com/elexis-eu/mwsa#da_particle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#da_particle> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense192> .
+<https://github.com/elexis-eu/mwsa#da_particle> <http://www.w3.org/2000/01/rdf-schema#label> "da"@sl .
+<https://github.com/elexis-eu/mwsa#sense192> <http://www.w3.org/2004/02/skos/core#definition> "za poudarjanje povedanega"@sl .
+<https://github.com/elexis-eu/mwsa#dinar_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#dinar_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense199> .
+<https://github.com/elexis-eu/mwsa#dinar_noun> <http://www.w3.org/2000/01/rdf-schema#label> "dinar"@sl .
+<https://github.com/elexis-eu/mwsa#sense199> <http://www.w3.org/2004/02/skos/core#definition> "|denarna enota Jugoslavije in nekaterih drugih držav|"@sl .
+<https://github.com/elexis-eu/mwsa#dinar_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#dinar_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense200> .
+<https://github.com/elexis-eu/mwsa#dinar_noun> <http://www.w3.org/2000/01/rdf-schema#label> "dinar"@sl .
+<https://github.com/elexis-eu/mwsa#sense200> <http://www.w3.org/2004/02/skos/core#definition> "|kovanec v vrednosti te enote|"@sl .
+<https://github.com/elexis-eu/mwsa#dinar_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#dinar_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense201> .
+<https://github.com/elexis-eu/mwsa#dinar_noun> <http://www.w3.org/2000/01/rdf-schema#label> "dinar"@sl .
+<https://github.com/elexis-eu/mwsa#sense201> <http://www.w3.org/2004/02/skos/core#definition> "ljubi, fant"@sl .
+<https://github.com/elexis-eu/mwsa#dinar%C4%8Dek_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#dinar%C4%8Dek_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense206> .
+<https://github.com/elexis-eu/mwsa#dinar%C4%8Dek_noun> <http://www.w3.org/2000/01/rdf-schema#label> "dinarček"@sl .
+<https://github.com/elexis-eu/mwsa#sense206> <http://www.w3.org/2004/02/skos/core#definition> "dinarček |manjšalnica od dinar|"@sl .
+<https://github.com/elexis-eu/mwsa#dinar%C4%8Dek_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#dinar%C4%8Dek_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense207> .
+<https://github.com/elexis-eu/mwsa#dinar%C4%8Dek_noun> <http://www.w3.org/2000/01/rdf-schema#label> "dinarček"@sl .
+<https://github.com/elexis-eu/mwsa#sense207> <http://www.w3.org/2004/02/skos/core#definition> "ljubček, fant"@sl .
+<https://github.com/elexis-eu/mwsa#fajfa_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#fajfa_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense210> .
+<https://github.com/elexis-eu/mwsa#fajfa_noun> <http://www.w3.org/2000/01/rdf-schema#label> "fajfa"@sl .
+<https://github.com/elexis-eu/mwsa#sense210> <http://www.w3.org/2004/02/skos/core#definition> "pipa |priprava za kajenje|"@sl .
+<https://github.com/elexis-eu/mwsa#gabez_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#gabez_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense212> .
+<https://github.com/elexis-eu/mwsa#gabez_noun> <http://www.w3.org/2000/01/rdf-schema#label> "gabez"@sl .
+<https://github.com/elexis-eu/mwsa#sense212> <http://www.w3.org/2004/02/skos/core#definition> "gabez |dlakava rastlina z jajčastimi listi in lilastimi cveti|"@sl .
+<https://github.com/elexis-eu/mwsa#hektoliter_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#hektoliter_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense215> .
+<https://github.com/elexis-eu/mwsa#hektoliter_noun> <http://www.w3.org/2000/01/rdf-schema#label> "hektoliter"@sl .
+<https://github.com/elexis-eu/mwsa#sense215> <http://www.w3.org/2004/02/skos/core#definition> "hektoliter |prostorninska mera, 100 litrov|"@sl .
+<https://github.com/elexis-eu/mwsa#hov_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#hov_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense218> .
+<https://github.com/elexis-eu/mwsa#hov_noun> <http://www.w3.org/2000/01/rdf-schema#label> "hov"@sl .
+<https://github.com/elexis-eu/mwsa#sense218> <http://www.w3.org/2004/02/skos/core#definition> "hov |posnema pasji glas|"@sl .
+<https://github.com/elexis-eu/mwsa#hru%C5%A1ka_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#hru%C5%A1ka_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense221> .
+<https://github.com/elexis-eu/mwsa#hru%C5%A1ka_noun> <http://www.w3.org/2000/01/rdf-schema#label> "hruška"@sl .
+<https://github.com/elexis-eu/mwsa#sense221> <http://www.w3.org/2004/02/skos/core#definition> "hruška |sadno drevo ali njegov pečkati sad stožčaste oblike|"@sl .
+<https://github.com/elexis-eu/mwsa#hru%C5%A1kov_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#hru%C5%A1kov_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense225> .
+<https://github.com/elexis-eu/mwsa#hru%C5%A1kov_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "hruškov"@sl .
+<https://github.com/elexis-eu/mwsa#sense225> <http://www.w3.org/2004/02/skos/core#definition> "hruškov |ki nanaša se na hruško|"@sl .
+<https://github.com/elexis-eu/mwsa#jeti%C4%8Den_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#jeti%C4%8Den_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense230> .
+<https://github.com/elexis-eu/mwsa#jeti%C4%8Den_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "jetičen"@sl .
+<https://github.com/elexis-eu/mwsa#sense230> <http://www.w3.org/2004/02/skos/core#definition> "jetičen |ki ima jetiko|"@sl .
+<https://github.com/elexis-eu/mwsa#jetika_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#jetika_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense236> .
+<https://github.com/elexis-eu/mwsa#jetika_noun> <http://www.w3.org/2000/01/rdf-schema#label> "jetika"@sl .
+<https://github.com/elexis-eu/mwsa#sense236> <http://www.w3.org/2004/02/skos/core#definition> "jetika, tuberkuloza"@sl .
+<https://github.com/elexis-eu/mwsa#jetika_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#jetika_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense237> .
+<https://github.com/elexis-eu/mwsa#jetika_noun> <http://www.w3.org/2000/01/rdf-schema#label> "jetika"@sl .
+<https://github.com/elexis-eu/mwsa#sense237> <http://www.w3.org/2004/02/skos/core#definition> "[*jetika] |suh, slaboten človek, navadno siten|"@sl .
+<https://github.com/elexis-eu/mwsa#kateri_pronoun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#kateri_pronoun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense239> .
+<https://github.com/elexis-eu/mwsa#kateri_pronoun> <http://www.w3.org/2000/01/rdf-schema#label> "kateri"@sl .
+<https://github.com/elexis-eu/mwsa#sense239> <http://www.w3.org/2004/02/skos/core#definition> "|izraža vprašanje po izbiri osebe ali stvari iz določene vrste|"@sl .
+<https://github.com/elexis-eu/mwsa#kateri_pronoun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#kateri_pronoun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense240> .
+<https://github.com/elexis-eu/mwsa#kateri_pronoun> <http://www.w3.org/2000/01/rdf-schema#label> "kateri"@sl .
+<https://github.com/elexis-eu/mwsa#sense240> <http://www.w3.org/2004/02/skos/core#definition> "|izraža vprašanje po mestu v zapovrstju|"@sl .
+<https://github.com/elexis-eu/mwsa#kateri_pronoun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#kateri_pronoun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense241> .
+<https://github.com/elexis-eu/mwsa#kateri_pronoun> <http://www.w3.org/2000/01/rdf-schema#label> "kateri"@sl .
+<https://github.com/elexis-eu/mwsa#sense241> <http://www.w3.org/2004/02/skos/core#definition> "|izraža nedoločeno, poljubno osebo ali stvar iz določene vrste|"@sl .
+<https://github.com/elexis-eu/mwsa#kegljanje_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#kegljanje_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense244> .
+<https://github.com/elexis-eu/mwsa#kegljanje_noun> <http://www.w3.org/2000/01/rdf-schema#label> "kegljanje"@sl .
+<https://github.com/elexis-eu/mwsa#sense244> <http://www.w3.org/2004/02/skos/core#definition> "kegljanje |glagolnik od kegljati se|"@sl .
+<https://github.com/elexis-eu/mwsa#keglji%C5%A1%C4%8De_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#keglji%C5%A1%C4%8De_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense247> .
+<https://github.com/elexis-eu/mwsa#keglji%C5%A1%C4%8De_noun> <http://www.w3.org/2000/01/rdf-schema#label> "kegljišče"@sl .
+<https://github.com/elexis-eu/mwsa#sense247> <http://www.w3.org/2004/02/skos/core#definition> "kegljišče |igrišče za kegljanje|"@sl .
+<https://github.com/elexis-eu/mwsa#kikirikanje_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#kikirikanje_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense249> .
+<https://github.com/elexis-eu/mwsa#kikirikanje_noun> <http://www.w3.org/2000/01/rdf-schema#label> "kikirikanje"@sl .
+<https://github.com/elexis-eu/mwsa#sense249> <http://www.w3.org/2004/02/skos/core#definition> "kikirikanje |glagolnik od kikirikati|"@sl .
+<https://github.com/elexis-eu/mwsa#kikirikati_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#kikirikati_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense252> .
+<https://github.com/elexis-eu/mwsa#kikirikati_verb> <http://www.w3.org/2000/01/rdf-schema#label> "kikirikati"@sl .
+<https://github.com/elexis-eu/mwsa#sense252> <http://www.w3.org/2004/02/skos/core#definition> "kikirikati |oglašati se z glasom kikiriki|"@sl .
+<https://github.com/elexis-eu/mwsa#ko%C4%8Dnik_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#ko%C4%8Dnik_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense256> .
+<https://github.com/elexis-eu/mwsa#ko%C4%8Dnik_noun> <http://www.w3.org/2000/01/rdf-schema#label> "kočnik"@sl .
+<https://github.com/elexis-eu/mwsa#sense256> <http://www.w3.org/2004/02/skos/core#definition> "kočnik |zob v stranskem delu čeljusti za drobljenje, mletje hrane|"@sl .
+<https://github.com/elexis-eu/mwsa#kravjak_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#kravjak_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense258> .
+<https://github.com/elexis-eu/mwsa#kravjak_noun> <http://www.w3.org/2000/01/rdf-schema#label> "kravjak"@sl .
+<https://github.com/elexis-eu/mwsa#sense258> <http://www.w3.org/2004/02/skos/core#definition> "kravjak |goveji, zlasti kravji iztrebek|"@sl .
+<https://github.com/elexis-eu/mwsa#krepniti_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#krepniti_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense260> .
+<https://github.com/elexis-eu/mwsa#krepniti_verb> <http://www.w3.org/2000/01/rdf-schema#label> "krepniti"@sl .
+<https://github.com/elexis-eu/mwsa#sense260> <http://www.w3.org/2004/02/skos/core#definition> "poginiti"@sl .
+<https://github.com/elexis-eu/mwsa#krepniti_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#krepniti_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense261> .
+<https://github.com/elexis-eu/mwsa#krepniti_verb> <http://www.w3.org/2000/01/rdf-schema#label> "krepniti"@sl .
+<https://github.com/elexis-eu/mwsa#sense261> <http://www.w3.org/2004/02/skos/core#definition> "umreti"@sl .
+<https://github.com/elexis-eu/mwsa#krta%C4%8Da_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#krta%C4%8Da_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense265> .
+<https://github.com/elexis-eu/mwsa#krta%C4%8Da_noun> <http://www.w3.org/2000/01/rdf-schema#label> "krtača"@sl .
+<https://github.com/elexis-eu/mwsa#sense265> <http://www.w3.org/2004/02/skos/core#definition> "gradaše |priprava za česanje volne|"@sl .
+<https://github.com/elexis-eu/mwsa#krta%C4%8Denje_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#krta%C4%8Denje_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense268> .
+<https://github.com/elexis-eu/mwsa#krta%C4%8Denje_noun> <http://www.w3.org/2000/01/rdf-schema#label> "krtačenje"@sl .
+<https://github.com/elexis-eu/mwsa#sense268> <http://www.w3.org/2004/02/skos/core#definition> "gradašanje |glagolnik od krtačiti|"@sl .
+<https://github.com/elexis-eu/mwsa#krta%C4%8Diti_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#krta%C4%8Diti_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense272> .
+<https://github.com/elexis-eu/mwsa#krta%C4%8Diti_verb> <http://www.w3.org/2000/01/rdf-schema#label> "krtačiti"@sl .
+<https://github.com/elexis-eu/mwsa#sense272> <http://www.w3.org/2004/02/skos/core#definition> "gradašati |česati volno z gradašami|"@sl .
+<https://github.com/elexis-eu/mwsa#krvavica_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#krvavica_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense276> .
+<https://github.com/elexis-eu/mwsa#krvavica_noun> <http://www.w3.org/2000/01/rdf-schema#label> "krvavica"@sl .
+<https://github.com/elexis-eu/mwsa#sense276> <http://www.w3.org/2004/02/skos/core#definition> "krvavica, krvava klobasa |klobasa z nadevom, ki mu je primešana kri|"@sl .
+<https://github.com/elexis-eu/mwsa#kvakanje_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#kvakanje_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense278> .
+<https://github.com/elexis-eu/mwsa#kvakanje_noun> <http://www.w3.org/2000/01/rdf-schema#label> "kvakanje"@sl .
+<https://github.com/elexis-eu/mwsa#sense278> <http://www.w3.org/2004/02/skos/core#definition> "kvakanje |glagolnik od kvakati|"@sl .
+<https://github.com/elexis-eu/mwsa#kvakati_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#kvakati_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense282> .
+<https://github.com/elexis-eu/mwsa#kvakati_verb> <http://www.w3.org/2000/01/rdf-schema#label> "kvakati"@sl .
+<https://github.com/elexis-eu/mwsa#sense282> <http://www.w3.org/2004/02/skos/core#definition> "kvakati |oglašati se z glasom kva(k)|"@sl .
+<https://github.com/elexis-eu/mwsa#kvakati_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#kvakati_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense283> .
+<https://github.com/elexis-eu/mwsa#kvakati_verb> <http://www.w3.org/2000/01/rdf-schema#label> "kvakati"@sl .
+<https://github.com/elexis-eu/mwsa#sense283> <http://www.w3.org/2004/02/skos/core#definition> "dajati glasove kot voda pri močnem vretju"@sl .
+<https://github.com/elexis-eu/mwsa#lakirati_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#lakirati_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense287> .
+<https://github.com/elexis-eu/mwsa#lakirati_verb> <http://www.w3.org/2000/01/rdf-schema#label> "lakirati"@sl .
+<https://github.com/elexis-eu/mwsa#sense287> <http://www.w3.org/2004/02/skos/core#definition> "lakirati |prekrivati z lakom|"@sl .
+<https://github.com/elexis-eu/mwsa#livada_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#livada_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense291> .
+<https://github.com/elexis-eu/mwsa#livada_noun> <http://www.w3.org/2000/01/rdf-schema#label> "livada"@sl .
+<https://github.com/elexis-eu/mwsa#sense291> <http://www.w3.org/2004/02/skos/core#definition> "livada, travnik"@sl .
+<https://github.com/elexis-eu/mwsa#ma%C4%8Dek_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#ma%C4%8Dek_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense295> .
+<https://github.com/elexis-eu/mwsa#ma%C4%8Dek_noun> <http://www.w3.org/2000/01/rdf-schema#label> "maček"@sl .
+<https://github.com/elexis-eu/mwsa#sense295> <http://www.w3.org/2004/02/skos/core#definition> "|mačji samec|"@sl .
+<https://github.com/elexis-eu/mwsa#ma%C4%8Dek_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#ma%C4%8Dek_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense296> .
+<https://github.com/elexis-eu/mwsa#ma%C4%8Dek_noun> <http://www.w3.org/2000/01/rdf-schema#label> "maček"@sl .
+<https://github.com/elexis-eu/mwsa#sense296> <http://www.w3.org/2004/02/skos/core#definition> "|priprava z zobom, kavljem za zaviranje sani|"@sl .
+<https://github.com/elexis-eu/mwsa#ma%C4%8Dica_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#ma%C4%8Dica_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense302> .
+<https://github.com/elexis-eu/mwsa#ma%C4%8Dica_noun> <http://www.w3.org/2000/01/rdf-schema#label> "mačica"@sl .
+<https://github.com/elexis-eu/mwsa#sense302> <http://www.w3.org/2004/02/skos/core#definition> "mačica |manjšalnica od mačka /žival/|"@sl .
+<https://github.com/elexis-eu/mwsa#ma%C4%8Dica_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#ma%C4%8Dica_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense303> .
+<https://github.com/elexis-eu/mwsa#ma%C4%8Dica_noun> <http://www.w3.org/2000/01/rdf-schema#label> "mačica"@sl .
+<https://github.com/elexis-eu/mwsa#sense303> <http://www.w3.org/2004/02/skos/core#definition> "mačica |(vrbovo) socvetje v obliki podolgovate kepice ali vejica s takim socvetjem|"@sl .
+<https://github.com/elexis-eu/mwsa#ma%C4%8Dica_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#ma%C4%8Dica_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense304> .
+<https://github.com/elexis-eu/mwsa#ma%C4%8Dica_noun> <http://www.w3.org/2000/01/rdf-schema#label> "mačica"@sl .
+<https://github.com/elexis-eu/mwsa#sense304> <http://www.w3.org/2004/02/skos/core#definition> "okrasni trak z resicami, navadno ob spodnjem robu ženskega krila"@sl .
+<https://github.com/elexis-eu/mwsa#ma%C4%8Dji_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#ma%C4%8Dji_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense309> .
+<https://github.com/elexis-eu/mwsa#ma%C4%8Dji_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "mačji"@sl .
+<https://github.com/elexis-eu/mwsa#sense309> <http://www.w3.org/2004/02/skos/core#definition> "mačji |ki se nanaša na mačke|"@sl .
+<https://github.com/elexis-eu/mwsa#ma%C4%8Dka_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#ma%C4%8Dka_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense316> .
+<https://github.com/elexis-eu/mwsa#ma%C4%8Dka_noun> <http://www.w3.org/2000/01/rdf-schema#label> "mačka"@sl .
+<https://github.com/elexis-eu/mwsa#sense316> <http://www.w3.org/2004/02/skos/core#definition> "mačka |domača žival, ki lovi miši|"@sl .
+<https://github.com/elexis-eu/mwsa#ma%C4%8Dka_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#ma%C4%8Dka_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense317> .
+<https://github.com/elexis-eu/mwsa#ma%C4%8Dka_noun> <http://www.w3.org/2000/01/rdf-schema#label> "mačka"@sl .
+<https://github.com/elexis-eu/mwsa#sense317> <http://www.w3.org/2004/02/skos/core#definition> "katerokoli krzno, ki se nosi okrog vratu"@sl .
+<https://github.com/elexis-eu/mwsa#ma%C4%8Dkica_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#ma%C4%8Dkica_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense323> .
+<https://github.com/elexis-eu/mwsa#ma%C4%8Dkica_noun> <http://www.w3.org/2000/01/rdf-schema#label> "mačkica"@sl .
+<https://github.com/elexis-eu/mwsa#sense323> <http://www.w3.org/2004/02/skos/core#definition> "mačkica |manjšalnica od mačka /žival/|"@sl .
+<https://github.com/elexis-eu/mwsa#mi%C5%A1nica_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#mi%C5%A1nica_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense326> .
+<https://github.com/elexis-eu/mwsa#mi%C5%A1nica_noun> <http://www.w3.org/2000/01/rdf-schema#label> "mišnica"@sl .
+<https://github.com/elexis-eu/mwsa#sense326> <http://www.w3.org/2004/02/skos/core#definition> "mišnica |strup za miši|"@sl .
+<https://github.com/elexis-eu/mwsa#mi%C5%A1nica_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#mi%C5%A1nica_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense327> .
+<https://github.com/elexis-eu/mwsa#mi%C5%A1nica_noun> <http://www.w3.org/2000/01/rdf-schema#label> "mišnica"@sl .
+<https://github.com/elexis-eu/mwsa#sense327> <http://www.w3.org/2004/02/skos/core#definition> "slaboten, bledikav, boječ človek"@sl .
+<https://github.com/elexis-eu/mwsa#modras_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#modras_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense332> .
+<https://github.com/elexis-eu/mwsa#modras_noun> <http://www.w3.org/2000/01/rdf-schema#label> "modras"@sl .
+<https://github.com/elexis-eu/mwsa#sense332> <http://www.w3.org/2004/02/skos/core#definition> "modras |strupena kača z verigi podobnimi lisami po hrbtu in rožičkom na glavi|"@sl .
+<https://github.com/elexis-eu/mwsa#narcisa_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#narcisa_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense334> .
+<https://github.com/elexis-eu/mwsa#narcisa_noun> <http://www.w3.org/2000/01/rdf-schema#label> "narcisa"@sl .
+<https://github.com/elexis-eu/mwsa#sense334> <http://www.w3.org/2004/02/skos/core#definition> "narcisa |rastlina z dolgimi ozkimi listi in z zvezdastimi dišečimi, navadno belimi ali rumenimi cvetovi|"@sl .
+<https://github.com/elexis-eu/mwsa#obad_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#obad_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense336> .
+<https://github.com/elexis-eu/mwsa#obad_noun> <http://www.w3.org/2000/01/rdf-schema#label> "obad"@sl .
+<https://github.com/elexis-eu/mwsa#sense336> <http://www.w3.org/2004/02/skos/core#definition> "obad |velika, muhi podobna žuželka, ki sesa kri|"@sl .
+<https://github.com/elexis-eu/mwsa#obrasti_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#obrasti_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense338> .
+<https://github.com/elexis-eu/mwsa#obrasti_verb> <http://www.w3.org/2000/01/rdf-schema#label> "obrasti"@sl .
+<https://github.com/elexis-eu/mwsa#sense338> <http://www.w3.org/2004/02/skos/core#definition> "obrasti |rastoč biti, pojaviti se okrog česa|"@sl .
+<https://github.com/elexis-eu/mwsa#o%C4%8Dim_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#o%C4%8Dim_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense342> .
+<https://github.com/elexis-eu/mwsa#o%C4%8Dim_noun> <http://www.w3.org/2000/01/rdf-schema#label> "očim"@sl .
+<https://github.com/elexis-eu/mwsa#sense342> <http://www.w3.org/2004/02/skos/core#definition> "očim |materin drugi mož v razmerju do njenih otrok iz prejšnjega zakona|"@sl .
+<https://github.com/elexis-eu/mwsa#o%C4%8Distiti_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#o%C4%8Distiti_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense344> .
+<https://github.com/elexis-eu/mwsa#o%C4%8Distiti_verb> <http://www.w3.org/2000/01/rdf-schema#label> "očistiti"@sl .
+<https://github.com/elexis-eu/mwsa#sense344> <http://www.w3.org/2004/02/skos/core#definition> "|odstraniti umazanijo, prah|"@sl .
+<https://github.com/elexis-eu/mwsa#o%C4%8Distiti_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#o%C4%8Distiti_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense345> .
+<https://github.com/elexis-eu/mwsa#o%C4%8Distiti_verb> <http://www.w3.org/2000/01/rdf-schema#label> "očistiti"@sl .
+<https://github.com/elexis-eu/mwsa#sense345> <http://www.w3.org/2004/02/skos/core#definition> "otrebiti |odstraniti odvečno iz česa|"@sl .
+<https://github.com/elexis-eu/mwsa#opica_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#opica_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense352> .
+<https://github.com/elexis-eu/mwsa#opica_noun> <http://www.w3.org/2000/01/rdf-schema#label> "opica"@sl .
+<https://github.com/elexis-eu/mwsa#sense352> <http://www.w3.org/2004/02/skos/core#definition> "opica |umsko zelo razvita žival z oprijemalnimi sprednjimi in zadnjimi okončinami in z naprej obrnjenimi očmi|"@sl .
+<https://github.com/elexis-eu/mwsa#otro%C4%8Dnica_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#otro%C4%8Dnica_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense358> .
+<https://github.com/elexis-eu/mwsa#otro%C4%8Dnica_noun> <http://www.w3.org/2000/01/rdf-schema#label> "otročnica"@sl .
+<https://github.com/elexis-eu/mwsa#sense358> <http://www.w3.org/2004/02/skos/core#definition> "otročnica |ženska v prvih šest do osem tednih po porodu|"@sl .
+<https://github.com/elexis-eu/mwsa#o%C5%BEuliti_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#o%C5%BEuliti_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense360> .
+<https://github.com/elexis-eu/mwsa#o%C5%BEuliti_verb> <http://www.w3.org/2000/01/rdf-schema#label> "ožuliti"@sl .
+<https://github.com/elexis-eu/mwsa#sense360> <http://www.w3.org/2004/02/skos/core#definition> "|narediti, povzročiti žulj, žulje|"@sl .
+<https://github.com/elexis-eu/mwsa#o%C5%BEuliti_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#o%C5%BEuliti_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense361> .
+<https://github.com/elexis-eu/mwsa#o%C5%BEuliti_verb> <http://www.w3.org/2000/01/rdf-schema#label> "ožuliti"@sl .
+<https://github.com/elexis-eu/mwsa#sense361> <http://www.w3.org/2004/02/skos/core#definition> "|s tiščanjem, pritiskanjem poškodovati|"@sl .
+<https://github.com/elexis-eu/mwsa#pelerina_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#pelerina_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense363> .
+<https://github.com/elexis-eu/mwsa#pelerina_noun> <http://www.w3.org/2000/01/rdf-schema#label> "pelerina"@sl .
+<https://github.com/elexis-eu/mwsa#sense363> <http://www.w3.org/2004/02/skos/core#definition> "pelerina |vrhnje oblačilo brez rokavov, ki pokriva zgornji in spodnji del telesa|"@sl .
+<https://github.com/elexis-eu/mwsa#pizda_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#pizda_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense366> .
+<https://github.com/elexis-eu/mwsa#pizda_noun> <http://www.w3.org/2000/01/rdf-schema#label> "pizda"@sl .
+<https://github.com/elexis-eu/mwsa#sense366> <http://www.w3.org/2004/02/skos/core#definition> "|žensko spolovilo|"@sl .
+<https://github.com/elexis-eu/mwsa#pizda_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#pizda_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense367> .
+<https://github.com/elexis-eu/mwsa#pizda_noun> <http://www.w3.org/2000/01/rdf-schema#label> "pizda"@sl .
+<https://github.com/elexis-eu/mwsa#sense367> <http://www.w3.org/2004/02/skos/core#definition> "|ničvreden, slab človek|"@sl .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense370> .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "po"@sl .
+<https://github.com/elexis-eu/mwsa#sense370> <http://www.w3.org/2004/02/skos/core#definition> "|za izražanje neurejenega premikanja ali stanja "@sl .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense371> .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "po"@sl .
+<https://github.com/elexis-eu/mwsa#sense371> <http://www.w3.org/2004/02/skos/core#definition> "|za izražanje usmerjenega premikanja na površini česa podolžnega|"@sl .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense372> .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "po"@sl .
+<https://github.com/elexis-eu/mwsa#sense372> <http://www.w3.org/2004/02/skos/core#definition> "|za izražanje premikanja, usmerjenosti na površino predmeta|"@sl .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense373> .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "po"@sl .
+<https://github.com/elexis-eu/mwsa#sense373> <http://www.w3.org/2004/02/skos/core#definition> "|za izražanje premikanja z namenom, da se kaj pridobi, obdrži|, "@sl .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense374> .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "po"@sl .
+<https://github.com/elexis-eu/mwsa#sense374> <http://www.w3.org/2004/02/skos/core#definition> "|za izražanje (časovnega) zaporedja|"@sl .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense375> .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "po"@sl .
+<https://github.com/elexis-eu/mwsa#sense375> <http://www.w3.org/2004/02/skos/core#definition> "|za izražanje premikanja z določenim namenom|"@sl .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense376> .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "po"@sl .
+<https://github.com/elexis-eu/mwsa#sense376> <http://www.w3.org/2004/02/skos/core#definition> "|za izražanje usmerjenosti duševne dejavnosti k predmetu, ki je vir, izhodišče čustvovanja|"@sl .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense377> .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "po"@sl .
+<https://github.com/elexis-eu/mwsa#sense377> <http://www.w3.org/2004/02/skos/core#definition> "|za izražanje časa, trenutka, ki mu sledi dogajanje|"@sl .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense378> .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "po"@sl .
+<https://github.com/elexis-eu/mwsa#sense378> <http://www.w3.org/2004/02/skos/core#definition> "od |za izražanje povzročitelja|,"@sl .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense379> .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "po"@sl .
+<https://github.com/elexis-eu/mwsa#sense379> <http://www.w3.org/2004/02/skos/core#definition> "|za izražanje merila, vodila "@sl .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense380> .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "po"@sl .
+<https://github.com/elexis-eu/mwsa#sense380> <http://www.w3.org/2004/02/skos/core#definition> "|za izražanje sredstva, posrednika|"@sl .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense381> .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "po"@sl .
+<https://github.com/elexis-eu/mwsa#sense381> <http://www.w3.org/2004/02/skos/core#definition> "|za izražanje načina, kako dejanje poteka|"@sl .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense382> .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "po"@sl .
+<https://github.com/elexis-eu/mwsa#sense382> <http://www.w3.org/2004/02/skos/core#definition> "|za izražanje vzroka, zaradi katerega se kaj dogaja|"@sl .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense383> .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "po"@sl .
+<https://github.com/elexis-eu/mwsa#sense383> <http://www.w3.org/2004/02/skos/core#definition> "|za izražanje vira, izvora"@sl .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense384> .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "po"@sl .
+<https://github.com/elexis-eu/mwsa#sense384> <http://www.w3.org/2004/02/skos/core#definition> "|za izražanje premikanja z namenom, da pride oseba, stvar na cilju na izhodiščni položaj premikanja|"@sl .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense385> .
+<https://github.com/elexis-eu/mwsa#po_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "po"@sl .
+<https://github.com/elexis-eu/mwsa#sense385> <http://www.w3.org/2004/02/skos/core#definition> "|za izražanje cene|"@sl .
+<https://github.com/elexis-eu/mwsa#po%C4%8Distiti_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#po%C4%8Distiti_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense408> .
+<https://github.com/elexis-eu/mwsa#po%C4%8Distiti_verb> <http://www.w3.org/2000/01/rdf-schema#label> "počistiti"@sl .
+<https://github.com/elexis-eu/mwsa#sense408> <http://www.w3.org/2004/02/skos/core#definition> "počistiti |odstraniti umazanijo, prah|"@sl .
+<https://github.com/elexis-eu/mwsa#polkno_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#polkno_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense411> .
+<https://github.com/elexis-eu/mwsa#polkno_noun> <http://www.w3.org/2000/01/rdf-schema#label> "polkno"@sl .
+<https://github.com/elexis-eu/mwsa#sense411> <http://www.w3.org/2004/02/skos/core#definition> "[*polkno], naoknica, oknica"@sl .
+<https://github.com/elexis-eu/mwsa#pove%C4%8Derjati_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#pove%C4%8Derjati_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense413> .
+<https://github.com/elexis-eu/mwsa#pove%C4%8Derjati_verb> <http://www.w3.org/2000/01/rdf-schema#label> "povečerjati"@sl .
+<https://github.com/elexis-eu/mwsa#sense413> <http://www.w3.org/2004/02/skos/core#definition> "povečerjati |pojesti večerjo|"@sl .
+<https://github.com/elexis-eu/mwsa#precediti_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#precediti_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense416> .
+<https://github.com/elexis-eu/mwsa#precediti_verb> <http://www.w3.org/2000/01/rdf-schema#label> "precediti"@sl .
+<https://github.com/elexis-eu/mwsa#sense416> <http://www.w3.org/2004/02/skos/core#definition> "precediti |pretočiti skozi cedilo|"@sl .
+<https://github.com/elexis-eu/mwsa#prehlad_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#prehlad_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense420> .
+<https://github.com/elexis-eu/mwsa#prehlad_noun> <http://www.w3.org/2000/01/rdf-schema#label> "prehlad"@sl .
+<https://github.com/elexis-eu/mwsa#sense420> <http://www.w3.org/2004/02/skos/core#definition> "prehlad |vnetje sluznice, navadno na dihalih, z nekoliko povišano temperaturo|"@sl .
+<https://github.com/elexis-eu/mwsa#prehladiti%20se_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#prehladiti%20se_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense422> .
+<https://github.com/elexis-eu/mwsa#prehladiti%20se_verb> <http://www.w3.org/2000/01/rdf-schema#label> "prehladiti se"@sl .
+<https://github.com/elexis-eu/mwsa#sense422> <http://www.w3.org/2004/02/skos/core#definition> "prehladiti se |z ohladitvijo povzročiti vnetje sluznice, navadno na dihalih|"@sl .
+<https://github.com/elexis-eu/mwsa#presti_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#presti_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense427> .
+<https://github.com/elexis-eu/mwsa#presti_verb> <http://www.w3.org/2000/01/rdf-schema#label> "presti"@sl .
+<https://github.com/elexis-eu/mwsa#sense427> <http://www.w3.org/2004/02/skos/core#definition> "|z orodjem ali strojem oblikovati predivo v nit|"@sl .
+<https://github.com/elexis-eu/mwsa#presti_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#presti_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense428> .
+<https://github.com/elexis-eu/mwsa#presti_verb> <http://www.w3.org/2000/01/rdf-schema#label> "presti"@sl .
+<https://github.com/elexis-eu/mwsa#sense428> <http://www.w3.org/2004/02/skos/core#definition> "|delati pajčevino|"@sl .
+<https://github.com/elexis-eu/mwsa#presti_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#presti_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense429> .
+<https://github.com/elexis-eu/mwsa#presti_verb> <http://www.w3.org/2000/01/rdf-schema#label> "presti"@sl .
+<https://github.com/elexis-eu/mwsa#sense429> <http://www.w3.org/2004/02/skos/core#definition> "|oglašati se z mrmrajočim, brnenju podobnim glasom|"@sl .
+<https://github.com/elexis-eu/mwsa#radirati_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#radirati_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense437> .
+<https://github.com/elexis-eu/mwsa#radirati_verb> <http://www.w3.org/2000/01/rdf-schema#label> "radirati"@sl .
+<https://github.com/elexis-eu/mwsa#sense437> <http://www.w3.org/2004/02/skos/core#definition> "radirati |navadno z radirko brisati, odstranjevati napisano, narisano|"@sl .
+<https://github.com/elexis-eu/mwsa#radirka_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#radirka_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense442> .
+<https://github.com/elexis-eu/mwsa#radirka_noun> <http://www.w3.org/2000/01/rdf-schema#label> "radirka"@sl .
+<https://github.com/elexis-eu/mwsa#sense442> <http://www.w3.org/2004/02/skos/core#definition> "radirka |manjši izdelek, navadno iz gume, za brisanje, odstranjevanje napisanega, narisanega|"@sl .
+<https://github.com/elexis-eu/mwsa#sir_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#sir_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense445> .
+<https://github.com/elexis-eu/mwsa#sir_noun> <http://www.w3.org/2000/01/rdf-schema#label> "sir"@sl .
+<https://github.com/elexis-eu/mwsa#sense445> <http://www.w3.org/2004/02/skos/core#definition> "sir |živilski izdelek, ki se dobi z izločitvijo trdne snovi iz mleka in odstranitvijo odvečne vode|"@sl .
+<https://github.com/elexis-eu/mwsa#sir%C4%8Dek_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#sir%C4%8Dek_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense448> .
+<https://github.com/elexis-eu/mwsa#sir%C4%8Dek_noun> <http://www.w3.org/2000/01/rdf-schema#label> "sirček"@sl .
+<https://github.com/elexis-eu/mwsa#sense448> <http://www.w3.org/2004/02/skos/core#definition> "skuta |mehka snov, ki ostane po odstranitvi sirotke iz kislega mleka|"@sl .
+<https://github.com/elexis-eu/mwsa#sirek_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#sirek_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense451> .
+<https://github.com/elexis-eu/mwsa#sirek_noun> <http://www.w3.org/2000/01/rdf-schema#label> "sirek"@sl .
+<https://github.com/elexis-eu/mwsa#sense451> <http://www.w3.org/2004/02/skos/core#definition> "sirek |koruzi podobna kulturna rastlina z latastim socvetjem in drobnimi semeni ali njeno seme|"@sl .
+<https://github.com/elexis-eu/mwsa#sirkov_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#sirkov_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense455> .
+<https://github.com/elexis-eu/mwsa#sirkov_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "sirkov"@sl .
+<https://github.com/elexis-eu/mwsa#sense455> <http://www.w3.org/2004/02/skos/core#definition> "sirkov |ki se nanaša na sirek|"@sl .
+<https://github.com/elexis-eu/mwsa#sirov_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#sirov_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense459> .
+<https://github.com/elexis-eu/mwsa#sirov_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "sirov"@sl .
+<https://github.com/elexis-eu/mwsa#sense459> <http://www.w3.org/2004/02/skos/core#definition> "sirov |narejen s sirčkom|"@sl .
+<https://github.com/elexis-eu/mwsa#spresti_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#spresti_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense463> .
+<https://github.com/elexis-eu/mwsa#spresti_verb> <http://www.w3.org/2000/01/rdf-schema#label> "spresti"@sl .
+<https://github.com/elexis-eu/mwsa#sense463> <http://www.w3.org/2004/02/skos/core#definition> "spresti |z orodjem ali strojem izoblikovati predivo v nit|"@sl .
+<https://github.com/elexis-eu/mwsa#sr%C5%A1en_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#sr%C5%A1en_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense466> .
+<https://github.com/elexis-eu/mwsa#sr%C5%A1en_noun> <http://www.w3.org/2000/01/rdf-schema#label> "sršen"@sl .
+<https://github.com/elexis-eu/mwsa#sense466> <http://www.w3.org/2004/02/skos/core#definition> "sršen |velika, čebeli podobna žuželka z rjavo rdečimi progami po glavi in oprsju|"@sl .
+<https://github.com/elexis-eu/mwsa#stonoga_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#stonoga_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense468> .
+<https://github.com/elexis-eu/mwsa#stonoga_noun> <http://www.w3.org/2000/01/rdf-schema#label> "stonoga"@sl .
+<https://github.com/elexis-eu/mwsa#sense468> <http://www.w3.org/2004/02/skos/core#definition> "stonoga |kopenski členonožec s podolgovatim, členastim telesom|"@sl .
+<https://github.com/elexis-eu/mwsa#stric_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#stric_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense471> .
+<https://github.com/elexis-eu/mwsa#stric_noun> <http://www.w3.org/2000/01/rdf-schema#label> "stric"@sl .
+<https://github.com/elexis-eu/mwsa#sense471> <http://www.w3.org/2004/02/skos/core#definition> "|očetov brat|"@sl .
+<https://github.com/elexis-eu/mwsa#stric_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#stric_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense472> .
+<https://github.com/elexis-eu/mwsa#stric_noun> <http://www.w3.org/2000/01/rdf-schema#label> "stric"@sl .
+<https://github.com/elexis-eu/mwsa#sense472> <http://www.w3.org/2004/02/skos/core#definition> "|starejši znan moški|"@sl .
+<https://github.com/elexis-eu/mwsa#svak_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#svak_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense476> .
+<https://github.com/elexis-eu/mwsa#svak_noun> <http://www.w3.org/2000/01/rdf-schema#label> "svak"@sl .
+<https://github.com/elexis-eu/mwsa#sense476> <http://www.w3.org/2004/02/skos/core#definition> "svak |sestrin mož|"@sl .
+<https://github.com/elexis-eu/mwsa#svakinja_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#svakinja_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense478> .
+<https://github.com/elexis-eu/mwsa#svakinja_noun> <http://www.w3.org/2000/01/rdf-schema#label> "svakinja"@sl .
+<https://github.com/elexis-eu/mwsa#sense478> <http://www.w3.org/2004/02/skos/core#definition> "svakinja |bratova žena|"@sl .
+<https://github.com/elexis-eu/mwsa#%C5%A1ibra_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#%C5%A1ibra_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense480> .
+<https://github.com/elexis-eu/mwsa#%C5%A1ibra_noun> <http://www.w3.org/2000/01/rdf-schema#label> "šibra"@sl .
+<https://github.com/elexis-eu/mwsa#sense480> <http://www.w3.org/2004/02/skos/core#definition> "[*šibra], drobec, kos"@sl .
+<https://github.com/elexis-eu/mwsa#%C5%A1oja_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#%C5%A1oja_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense482> .
+<https://github.com/elexis-eu/mwsa#%C5%A1oja_noun> <http://www.w3.org/2000/01/rdf-schema#label> "šoja"@sl .
+<https://github.com/elexis-eu/mwsa#sense482> <http://www.w3.org/2004/02/skos/core#definition> "šoja |gozdna ptica z močnim kljunom in modrimi in črnimi črtastimi peresci na krilih|"@sl .
+<https://github.com/elexis-eu/mwsa#%C5%A1pilati_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#%C5%A1pilati_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense485> .
+<https://github.com/elexis-eu/mwsa#%C5%A1pilati_verb> <http://www.w3.org/2000/01/rdf-schema#label> "špilati"@sl .
+<https://github.com/elexis-eu/mwsa#sense485> <http://www.w3.org/2004/02/skos/core#definition> "|biti dejaven v določeni družabni igri|"@sl .
+<https://github.com/elexis-eu/mwsa#%C5%A1pilati_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#%C5%A1pilati_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense486> .
+<https://github.com/elexis-eu/mwsa#%C5%A1pilati_verb> <http://www.w3.org/2000/01/rdf-schema#label> "špilati"@sl .
+<https://github.com/elexis-eu/mwsa#sense486> <http://www.w3.org/2004/02/skos/core#definition> "|povzročati glasbo z glasbilom|"@sl .
+<https://github.com/elexis-eu/mwsa#talent_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#talent_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense498> .
+<https://github.com/elexis-eu/mwsa#talent_noun> <http://www.w3.org/2000/01/rdf-schema#label> "talent"@sl .
+<https://github.com/elexis-eu/mwsa#sense498> <http://www.w3.org/2004/02/skos/core#definition> "talent, dar |velika prirojena sposobnost za določeno umsko ali fizično dejavnost|"@sl .
+<https://github.com/elexis-eu/mwsa#talentiran_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#talentiran_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense502> .
+<https://github.com/elexis-eu/mwsa#talentiran_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "talentiran"@sl .
+<https://github.com/elexis-eu/mwsa#sense502> <http://www.w3.org/2004/02/skos/core#definition> "talentiran |posebno nadarjen za kaj|"@sl .
+<https://github.com/elexis-eu/mwsa#tav%C5%BEentro%C5%BEa_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#tav%C5%BEentro%C5%BEa_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense504> .
+<https://github.com/elexis-eu/mwsa#tav%C5%BEentro%C5%BEa_noun> <http://www.w3.org/2000/01/rdf-schema#label> "tavžentroža"@sl .
+<https://github.com/elexis-eu/mwsa#sense504> <http://www.w3.org/2004/02/skos/core#definition> "|zdravilna rastlina z drobnimi rožnatimi cveti|"@sl .
+<https://github.com/elexis-eu/mwsa#tav%C5%BEentro%C5%BEa_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#tav%C5%BEentro%C5%BEa_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense505> .
+<https://github.com/elexis-eu/mwsa#tav%C5%BEentro%C5%BEa_noun> <http://www.w3.org/2000/01/rdf-schema#label> "tavžentroža"@sl .
+<https://github.com/elexis-eu/mwsa#sense505> <http://www.w3.org/2004/02/skos/core#definition> "|posušeni deli te rastline|"@sl .
+<https://github.com/elexis-eu/mwsa#termofor_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#termofor_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense508> .
+<https://github.com/elexis-eu/mwsa#termofor_noun> <http://www.w3.org/2000/01/rdf-schema#label> "termofor"@sl .
+<https://github.com/elexis-eu/mwsa#sense508> <http://www.w3.org/2004/02/skos/core#definition> "termofor |blazini podobna grelna priprava, ki se napolni s toplo vodo|"@sl .
+<https://github.com/elexis-eu/mwsa#tropina_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#tropina_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense510> .
+<https://github.com/elexis-eu/mwsa#tropina_noun> <http://www.w3.org/2000/01/rdf-schema#label> "tropina"@sl .
+<https://github.com/elexis-eu/mwsa#sense510> <http://www.w3.org/2004/02/skos/core#definition> "tropina |kar ostane po iztisnjenju tekočine iz sadja|"@sl .
+<https://github.com/elexis-eu/mwsa#trot_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#trot_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense512> .
+<https://github.com/elexis-eu/mwsa#trot_noun> <http://www.w3.org/2000/01/rdf-schema#label> "trot"@sl .
+<https://github.com/elexis-eu/mwsa#sense512> <http://www.w3.org/2004/02/skos/core#definition> "trot |čebelji samec|"@sl .
+<https://github.com/elexis-eu/mwsa#ve%C4%8Derjati_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#ve%C4%8Derjati_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense515> .
+<https://github.com/elexis-eu/mwsa#ve%C4%8Derjati_verb> <http://www.w3.org/2000/01/rdf-schema#label> "večerjati"@sl .
+<https://github.com/elexis-eu/mwsa#sense515> <http://www.w3.org/2004/02/skos/core#definition> "večerjati |jesti večerjo|"@sl .
+<https://github.com/elexis-eu/mwsa#vidra_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#vidra_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense518> .
+<https://github.com/elexis-eu/mwsa#vidra_noun> <http://www.w3.org/2000/01/rdf-schema#label> "vidra"@sl .
+<https://github.com/elexis-eu/mwsa#sense518> <http://www.w3.org/2004/02/skos/core#definition> "vidra |ob vodah živeča roparska žival vitkega telesa in kratkih nog|"@sl .
+<https://github.com/elexis-eu/mwsa#vitamin_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#vitamin_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense520> .
+<https://github.com/elexis-eu/mwsa#vitamin_noun> <http://www.w3.org/2000/01/rdf-schema#label> "vitamin"@sl .
+<https://github.com/elexis-eu/mwsa#sense520> <http://www.w3.org/2004/02/skos/core#definition> "vitamin |organska snov, potrebna za rast in pravilno delovanje organizma|"@sl .
+<https://github.com/elexis-eu/mwsa#zabetonirati_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#zabetonirati_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense522> .
+<https://github.com/elexis-eu/mwsa#zabetonirati_verb> <http://www.w3.org/2000/01/rdf-schema#label> "zabetonirati"@sl .
+<https://github.com/elexis-eu/mwsa#sense522> <http://www.w3.org/2004/02/skos/core#definition> "zabetonirati |narediti stene, tla česa z betonom|"@sl .
+<https://github.com/elexis-eu/mwsa#zabu%C4%8Dati_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#zabu%C4%8Dati_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense527> .
+<https://github.com/elexis-eu/mwsa#zabu%C4%8Dati_verb> <http://www.w3.org/2000/01/rdf-schema#label> "zabučati"@sl .
+<https://github.com/elexis-eu/mwsa#sense527> <http://www.w3.org/2004/02/skos/core#definition> "zabučati |dati močne, zamolkle glasove|"@sl .
+<https://github.com/elexis-eu/mwsa#zobotrebec_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#zobotrebec_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense534> .
+<https://github.com/elexis-eu/mwsa#zobotrebec_noun> <http://www.w3.org/2000/01/rdf-schema#label> "zobotrebec"@sl .
+<https://github.com/elexis-eu/mwsa#sense534> <http://www.w3.org/2004/02/skos/core#definition> "zobotrebec |na obeh straneh priostrena, navadno lesena paličica za odstranjevanje ostankov hrane iz zobovja, za natikanje koščkov hrane|"@sl .
+<https://github.com/elexis-eu/mwsa#zradirati_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#zradirati_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense536> .
+<https://github.com/elexis-eu/mwsa#zradirati_verb> <http://www.w3.org/2000/01/rdf-schema#label> "zradirati"@sl .
+<https://github.com/elexis-eu/mwsa#sense536> <http://www.w3.org/2004/02/skos/core#definition> "zradirati |navadno z radirko zbrisati, odstraniti napisano, narisano|"@sl .
+<https://github.com/elexis-eu/mwsa#%C5%BEaba_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#%C5%BEaba_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense539> .
+<https://github.com/elexis-eu/mwsa#%C5%BEaba_noun> <http://www.w3.org/2000/01/rdf-schema#label> "žaba"@sl .
+<https://github.com/elexis-eu/mwsa#sense539> <http://www.w3.org/2004/02/skos/core#definition> "žaba |manjša dvoživka s široko glavo, širokim trupom in daljšimi zadnjimi okončinami|"@sl .
+<https://github.com/elexis-eu/mwsa#%C5%BEabica_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#%C5%BEabica_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense546> .
+<https://github.com/elexis-eu/mwsa#%C5%BEabica_noun> <http://www.w3.org/2000/01/rdf-schema#label> "žabica"@sl .
+<https://github.com/elexis-eu/mwsa#sense546> <http://www.w3.org/2004/02/skos/core#definition> "žabica |manjšalnica od žaba|"@sl .
+<https://github.com/elexis-eu/mwsa#%C5%BEabica_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#%C5%BEabica_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense547> .
+<https://github.com/elexis-eu/mwsa#%C5%BEabica_noun> <http://www.w3.org/2000/01/rdf-schema#label> "žabica"@sl .
+<https://github.com/elexis-eu/mwsa#sense547> <http://www.w3.org/2004/02/skos/core#definition> "bolezen goveda, ovc, za katero je značilno napenjanje, zaprtje"@sl .
+<https://github.com/elexis-eu/mwsa#%C5%BEabji_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#%C5%BEabji_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense556> .
+<https://github.com/elexis-eu/mwsa#%C5%BEabji_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "žabji"@sl .
+<https://github.com/elexis-eu/mwsa#sense556> <http://www.w3.org/2004/02/skos/core#definition> "žabji |ki se nanaša na žabe|"@sl .
+<https://github.com/elexis-eu/mwsa#%C5%BEajfa_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#%C5%BEajfa_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense560> .
+<https://github.com/elexis-eu/mwsa#%C5%BEajfa_noun> <http://www.w3.org/2000/01/rdf-schema#label> "žajfa"@sl .
+<https://github.com/elexis-eu/mwsa#sense560> <http://www.w3.org/2004/02/skos/core#definition> "[*žajfa], milo"@sl .
+<https://github.com/elexis-eu/mwsa#%C5%BEarek_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#%C5%BEarek_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense563> .
+<https://github.com/elexis-eu/mwsa#%C5%BEarek_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "žarek"@sl .
+<https://github.com/elexis-eu/mwsa#sense563> <http://www.w3.org/2004/02/skos/core#definition> "žarek |ki oddaja zelo močno svetlobo, toploto|"@sl .
+<https://github.com/elexis-eu/mwsa#%C5%BEolna_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#%C5%BEolna_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense569> .
+<https://github.com/elexis-eu/mwsa#%C5%BEolna_noun> <http://www.w3.org/2000/01/rdf-schema#label> "žolna"@sl .
+<https://github.com/elexis-eu/mwsa#sense569> <http://www.w3.org/2004/02/skos/core#definition> "žolna |ptica z močnim dletastim kljunom in nogami, prilagojenimi za plezanje po deblu|"@sl .
+<https://github.com/elexis-eu/mwsa#%C5%BEuliti_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#%C5%BEuliti_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense573> .
+<https://github.com/elexis-eu/mwsa#%C5%BEuliti_verb> <http://www.w3.org/2000/01/rdf-schema#label> "žuliti"@sl .
+<https://github.com/elexis-eu/mwsa#sense573> <http://www.w3.org/2004/02/skos/core#definition> "žuliti |delati, povzročati žulj, žulje|"@sl .
+<https://github.com/elexis-eu/mwsa#baba_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#baba_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense579> .
+<https://github.com/elexis-eu/mwsa#baba_noun> <http://www.w3.org/2000/01/rdf-schema#label> "baba"@sl .
+<https://github.com/elexis-eu/mwsa#sense579> <http://www.w3.org/2004/02/skos/core#definition> "[*baba] |stara ženska|"@sl .
+<https://github.com/elexis-eu/mwsa#baba_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#baba_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense580> .
+<https://github.com/elexis-eu/mwsa#baba_noun> <http://www.w3.org/2000/01/rdf-schema#label> "baba"@sl .
+<https://github.com/elexis-eu/mwsa#sense580> <http://www.w3.org/2004/02/skos/core#definition> "[*baba] |nezanesljiv, strahopeten moški|"@sl .
+<https://github.com/elexis-eu/mwsa#baba_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#baba_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense581> .
+<https://github.com/elexis-eu/mwsa#baba_noun> <http://www.w3.org/2000/01/rdf-schema#label> "baba"@sl .
+<https://github.com/elexis-eu/mwsa#sense581> <http://www.w3.org/2004/02/skos/core#definition> "debelejši oporni steber pri mostu"@sl .
+<https://github.com/elexis-eu/mwsa#baba_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#baba_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense582> .
+<https://github.com/elexis-eu/mwsa#baba_noun> <http://www.w3.org/2000/01/rdf-schema#label> "baba"@sl .
+<https://github.com/elexis-eu/mwsa#sense582> <http://www.w3.org/2004/02/skos/core#definition> "oporni del zidu pri hiši"@sl .
+<https://github.com/elexis-eu/mwsa#baba_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#baba_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense583> .
+<https://github.com/elexis-eu/mwsa#baba_noun> <http://www.w3.org/2000/01/rdf-schema#label> "baba"@sl .
+<https://github.com/elexis-eu/mwsa#sense583> <http://www.w3.org/2004/02/skos/core#definition> "kopa (koruznice, fižolovih prekel)"@sl .
+<https://github.com/elexis-eu/mwsa#babjak_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#babjak_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense587> .
+<https://github.com/elexis-eu/mwsa#babjak_noun> <http://www.w3.org/2000/01/rdf-schema#label> "babjak"@sl .
+<https://github.com/elexis-eu/mwsa#sense587> <http://www.w3.org/2004/02/skos/core#definition> "babjak, ženskar"@sl .
+<https://github.com/elexis-eu/mwsa#cedilo_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#cedilo_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense589> .
+<https://github.com/elexis-eu/mwsa#cedilo_noun> <http://www.w3.org/2000/01/rdf-schema#label> "cedilo"@sl .
+<https://github.com/elexis-eu/mwsa#sense589> <http://www.w3.org/2004/02/skos/core#definition> "cedilo |luknjičasta priprava za precejanje tekočin|"@sl .
+<https://github.com/elexis-eu/mwsa#%C4%8Deljust_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#%C4%8Deljust_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense591> .
+<https://github.com/elexis-eu/mwsa#%C4%8Deljust_noun> <http://www.w3.org/2000/01/rdf-schema#label> "čeljust"@sl .
+<https://github.com/elexis-eu/mwsa#sense591> <http://www.w3.org/2004/02/skos/core#definition> "čeljust |del obraza, v katerem so vraščeni zobje|"@sl .
+<https://github.com/elexis-eu/mwsa#flek_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#flek_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense595> .
+<https://github.com/elexis-eu/mwsa#flek_noun> <http://www.w3.org/2000/01/rdf-schema#label> "flek"@sl .
+<https://github.com/elexis-eu/mwsa#sense595> <http://www.w3.org/2004/02/skos/core#definition> "madež, zlasti od masti, olja"@sl .
+<https://github.com/elexis-eu/mwsa#flek_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#flek_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense596> .
+<https://github.com/elexis-eu/mwsa#flek_noun> <http://www.w3.org/2000/01/rdf-schema#label> "flek"@sl .
+<https://github.com/elexis-eu/mwsa#sense596> <http://www.w3.org/2004/02/skos/core#definition> "krpa, zaplata"@sl .
+<https://github.com/elexis-eu/mwsa#grapa_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#grapa_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense599> .
+<https://github.com/elexis-eu/mwsa#grapa_noun> <http://www.w3.org/2000/01/rdf-schema#label> "grapa"@sl .
+<https://github.com/elexis-eu/mwsa#sense599> <http://www.w3.org/2004/02/skos/core#definition> "grapa |jarek, ki ga je strmo v breg naredila voda|"@sl .
+<https://github.com/elexis-eu/mwsa#kapnik_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#kapnik_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense602> .
+<https://github.com/elexis-eu/mwsa#kapnik_noun> <http://www.w3.org/2000/01/rdf-schema#label> "kapnik"@sl .
+<https://github.com/elexis-eu/mwsa#sense602> <http://www.w3.org/2004/02/skos/core#definition> "kapnik |podolgovata tvorba v kraških jamah, nastala s kristalizacijo raztopljenih rudnin|"@sl .
+<https://github.com/elexis-eu/mwsa#kardinal_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#kardinal_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense605> .
+<https://github.com/elexis-eu/mwsa#kardinal_noun> <http://www.w3.org/2000/01/rdf-schema#label> "kardinal"@sl .
+<https://github.com/elexis-eu/mwsa#sense605> <http://www.w3.org/2004/02/skos/core#definition> "kardinal |najvišji dostojanstvenik v Rimskokatoliški cerkvi|"@sl .
+<https://github.com/elexis-eu/mwsa#naduha_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#naduha_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense607> .
+<https://github.com/elexis-eu/mwsa#naduha_noun> <http://www.w3.org/2000/01/rdf-schema#label> "naduha"@sl .
+<https://github.com/elexis-eu/mwsa#sense607> <http://www.w3.org/2004/02/skos/core#definition> "naduha, astma"@sl .
+<https://github.com/elexis-eu/mwsa#plitek_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#plitek_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense609> .
+<https://github.com/elexis-eu/mwsa#plitek_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "plitek"@sl .
+<https://github.com/elexis-eu/mwsa#sense609> <http://www.w3.org/2004/02/skos/core#definition> "plitek, plitev |ki ima v navpični smeri navzdol razmeroma majhno razsežnost|"@sl .
+<https://github.com/elexis-eu/mwsa#polenta_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#polenta_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense619> .
+<https://github.com/elexis-eu/mwsa#polenta_noun> <http://www.w3.org/2000/01/rdf-schema#label> "polenta"@sl .
+<https://github.com/elexis-eu/mwsa#sense619> <http://www.w3.org/2004/02/skos/core#definition> "polenta |gosta jed iz zdroba, zlasti iz koruznega, in vode|"@sl .
+<https://github.com/elexis-eu/mwsa#ponev_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#ponev_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense622> .
+<https://github.com/elexis-eu/mwsa#ponev_noun> <http://www.w3.org/2000/01/rdf-schema#label> "ponev"@sl .
+<https://github.com/elexis-eu/mwsa#sense622> <http://www.w3.org/2004/02/skos/core#definition> "ponev |nizka okrogla posoda za pečenje, cvrenje, navadno z dolgim ročajem|"@sl .
+<https://github.com/elexis-eu/mwsa#razoglav_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#razoglav_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense625> .
+<https://github.com/elexis-eu/mwsa#razoglav_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "razoglav"@sl .
+<https://github.com/elexis-eu/mwsa#sense625> <http://www.w3.org/2004/02/skos/core#definition> "razoglav |ki je brez pokrivala|"@sl .
+<https://github.com/elexis-eu/mwsa#stri%C4%8Dev_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#stri%C4%8Dev_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense627> .
+<https://github.com/elexis-eu/mwsa#stri%C4%8Dev_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "stričev"@sl .
+<https://github.com/elexis-eu/mwsa#sense627> <http://www.w3.org/2004/02/skos/core#definition> "stričev |ki se nanaša na strica|"@sl .
+<https://github.com/elexis-eu/mwsa#za%C5%A1kripati_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#za%C5%A1kripati_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense630> .
+<https://github.com/elexis-eu/mwsa#za%C5%A1kripati_verb> <http://www.w3.org/2000/01/rdf-schema#label> "zaškripati"@sl .
+<https://github.com/elexis-eu/mwsa#sense630> <http://www.w3.org/2004/02/skos/core#definition> "zaškripati |zaradi trenja, drgnjenja dati kratke, visoke glasove|"@sl .
+<https://github.com/elexis-eu/mwsa#%C5%BEajfnica_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#%C5%BEajfnica_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense633> .
+<https://github.com/elexis-eu/mwsa#%C5%BEajfnica_noun> <http://www.w3.org/2000/01/rdf-schema#label> "žajfnica"@sl .
+<https://github.com/elexis-eu/mwsa#sense633> <http://www.w3.org/2004/02/skos/core#definition> "[*žajfnica], milnica |raztopina mila v vodi|"@sl .

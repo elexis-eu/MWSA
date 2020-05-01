@@ -1,0 +1,1256 @@
+<https://github.com/elexis-eu/mwsa#banco_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#banco_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense1> .
+<https://github.com/elexis-eu/mwsa#banco_noun> <http://www.w3.org/2000/01/rdf-schema#label> "banco"@pt .
+<https://github.com/elexis-eu/mwsa#sense1> <http://www.w3.org/2004/02/skos/core#definition> "Assento, geralmente tosco, de ferro, madeira ou pedra, e de formas variadas."@pt .
+<https://github.com/elexis-eu/mwsa#banco_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#banco_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense2> .
+<https://github.com/elexis-eu/mwsa#banco_noun> <http://www.w3.org/2000/01/rdf-schema#label> "banco"@pt .
+<https://github.com/elexis-eu/mwsa#sense2> <http://www.w3.org/2004/02/skos/core#definition> "Escabelo."@pt .
+<https://github.com/elexis-eu/mwsa#banco_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#banco_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense3> .
+<https://github.com/elexis-eu/mwsa#banco_noun> <http://www.w3.org/2000/01/rdf-schema#label> "banco"@pt .
+<https://github.com/elexis-eu/mwsa#sense3> <http://www.w3.org/2004/02/skos/core#definition> "Mesa estreita e oblonga, sobre que trabalham certos artífices."@pt .
+<https://github.com/elexis-eu/mwsa#banco_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#banco_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense4> .
+<https://github.com/elexis-eu/mwsa#banco_noun> <http://www.w3.org/2000/01/rdf-schema#label> "banco"@pt .
+<https://github.com/elexis-eu/mwsa#sense4> <http://www.w3.org/2004/02/skos/core#definition> "Balcão de comércio."@pt .
+<https://github.com/elexis-eu/mwsa#banco_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#banco_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense5> .
+<https://github.com/elexis-eu/mwsa#banco_noun> <http://www.w3.org/2000/01/rdf-schema#label> "banco"@pt .
+<https://github.com/elexis-eu/mwsa#sense5> <http://www.w3.org/2004/02/skos/core#definition> "Baixio."@pt .
+<https://github.com/elexis-eu/mwsa#banco_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#banco_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense6> .
+<https://github.com/elexis-eu/mwsa#banco_noun> <http://www.w3.org/2000/01/rdf-schema#label> "banco"@pt .
+<https://github.com/elexis-eu/mwsa#sense6> <http://www.w3.org/2004/02/skos/core#definition> "Camada de pedra, numa pedreira."@pt .
+<https://github.com/elexis-eu/mwsa#banco_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#banco_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense7> .
+<https://github.com/elexis-eu/mwsa#banco_noun> <http://www.w3.org/2000/01/rdf-schema#label> "banco"@pt .
+<https://github.com/elexis-eu/mwsa#sense7> <http://www.w3.org/2004/02/skos/core#definition> "Sede."@pt .
+<https://github.com/elexis-eu/mwsa#banco_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#banco_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense8> .
+<https://github.com/elexis-eu/mwsa#banco_noun> <http://www.w3.org/2000/01/rdf-schema#label> "banco"@pt .
+<https://github.com/elexis-eu/mwsa#sense8> <http://www.w3.org/2004/02/skos/core#definition> "Tábua, em que se assentam os remadores."@pt .
+<https://github.com/elexis-eu/mwsa#banco_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#banco_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense9> .
+<https://github.com/elexis-eu/mwsa#banco_noun> <http://www.w3.org/2000/01/rdf-schema#label> "banco"@pt .
+<https://github.com/elexis-eu/mwsa#sense9> <http://www.w3.org/2004/02/skos/core#definition> "Compartimento hospitalar, onde se recebem os consulentes externos: o ferido foi curar-se ao banco do hospital."@pt .
+<https://github.com/elexis-eu/mwsa#banco_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#banco_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense10> .
+<https://github.com/elexis-eu/mwsa#banco_noun> <http://www.w3.org/2000/01/rdf-schema#label> "banco"@pt .
+<https://github.com/elexis-eu/mwsa#sense10> <http://www.w3.org/2004/02/skos/core#definition> "Estabelecimento de crédito, para transacções de fundos públicos ou particulares"@pt .
+<https://github.com/elexis-eu/mwsa#banco_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#banco_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense11> .
+<https://github.com/elexis-eu/mwsa#banco_noun> <http://www.w3.org/2000/01/rdf-schema#label> "banco"@pt .
+<https://github.com/elexis-eu/mwsa#sense11> <http://www.w3.org/2004/02/skos/core#definition> "Edifício, onde se realizam essas transacções"@pt .
+<https://github.com/elexis-eu/mwsa#bandarilha_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#bandarilha_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense32> .
+<https://github.com/elexis-eu/mwsa#bandarilha_noun> <http://www.w3.org/2000/01/rdf-schema#label> "bandarilha"@pt .
+<https://github.com/elexis-eu/mwsa#sense32> <http://www.w3.org/2004/02/skos/core#definition> "Farpa, enfeitada com bandeiras ou fitas, e destinada a cravar-se no cachaço dos toiros, quando se correm."@pt .
+<https://github.com/elexis-eu/mwsa#caf%C3%A9_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#caf%C3%A9_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense35> .
+<https://github.com/elexis-eu/mwsa#caf%C3%A9_noun> <http://www.w3.org/2000/01/rdf-schema#label> "café"@pt .
+<https://github.com/elexis-eu/mwsa#sense35> <http://www.w3.org/2004/02/skos/core#definition> "Semente de cafezeiro."@pt .
+<https://github.com/elexis-eu/mwsa#caf%C3%A9_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#caf%C3%A9_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense36> .
+<https://github.com/elexis-eu/mwsa#caf%C3%A9_noun> <http://www.w3.org/2000/01/rdf-schema#label> "café"@pt .
+<https://github.com/elexis-eu/mwsa#sense36> <http://www.w3.org/2004/02/skos/core#definition> "Infusão dessa semente, depois de torrada e moída."@pt .
+<https://github.com/elexis-eu/mwsa#caf%C3%A9_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#caf%C3%A9_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense37> .
+<https://github.com/elexis-eu/mwsa#caf%C3%A9_noun> <http://www.w3.org/2000/01/rdf-schema#label> "café"@pt .
+<https://github.com/elexis-eu/mwsa#sense37> <http://www.w3.org/2004/02/skos/core#definition> "Estabelecimento, em que se toma café e outras bebidas; botequim."@pt .
+<https://github.com/elexis-eu/mwsa#caf%C3%A9_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#caf%C3%A9_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense38> .
+<https://github.com/elexis-eu/mwsa#caf%C3%A9_noun> <http://www.w3.org/2000/01/rdf-schema#label> "café"@pt .
+<https://github.com/elexis-eu/mwsa#sense38> <http://www.w3.org/2004/02/skos/core#definition> "Cafeeiro."@pt .
+<https://github.com/elexis-eu/mwsa#computador_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#computador_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense46> .
+<https://github.com/elexis-eu/mwsa#computador_noun> <http://www.w3.org/2000/01/rdf-schema#label> "computador"@pt .
+<https://github.com/elexis-eu/mwsa#sense46> <http://www.w3.org/2004/02/skos/core#definition> "Aquele que faz cômputos, que calcula."@pt .
+<https://github.com/elexis-eu/mwsa#dicion%C3%A1rio_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#dicion%C3%A1rio_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense49> .
+<https://github.com/elexis-eu/mwsa#dicion%C3%A1rio_noun> <http://www.w3.org/2000/01/rdf-schema#label> "dicionário"@pt .
+<https://github.com/elexis-eu/mwsa#sense49> <http://www.w3.org/2004/02/skos/core#definition> "Colecção alfabetada dos vocábulos de uma língua, ou dos termos próprios de uma ciência ou arte, com a significação deles, ou com a sua tradução em outra língua."@pt .
+<https://github.com/elexis-eu/mwsa#lexicografia_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#lexicografia_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense53> .
+<https://github.com/elexis-eu/mwsa#lexicografia_noun> <http://www.w3.org/2000/01/rdf-schema#label> "lexicografia"@pt .
+<https://github.com/elexis-eu/mwsa#sense53> <http://www.w3.org/2004/02/skos/core#definition> "Ciência ou estudo, que tem por objecto as palavras que devem constituir um léxico."@pt .
+<https://github.com/elexis-eu/mwsa#mililitro_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#mililitro_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense55> .
+<https://github.com/elexis-eu/mwsa#mililitro_noun> <http://www.w3.org/2000/01/rdf-schema#label> "mililitro"@pt .
+<https://github.com/elexis-eu/mwsa#sense55> <http://www.w3.org/2004/02/skos/core#definition> "A milésima parte do litro."@pt .
+<https://github.com/elexis-eu/mwsa#sorridente_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#sorridente_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense57> .
+<https://github.com/elexis-eu/mwsa#sorridente_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "sorridente"@pt .
+<https://github.com/elexis-eu/mwsa#sense57> <http://www.w3.org/2004/02/skos/core#definition> "Que sorri; prazenteiro; alegre; amável."@pt .
+<https://github.com/elexis-eu/mwsa#tripeiro_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#tripeiro_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense61> .
+<https://github.com/elexis-eu/mwsa#tripeiro_noun> <http://www.w3.org/2000/01/rdf-schema#label> "tripeiro"@pt .
+<https://github.com/elexis-eu/mwsa#sense61> <http://www.w3.org/2004/02/skos/core#definition> "Vendedor de tripas."@pt .
+<https://github.com/elexis-eu/mwsa#tripeiro_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#tripeiro_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense62> .
+<https://github.com/elexis-eu/mwsa#tripeiro_noun> <http://www.w3.org/2000/01/rdf-schema#label> "tripeiro"@pt .
+<https://github.com/elexis-eu/mwsa#sense62> <http://www.w3.org/2004/02/skos/core#definition> "Aquele que se sustenta de tripas."@pt .
+<https://github.com/elexis-eu/mwsa#tripeiro_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#tripeiro_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense63> .
+<https://github.com/elexis-eu/mwsa#tripeiro_noun> <http://www.w3.org/2000/01/rdf-schema#label> "tripeiro"@pt .
+<https://github.com/elexis-eu/mwsa#sense63> <http://www.w3.org/2004/02/skos/core#definition> "Deprec. Habitante do Porto."@pt .
+<https://github.com/elexis-eu/mwsa#especial_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especial_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense67> .
+<https://github.com/elexis-eu/mwsa#especial_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "especial"@pt .
+<https://github.com/elexis-eu/mwsa#sense67> <http://www.w3.org/2004/02/skos/core#definition> "Relativo a uma espécie."@pt .
+<https://github.com/elexis-eu/mwsa#especial_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especial_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense68> .
+<https://github.com/elexis-eu/mwsa#especial_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "especial"@pt .
+<https://github.com/elexis-eu/mwsa#sense68> <http://www.w3.org/2004/02/skos/core#definition> "Próprio."@pt .
+<https://github.com/elexis-eu/mwsa#especial_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especial_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense69> .
+<https://github.com/elexis-eu/mwsa#especial_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "especial"@pt .
+<https://github.com/elexis-eu/mwsa#sense69> <http://www.w3.org/2004/02/skos/core#definition> "Peculiar."@pt .
+<https://github.com/elexis-eu/mwsa#especial_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especial_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense70> .
+<https://github.com/elexis-eu/mwsa#especial_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "especial"@pt .
+<https://github.com/elexis-eu/mwsa#sense70> <http://www.w3.org/2004/02/skos/core#definition> "Particular."@pt .
+<https://github.com/elexis-eu/mwsa#especial_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especial_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense71> .
+<https://github.com/elexis-eu/mwsa#especial_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "especial"@pt .
+<https://github.com/elexis-eu/mwsa#sense71> <http://www.w3.org/2004/02/skos/core#definition> "Exclusivo."@pt .
+<https://github.com/elexis-eu/mwsa#especial_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especial_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense72> .
+<https://github.com/elexis-eu/mwsa#especial_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "especial"@pt .
+<https://github.com/elexis-eu/mwsa#sense72> <http://www.w3.org/2004/02/skos/core#definition> "Superior, distinto."@pt .
+<https://github.com/elexis-eu/mwsa#especialidade%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especialidade%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense83> .
+<https://github.com/elexis-eu/mwsa#especialidade%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "especialidade "@pt .
+<https://github.com/elexis-eu/mwsa#sense83> <http://www.w3.org/2004/02/skos/core#definition> "Qualidade daquilo que é especial."@pt .
+<https://github.com/elexis-eu/mwsa#especialidade%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especialidade%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense84> .
+<https://github.com/elexis-eu/mwsa#especialidade%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "especialidade "@pt .
+<https://github.com/elexis-eu/mwsa#sense84> <http://www.w3.org/2004/02/skos/core#definition> "Coisa superior, distinta: este queijo é uma especialidade."@pt .
+<https://github.com/elexis-eu/mwsa#especialidade%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especialidade%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense85> .
+<https://github.com/elexis-eu/mwsa#especialidade%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "especialidade "@pt .
+<https://github.com/elexis-eu/mwsa#sense85> <http://www.w3.org/2004/02/skos/core#definition> "Ordem de trabalhos, a que alguém se dedica com particular cuidado"@pt .
+<https://github.com/elexis-eu/mwsa#especialista_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especialista_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense94> .
+<https://github.com/elexis-eu/mwsa#especialista_noun> <http://www.w3.org/2000/01/rdf-schema#label> "especialista"@pt .
+<https://github.com/elexis-eu/mwsa#sense94> <http://www.w3.org/2004/02/skos/core#definition> "O que se dedica com particular cuidado a certo estudo ou profissão"@pt .
+<https://github.com/elexis-eu/mwsa#especializa%C3%A7%C3%A3o_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especializa%C3%A7%C3%A3o_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense99> .
+<https://github.com/elexis-eu/mwsa#especializa%C3%A7%C3%A3o_noun> <http://www.w3.org/2000/01/rdf-schema#label> "especialização"@pt .
+<https://github.com/elexis-eu/mwsa#sense99> <http://www.w3.org/2004/02/skos/core#definition> "Acto ou efeito de especializar."@pt .
+<https://github.com/elexis-eu/mwsa#especialmente_adverb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especialmente_adverb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense104> .
+<https://github.com/elexis-eu/mwsa#especialmente_adverb> <http://www.w3.org/2000/01/rdf-schema#label> "especialmente"@pt .
+<https://github.com/elexis-eu/mwsa#sense104> <http://www.w3.org/2004/02/skos/core#definition> "De modo especial."@pt .
+<https://github.com/elexis-eu/mwsa#especiaria_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especiaria_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense110> .
+<https://github.com/elexis-eu/mwsa#especiaria_noun> <http://www.w3.org/2000/01/rdf-schema#label> "especiaria"@pt .
+<https://github.com/elexis-eu/mwsa#sense110> <http://www.w3.org/2004/02/skos/core#definition> "Qualquer droga aromática, com que se adubam iguarias."@pt .
+<https://github.com/elexis-eu/mwsa#especifica%C3%A7%C3%A3o_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especifica%C3%A7%C3%A3o_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense112> .
+<https://github.com/elexis-eu/mwsa#especifica%C3%A7%C3%A3o_noun> <http://www.w3.org/2000/01/rdf-schema#label> "especificação"@pt .
+<https://github.com/elexis-eu/mwsa#sense112> <http://www.w3.org/2004/02/skos/core#definition> "Acto ou efeito de especificar."@pt .
+<https://github.com/elexis-eu/mwsa#especificador_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especificador_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense118> .
+<https://github.com/elexis-eu/mwsa#especificador_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "especificador"@pt .
+<https://github.com/elexis-eu/mwsa#sense118> <http://www.w3.org/2004/02/skos/core#definition> "Que especifica."@pt .
+<https://github.com/elexis-eu/mwsa#especificador_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especificador_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense120> .
+<https://github.com/elexis-eu/mwsa#especificador_noun> <http://www.w3.org/2000/01/rdf-schema#label> "especificador"@pt .
+<https://github.com/elexis-eu/mwsa#sense120> <http://www.w3.org/2004/02/skos/core#definition> "Aquele que especifica."@pt .
+<https://github.com/elexis-eu/mwsa#especificativo_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especificativo_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense122> .
+<https://github.com/elexis-eu/mwsa#especificativo_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "especificativo"@pt .
+<https://github.com/elexis-eu/mwsa#sense122> <http://www.w3.org/2004/02/skos/core#definition> "Que especifica."@pt .
+<https://github.com/elexis-eu/mwsa#especificidade_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especificidade_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense124> .
+<https://github.com/elexis-eu/mwsa#especificidade_noun> <http://www.w3.org/2000/01/rdf-schema#label> "especificidade"@pt .
+<https://github.com/elexis-eu/mwsa#sense124> <http://www.w3.org/2004/02/skos/core#definition> "Qualidade característica de uma espécie."@pt .
+<https://github.com/elexis-eu/mwsa#espec%C3%ADfico_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espec%C3%ADfico_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense128> .
+<https://github.com/elexis-eu/mwsa#espec%C3%ADfico_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "específico"@pt .
+<https://github.com/elexis-eu/mwsa#sense128> <http://www.w3.org/2004/02/skos/core#definition> "Relativo a espécie."@pt .
+<https://github.com/elexis-eu/mwsa#espec%C3%ADfico_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espec%C3%ADfico_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense129> .
+<https://github.com/elexis-eu/mwsa#espec%C3%ADfico_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "específico"@pt .
+<https://github.com/elexis-eu/mwsa#sense129> <http://www.w3.org/2004/02/skos/core#definition> "Exclusivo."@pt .
+<https://github.com/elexis-eu/mwsa#espec%C3%ADfico_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espec%C3%ADfico_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense130> .
+<https://github.com/elexis-eu/mwsa#espec%C3%ADfico_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "específico"@pt .
+<https://github.com/elexis-eu/mwsa#sense130> <http://www.w3.org/2004/02/skos/core#definition> "Especial."@pt .
+<https://github.com/elexis-eu/mwsa#espec%C3%ADfico_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espec%C3%ADfico_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense136> .
+<https://github.com/elexis-eu/mwsa#espec%C3%ADfico_noun> <http://www.w3.org/2000/01/rdf-schema#label> "específico"@pt .
+<https://github.com/elexis-eu/mwsa#sense136> <http://www.w3.org/2004/02/skos/core#definition> "Medicamento, que tem aplicação especial a determinada moléstia."@pt .
+<https://github.com/elexis-eu/mwsa#especiosidade_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especiosidade_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense139> .
+<https://github.com/elexis-eu/mwsa#especiosidade_noun> <http://www.w3.org/2000/01/rdf-schema#label> "especiosidade"@pt .
+<https://github.com/elexis-eu/mwsa#sense139> <http://www.w3.org/2004/02/skos/core#definition> "Qualidade daquilo que é especioso."@pt .
+<https://github.com/elexis-eu/mwsa#especioso_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especioso_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense142> .
+<https://github.com/elexis-eu/mwsa#especioso_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "especioso"@pt .
+<https://github.com/elexis-eu/mwsa#sense142> <http://www.w3.org/2004/02/skos/core#definition> "Que tem boa aparência."@pt .
+<https://github.com/elexis-eu/mwsa#especioso_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especioso_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense143> .
+<https://github.com/elexis-eu/mwsa#especioso_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "especioso"@pt .
+<https://github.com/elexis-eu/mwsa#sense143> <http://www.w3.org/2004/02/skos/core#definition> "Ilusório."@pt .
+<https://github.com/elexis-eu/mwsa#especioso_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especioso_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense144> .
+<https://github.com/elexis-eu/mwsa#especioso_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "especioso"@pt .
+<https://github.com/elexis-eu/mwsa#sense144> <http://www.w3.org/2004/02/skos/core#definition> "Que induz em erro, aparentando verdade"@pt .
+<https://github.com/elexis-eu/mwsa#especioso_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especioso_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense145> .
+<https://github.com/elexis-eu/mwsa#especioso_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "especioso"@pt .
+<https://github.com/elexis-eu/mwsa#sense145> <http://www.w3.org/2004/02/skos/core#definition> "Que seduz."@pt .
+<https://github.com/elexis-eu/mwsa#espect%C3%A1culo_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espect%C3%A1culo_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense150> .
+<https://github.com/elexis-eu/mwsa#espect%C3%A1culo_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espectáculo"@pt .
+<https://github.com/elexis-eu/mwsa#sense150> <http://www.w3.org/2004/02/skos/core#definition> "Tudo que atrai a vista."@pt .
+<https://github.com/elexis-eu/mwsa#espect%C3%A1culo_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espect%C3%A1culo_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense151> .
+<https://github.com/elexis-eu/mwsa#espect%C3%A1culo_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espectáculo"@pt .
+<https://github.com/elexis-eu/mwsa#sense151> <http://www.w3.org/2004/02/skos/core#definition> "Aquilo que prende a atenção."@pt .
+<https://github.com/elexis-eu/mwsa#espect%C3%A1culo_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espect%C3%A1culo_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense152> .
+<https://github.com/elexis-eu/mwsa#espect%C3%A1culo_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espectáculo"@pt .
+<https://github.com/elexis-eu/mwsa#sense152> <http://www.w3.org/2004/02/skos/core#definition> "Perspectiva"@pt .
+<https://github.com/elexis-eu/mwsa#espect%C3%A1culo_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espect%C3%A1culo_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense153> .
+<https://github.com/elexis-eu/mwsa#espect%C3%A1culo_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espectáculo"@pt .
+<https://github.com/elexis-eu/mwsa#sense153> <http://www.w3.org/2004/02/skos/core#definition> "Contemplação."@pt .
+<https://github.com/elexis-eu/mwsa#espect%C3%A1culo_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espect%C3%A1culo_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense154> .
+<https://github.com/elexis-eu/mwsa#espect%C3%A1culo_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espectáculo"@pt .
+<https://github.com/elexis-eu/mwsa#sense154> <http://www.w3.org/2004/02/skos/core#definition> "Representação teatral."@pt .
+<https://github.com/elexis-eu/mwsa#espect%C3%A1culo_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espect%C3%A1culo_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense155> .
+<https://github.com/elexis-eu/mwsa#espect%C3%A1culo_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espectáculo"@pt .
+<https://github.com/elexis-eu/mwsa#sense155> <http://www.w3.org/2004/02/skos/core#definition> "Diversão pública em circos."@pt .
+<https://github.com/elexis-eu/mwsa#espect%C3%A1culo_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espect%C3%A1culo_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense156> .
+<https://github.com/elexis-eu/mwsa#espect%C3%A1culo_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espectáculo"@pt .
+<https://github.com/elexis-eu/mwsa#sense156> <http://www.w3.org/2004/02/skos/core#definition> "Fam. Cena ridícula; escândalo."@pt .
+<https://github.com/elexis-eu/mwsa#espectaculoso_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espectaculoso_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense164> .
+<https://github.com/elexis-eu/mwsa#espectaculoso_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "espectaculoso"@pt .
+<https://github.com/elexis-eu/mwsa#sense164> <http://www.w3.org/2004/02/skos/core#definition> "Que dá muito na vista. Ostentoso; grandioso."@pt .
+<https://github.com/elexis-eu/mwsa#espectador_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espectador_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense166> .
+<https://github.com/elexis-eu/mwsa#espectador_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "espectador"@pt .
+<https://github.com/elexis-eu/mwsa#sense166> <http://www.w3.org/2004/02/skos/core#definition> "O que assiste a um espectáculo."@pt .
+<https://github.com/elexis-eu/mwsa#espectador_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espectador_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense167> .
+<https://github.com/elexis-eu/mwsa#espectador_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "espectador"@pt .
+<https://github.com/elexis-eu/mwsa#sense167> <http://www.w3.org/2004/02/skos/core#definition> "O que observa ou que vê qualquer acto."@pt .
+<https://github.com/elexis-eu/mwsa#espectador_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espectador_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense168> .
+<https://github.com/elexis-eu/mwsa#espectador_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "espectador"@pt .
+<https://github.com/elexis-eu/mwsa#sense168> <http://www.w3.org/2004/02/skos/core#definition> "Testemunha de vista."@pt .
+<https://github.com/elexis-eu/mwsa#espectral_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espectral_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense172> .
+<https://github.com/elexis-eu/mwsa#espectral_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "espectral"@pt .
+<https://github.com/elexis-eu/mwsa#sense172> <http://www.w3.org/2004/02/skos/core#definition> "Concernente ao espectro solar."@pt .
+<https://github.com/elexis-eu/mwsa#espectro_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espectro_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense176> .
+<https://github.com/elexis-eu/mwsa#espectro_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espectro"@pt .
+<https://github.com/elexis-eu/mwsa#sense176> <http://www.w3.org/2004/02/skos/core#definition> "Imagem fantástica de pessoa falecida."@pt .
+<https://github.com/elexis-eu/mwsa#espectro_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espectro_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense177> .
+<https://github.com/elexis-eu/mwsa#espectro_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espectro"@pt .
+<https://github.com/elexis-eu/mwsa#sense177> <http://www.w3.org/2004/02/skos/core#definition> "Espectro solar, imagem com as cores do arco-íris, resultante da decomposição da luz do sol, através de um prisma em câmara escura."@pt .
+<https://github.com/elexis-eu/mwsa#espectro_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espectro_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense178> .
+<https://github.com/elexis-eu/mwsa#espectro_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espectro"@pt .
+<https://github.com/elexis-eu/mwsa#sense178> <http://www.w3.org/2004/02/skos/core#definition> "Fam. Pessoa muito magra."@pt .
+<https://github.com/elexis-eu/mwsa#espectro_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espectro_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense179> .
+<https://github.com/elexis-eu/mwsa#espectro_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espectro"@pt .
+<https://github.com/elexis-eu/mwsa#sense179> <http://www.w3.org/2004/02/skos/core#definition> "Imagem fantástica, que persegue o criminoso."@pt .
+<https://github.com/elexis-eu/mwsa#espectro_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espectro_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense180> .
+<https://github.com/elexis-eu/mwsa#espectro_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espectro"@pt .
+<https://github.com/elexis-eu/mwsa#sense180> <http://www.w3.org/2004/02/skos/core#definition> "Insectos ortópteros, de thoracete comprido."@pt .
+<https://github.com/elexis-eu/mwsa#espectrologia_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espectrologia_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense188> .
+<https://github.com/elexis-eu/mwsa#espectrologia_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espectrologia"@pt .
+<https://github.com/elexis-eu/mwsa#sense188> <http://www.w3.org/2004/02/skos/core#definition> "Phýs. Tratado dos fenómenos espectrais."@pt .
+<https://github.com/elexis-eu/mwsa#espectrometria_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espectrometria_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense191> .
+<https://github.com/elexis-eu/mwsa#espectrometria_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espectrometria"@pt .
+<https://github.com/elexis-eu/mwsa#sense191> <http://www.w3.org/2004/02/skos/core#definition> "Método de análise quantitativa, para se conhecer a natureza dos elementos de um foco luminoso e determinar a constituição química dos corpos."@pt .
+<https://github.com/elexis-eu/mwsa#espectroscopia_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espectroscopia_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense193> .
+<https://github.com/elexis-eu/mwsa#espectroscopia_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espectroscopia"@pt .
+<https://github.com/elexis-eu/mwsa#sense193> <http://www.w3.org/2004/02/skos/core#definition> "Phýs. Estudo da luz, por meio do espectro fornecido pelo prisma."@pt .
+<https://github.com/elexis-eu/mwsa#espectrosc%C3%B3pio_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espectrosc%C3%B3pio_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense195> .
+<https://github.com/elexis-eu/mwsa#espectrosc%C3%B3pio_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espectroscópio"@pt .
+<https://github.com/elexis-eu/mwsa#sense195> <http://www.w3.org/2004/02/skos/core#definition> "Instrumento análogo ao espectrómetro, mas menos perfeito."@pt .
+<https://github.com/elexis-eu/mwsa#especula%C3%A7%C3%A3o_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especula%C3%A7%C3%A3o_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense197> .
+<https://github.com/elexis-eu/mwsa#especula%C3%A7%C3%A3o_noun> <http://www.w3.org/2000/01/rdf-schema#label> "especulação"@pt .
+<https://github.com/elexis-eu/mwsa#sense197> <http://www.w3.org/2004/02/skos/core#definition> "Acto de especular."@pt .
+<https://github.com/elexis-eu/mwsa#especula%C3%A7%C3%A3o_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especula%C3%A7%C3%A3o_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense198> .
+<https://github.com/elexis-eu/mwsa#especula%C3%A7%C3%A3o_noun> <http://www.w3.org/2000/01/rdf-schema#label> "especulação"@pt .
+<https://github.com/elexis-eu/mwsa#sense198> <http://www.w3.org/2004/02/skos/core#definition> "Investigação teórica."@pt .
+<https://github.com/elexis-eu/mwsa#especula%C3%A7%C3%A3o_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especula%C3%A7%C3%A3o_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense199> .
+<https://github.com/elexis-eu/mwsa#especula%C3%A7%C3%A3o_noun> <http://www.w3.org/2000/01/rdf-schema#label> "especulação"@pt .
+<https://github.com/elexis-eu/mwsa#sense199> <http://www.w3.org/2004/02/skos/core#definition> "Empreendimento comercial."@pt .
+<https://github.com/elexis-eu/mwsa#especula%C3%A7%C3%A3o_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especula%C3%A7%C3%A3o_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense200> .
+<https://github.com/elexis-eu/mwsa#especula%C3%A7%C3%A3o_noun> <http://www.w3.org/2000/01/rdf-schema#label> "especulação"@pt .
+<https://github.com/elexis-eu/mwsa#sense200> <http://www.w3.org/2004/02/skos/core#definition> "Empreendimento com a mira em lucro."@pt .
+<https://github.com/elexis-eu/mwsa#especula%C3%A7%C3%A3o_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especula%C3%A7%C3%A3o_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense201> .
+<https://github.com/elexis-eu/mwsa#especula%C3%A7%C3%A3o_noun> <http://www.w3.org/2000/01/rdf-schema#label> "especulação"@pt .
+<https://github.com/elexis-eu/mwsa#sense201> <http://www.w3.org/2004/02/skos/core#definition> "Contracto ou negócio, em que uma das partes abusa da boa fé da outra."@pt .
+<https://github.com/elexis-eu/mwsa#especulador_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especulador_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense207> .
+<https://github.com/elexis-eu/mwsa#especulador_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "especulador"@pt .
+<https://github.com/elexis-eu/mwsa#sense207> <http://www.w3.org/2004/02/skos/core#definition> "O que especula."@pt .
+<https://github.com/elexis-eu/mwsa#especulador_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especulador_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense211> .
+<https://github.com/elexis-eu/mwsa#especulador_noun> <http://www.w3.org/2000/01/rdf-schema#label> "especulador"@pt .
+<https://github.com/elexis-eu/mwsa#sense211> <http://www.w3.org/2004/02/skos/core#definition> "O que especula."@pt .
+<https://github.com/elexis-eu/mwsa#especular_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especular_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense216> .
+<https://github.com/elexis-eu/mwsa#especular_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "especular"@pt .
+<https://github.com/elexis-eu/mwsa#sense216> <http://www.w3.org/2004/02/skos/core#definition> "Diz-se de alguns minerais, em que há lâminas brilhantes que reflectem a luz."@pt .
+<https://github.com/elexis-eu/mwsa#especular_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especular_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense217> .
+<https://github.com/elexis-eu/mwsa#especular_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "especular"@pt .
+<https://github.com/elexis-eu/mwsa#sense217> <http://www.w3.org/2004/02/skos/core#definition> "Relativo a espelho."@pt .
+<https://github.com/elexis-eu/mwsa#especular_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especular_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense222> .
+<https://github.com/elexis-eu/mwsa#especular_verb> <http://www.w3.org/2000/01/rdf-schema#label> "especular"@pt .
+<https://github.com/elexis-eu/mwsa#sense222> <http://www.w3.org/2004/02/skos/core#definition> "Contemplar, observar."@pt .
+<https://github.com/elexis-eu/mwsa#especular_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especular_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense223> .
+<https://github.com/elexis-eu/mwsa#especular_verb> <http://www.w3.org/2000/01/rdf-schema#label> "especular"@pt .
+<https://github.com/elexis-eu/mwsa#sense223> <http://www.w3.org/2004/02/skos/core#definition> "Investigar."@pt .
+<https://github.com/elexis-eu/mwsa#especular_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especular_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense224> .
+<https://github.com/elexis-eu/mwsa#especular_verb> <http://www.w3.org/2000/01/rdf-schema#label> "especular"@pt .
+<https://github.com/elexis-eu/mwsa#sense224> <http://www.w3.org/2004/02/skos/core#definition> "Estudar teoricamente."@pt .
+<https://github.com/elexis-eu/mwsa#especular_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especular_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense225> .
+<https://github.com/elexis-eu/mwsa#especular_verb> <http://www.w3.org/2000/01/rdf-schema#label> "especular"@pt .
+<https://github.com/elexis-eu/mwsa#sense225> <http://www.w3.org/2004/02/skos/core#definition> "Explorar."@pt .
+<https://github.com/elexis-eu/mwsa#especular_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especular_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense226> .
+<https://github.com/elexis-eu/mwsa#especular_verb> <http://www.w3.org/2000/01/rdf-schema#label> "especular"@pt .
+<https://github.com/elexis-eu/mwsa#sense226> <http://www.w3.org/2004/02/skos/core#definition> "Tentar comércio ou empresa com a mira em lucros, que são eventuais."@pt .
+<https://github.com/elexis-eu/mwsa#especulativo_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especulativo_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense232> .
+<https://github.com/elexis-eu/mwsa#especulativo_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "especulativo"@pt .
+<https://github.com/elexis-eu/mwsa#sense232> <http://www.w3.org/2004/02/skos/core#definition> "Em que há especulação."@pt .
+<https://github.com/elexis-eu/mwsa#especulativo_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especulativo_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense233> .
+<https://github.com/elexis-eu/mwsa#especulativo_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "especulativo"@pt .
+<https://github.com/elexis-eu/mwsa#sense233> <http://www.w3.org/2004/02/skos/core#definition> "Que é teórico."@pt .
+<https://github.com/elexis-eu/mwsa#especulativo_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especulativo_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense234> .
+<https://github.com/elexis-eu/mwsa#especulativo_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "especulativo"@pt .
+<https://github.com/elexis-eu/mwsa#sense234> <http://www.w3.org/2004/02/skos/core#definition> "Relativo a especulação."@pt .
+<https://github.com/elexis-eu/mwsa#esp%C3%A9culo_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#esp%C3%A9culo_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense239> .
+<https://github.com/elexis-eu/mwsa#esp%C3%A9culo_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espéculo"@pt .
+<https://github.com/elexis-eu/mwsa#sense239> <http://www.w3.org/2004/02/skos/core#definition> "Instrumento cirúrgico, com que se observam certas cavidades do corpo humano."@pt .
+<https://github.com/elexis-eu/mwsa#espeda%C3%A7ar_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espeda%C3%A7ar_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense242> .
+<https://github.com/elexis-eu/mwsa#espeda%C3%A7ar_verb> <http://www.w3.org/2000/01/rdf-schema#label> "espedaçar"@pt .
+<https://github.com/elexis-eu/mwsa#sense242> <http://www.w3.org/2004/02/skos/core#definition> "O mesmo que despedaçar, etc."@pt .
+<https://github.com/elexis-eu/mwsa#espeleologia_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espeleologia_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense246> .
+<https://github.com/elexis-eu/mwsa#espeleologia_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espeleologia"@pt .
+<https://github.com/elexis-eu/mwsa#sense246> <http://www.w3.org/2004/02/skos/core#definition> "Parte da Geologia, que se ocupa das grutas e cavernas."@pt .
+<https://github.com/elexis-eu/mwsa#espelhamento_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espelhamento_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense248> .
+<https://github.com/elexis-eu/mwsa#espelhamento_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espelhamento"@pt .
+<https://github.com/elexis-eu/mwsa#sense248> <http://www.w3.org/2004/02/skos/core#definition> "Acto ou efeito de espelhar."@pt .
+<https://github.com/elexis-eu/mwsa#espelhante_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espelhante_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense251> .
+<https://github.com/elexis-eu/mwsa#espelhante_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "espelhante"@pt .
+<https://github.com/elexis-eu/mwsa#sense251> <http://www.w3.org/2004/02/skos/core#definition> "Que espelha"@pt .
+<https://github.com/elexis-eu/mwsa#espelhar_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espelhar_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense254> .
+<https://github.com/elexis-eu/mwsa#espelhar_verb> <http://www.w3.org/2000/01/rdf-schema#label> "espelhar"@pt .
+<https://github.com/elexis-eu/mwsa#sense254> <http://www.w3.org/2004/02/skos/core#definition> "Tornar liso, polido, cristalino, como um espelho: espelhar metais."@pt .
+<https://github.com/elexis-eu/mwsa#espelhar_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espelhar_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense255> .
+<https://github.com/elexis-eu/mwsa#espelhar_verb> <http://www.w3.org/2000/01/rdf-schema#label> "espelhar"@pt .
+<https://github.com/elexis-eu/mwsa#sense255> <http://www.w3.org/2004/02/skos/core#definition> "Reflectir como um espelho"@pt .
+<https://github.com/elexis-eu/mwsa#espelhar_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espelhar_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense256> .
+<https://github.com/elexis-eu/mwsa#espelhar_verb> <http://www.w3.org/2000/01/rdf-schema#label> "espelhar"@pt .
+<https://github.com/elexis-eu/mwsa#sense256> <http://www.w3.org/2004/02/skos/core#definition> "Reflectir-se."@pt .
+<https://github.com/elexis-eu/mwsa#espelhar_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espelhar_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense257> .
+<https://github.com/elexis-eu/mwsa#espelhar_verb> <http://www.w3.org/2000/01/rdf-schema#label> "espelhar"@pt .
+<https://github.com/elexis-eu/mwsa#sense257> <http://www.w3.org/2004/02/skos/core#definition> "Ver-se ao espelho."@pt .
+<https://github.com/elexis-eu/mwsa#espelhar_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espelhar_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense258> .
+<https://github.com/elexis-eu/mwsa#espelhar_verb> <http://www.w3.org/2000/01/rdf-schema#label> "espelhar"@pt .
+<https://github.com/elexis-eu/mwsa#sense258> <http://www.w3.org/2004/02/skos/core#definition> "Fig. Rever-se, ter prazer na contemplação de alguém ou de alguma coisa."@pt .
+<https://github.com/elexis-eu/mwsa#espelharia_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espelharia_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense266> .
+<https://github.com/elexis-eu/mwsa#espelharia_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espelharia"@pt .
+<https://github.com/elexis-eu/mwsa#sense266> <http://www.w3.org/2004/02/skos/core#definition> "Lugar, onde se vendem ou se fabricam espelhos."@pt .
+<https://github.com/elexis-eu/mwsa#espelheiro_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espelheiro_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense268> .
+<https://github.com/elexis-eu/mwsa#espelheiro_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espelheiro"@pt .
+<https://github.com/elexis-eu/mwsa#sense268> <http://www.w3.org/2004/02/skos/core#definition> "Fabricante ou vendedor de espelhos."@pt .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense270> .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espelho"@pt .
+<https://github.com/elexis-eu/mwsa#sense270> <http://www.w3.org/2004/02/skos/core#definition> "Superfície polida, que reflecte a luz, ou que representa os objectos que estão ou se lhe põem diante."@pt .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense271> .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espelho"@pt .
+<https://github.com/elexis-eu/mwsa#sense271> <http://www.w3.org/2004/02/skos/core#definition> "Lâmina de vidro ou cristal polido, estanhada posteriormente, para adorno de casas ou móveis, ou para nela se rever quem se veste, se barbeia ou se enfeita."@pt .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense272> .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espelho"@pt .
+<https://github.com/elexis-eu/mwsa#sense272> <http://www.w3.org/2004/02/skos/core#definition> "Chapa exterior de uma fechadura."@pt .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense273> .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espelho"@pt .
+<https://github.com/elexis-eu/mwsa#sense273> <http://www.w3.org/2004/02/skos/core#definition> "Chapa de ferro, que, colocada no divisor das máquinas de vapor, serve para regular a entrada do vapor no cilindro."@pt .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense274> .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espelho"@pt .
+<https://github.com/elexis-eu/mwsa#sense274> <http://www.w3.org/2004/02/skos/core#definition> "Quartos de fazenda, que, na feitura de casacos, blusas, etc., assentam no peito ou nas costas."@pt .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense275> .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espelho"@pt .
+<https://github.com/elexis-eu/mwsa#sense275> <http://www.w3.org/2004/02/skos/core#definition> "Carp. Tábua, que resai, de alto a baixo, na face de uma porta."@pt .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense276> .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espelho"@pt .
+<https://github.com/elexis-eu/mwsa#sense276> <http://www.w3.org/2004/02/skos/core#definition> "Carp. A face anterior de uma gaveta."@pt .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense277> .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espelho"@pt .
+<https://github.com/elexis-eu/mwsa#sense277> <http://www.w3.org/2004/02/skos/core#definition> "Carp. Peça da frente de um degrau, também chamada pé."@pt .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense278> .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espelho"@pt .
+<https://github.com/elexis-eu/mwsa#sense278> <http://www.w3.org/2004/02/skos/core#definition> "Maçã de casca luzidia e encarnada."@pt .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense279> .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espelho"@pt .
+<https://github.com/elexis-eu/mwsa#sense279> <http://www.w3.org/2004/02/skos/core#definition> "Plano da boca de um canhão."@pt .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense280> .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espelho"@pt .
+<https://github.com/elexis-eu/mwsa#sense280> <http://www.w3.org/2004/02/skos/core#definition> "Abertura no tampo de certos instrumentos de corda."@pt .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense281> .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espelho"@pt .
+<https://github.com/elexis-eu/mwsa#sense281> <http://www.w3.org/2004/02/skos/core#definition> "Insecto lepidóptero."@pt .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense282> .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espelho"@pt .
+<https://github.com/elexis-eu/mwsa#sense282> <http://www.w3.org/2004/02/skos/core#definition> "Abertura envidraçada, no frontispício de uma igreja."@pt .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense283> .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espelho"@pt .
+<https://github.com/elexis-eu/mwsa#sense283> <http://www.w3.org/2004/02/skos/core#definition> "Fig. Superfície tranquila e transparente das águas."@pt .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense284> .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espelho"@pt .
+<https://github.com/elexis-eu/mwsa#sense284> <http://www.w3.org/2004/02/skos/core#definition> "Exemplo, ensinamento, modelo."@pt .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense285> .
+<https://github.com/elexis-eu/mwsa#espelho_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espelho"@pt .
+<https://github.com/elexis-eu/mwsa#sense285> <http://www.w3.org/2004/02/skos/core#definition> "Tudo que reflecte ou reproduz um sentimento."@pt .
+<https://github.com/elexis-eu/mwsa#espelunca_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espelunca_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense306> .
+<https://github.com/elexis-eu/mwsa#espelunca_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espelunca"@pt .
+<https://github.com/elexis-eu/mwsa#sense306> <http://www.w3.org/2004/02/skos/core#definition> "Caverna, cova."@pt .
+<https://github.com/elexis-eu/mwsa#espelunca_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espelunca_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense307> .
+<https://github.com/elexis-eu/mwsa#espelunca_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espelunca"@pt .
+<https://github.com/elexis-eu/mwsa#sense307> <http://www.w3.org/2004/02/skos/core#definition> "Fig. Casa imunda."@pt .
+<https://github.com/elexis-eu/mwsa#espelunca_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espelunca_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense308> .
+<https://github.com/elexis-eu/mwsa#espelunca_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espelunca"@pt .
+<https://github.com/elexis-eu/mwsa#sense308> <http://www.w3.org/2004/02/skos/core#definition> "Lugar esconso, em que se joga."@pt .
+<https://github.com/elexis-eu/mwsa#espenicar_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espenicar_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense313> .
+<https://github.com/elexis-eu/mwsa#espenicar_verb> <http://www.w3.org/2000/01/rdf-schema#label> "espenicar"@pt .
+<https://github.com/elexis-eu/mwsa#sense313> <http://www.w3.org/2004/02/skos/core#definition> "Depenar."@pt .
+<https://github.com/elexis-eu/mwsa#espenicar_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espenicar_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense314> .
+<https://github.com/elexis-eu/mwsa#espenicar_verb> <http://www.w3.org/2000/01/rdf-schema#label> "espenicar"@pt .
+<https://github.com/elexis-eu/mwsa#sense314> <http://www.w3.org/2004/02/skos/core#definition> "Fam. Ataviar excessivamente."@pt .
+<https://github.com/elexis-eu/mwsa#espenicar_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espenicar_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense315> .
+<https://github.com/elexis-eu/mwsa#espenicar_verb> <http://www.w3.org/2000/01/rdf-schema#label> "espenicar"@pt .
+<https://github.com/elexis-eu/mwsa#sense315> <http://www.w3.org/2004/02/skos/core#definition> "Fig. Analisar ou observar por miúdo."@pt .
+<https://github.com/elexis-eu/mwsa#espeque_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espeque_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense321> .
+<https://github.com/elexis-eu/mwsa#espeque_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espeque"@pt .
+<https://github.com/elexis-eu/mwsa#sense321> <http://www.w3.org/2004/02/skos/core#definition> "Peça de madeira, com que se escora alguma coisa; escora."@pt .
+<https://github.com/elexis-eu/mwsa#espeque_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espeque_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense322> .
+<https://github.com/elexis-eu/mwsa#espeque_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espeque"@pt .
+<https://github.com/elexis-eu/mwsa#sense322> <http://www.w3.org/2004/02/skos/core#definition> "Fig. Amparo."@pt .
+<https://github.com/elexis-eu/mwsa#espeque_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espeque_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense323> .
+<https://github.com/elexis-eu/mwsa#espeque_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espeque"@pt .
+<https://github.com/elexis-eu/mwsa#sense323> <http://www.w3.org/2004/02/skos/core#definition> "Paliativo."@pt .
+<https://github.com/elexis-eu/mwsa#espeque_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espeque_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense324> .
+<https://github.com/elexis-eu/mwsa#espeque_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espeque"@pt .
+<https://github.com/elexis-eu/mwsa#sense324> <http://www.w3.org/2004/02/skos/core#definition> "(Do germ. spaak)"@pt .
+<https://github.com/elexis-eu/mwsa#esperan%C3%A7a_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#esperan%C3%A7a_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense329> .
+<https://github.com/elexis-eu/mwsa#esperan%C3%A7a_noun> <http://www.w3.org/2000/01/rdf-schema#label> "esperança"@pt .
+<https://github.com/elexis-eu/mwsa#sense329> <http://www.w3.org/2004/02/skos/core#definition> "Aguardamento de um bem que se deseja, e cuja realização se julga provável."@pt .
+<https://github.com/elexis-eu/mwsa#esperan%C3%A7a_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#esperan%C3%A7a_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense330> .
+<https://github.com/elexis-eu/mwsa#esperan%C3%A7a_noun> <http://www.w3.org/2000/01/rdf-schema#label> "esperança"@pt .
+<https://github.com/elexis-eu/mwsa#sense330> <http://www.w3.org/2004/02/skos/core#definition> "A segunda das três virtudes theologaes."@pt .
+<https://github.com/elexis-eu/mwsa#esperan%C3%A7a_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#esperan%C3%A7a_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense331> .
+<https://github.com/elexis-eu/mwsa#esperan%C3%A7a_noun> <http://www.w3.org/2000/01/rdf-schema#label> "esperança"@pt .
+<https://github.com/elexis-eu/mwsa#sense331> <http://www.w3.org/2004/02/skos/core#definition> "Aquilo que se espera, desejando."@pt .
+<https://github.com/elexis-eu/mwsa#esperan%C3%A7a_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#esperan%C3%A7a_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense332> .
+<https://github.com/elexis-eu/mwsa#esperan%C3%A7a_noun> <http://www.w3.org/2000/01/rdf-schema#label> "esperança"@pt .
+<https://github.com/elexis-eu/mwsa#sense332> <http://www.w3.org/2004/02/skos/core#definition> "Expectativa."@pt .
+<https://github.com/elexis-eu/mwsa#esperan%C3%A7a_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#esperan%C3%A7a_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense333> .
+<https://github.com/elexis-eu/mwsa#esperan%C3%A7a_noun> <http://www.w3.org/2000/01/rdf-schema#label> "esperança"@pt .
+<https://github.com/elexis-eu/mwsa#sense333> <http://www.w3.org/2004/02/skos/core#definition> "pl. Loc. fam. Andar de esperanças, diz-se da mulher que anda grávida."@pt .
+<https://github.com/elexis-eu/mwsa#esperan%C3%A7oso_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#esperan%C3%A7oso_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense341> .
+<https://github.com/elexis-eu/mwsa#esperan%C3%A7oso_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "esperançoso"@pt .
+<https://github.com/elexis-eu/mwsa#sense341> <http://www.w3.org/2004/02/skos/core#definition> "Que dá ou tem esperança."@pt .
+<https://github.com/elexis-eu/mwsa#esperan%C3%A7oso_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#esperan%C3%A7oso_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense342> .
+<https://github.com/elexis-eu/mwsa#esperan%C3%A7oso_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "esperançoso"@pt .
+<https://github.com/elexis-eu/mwsa#sense342> <http://www.w3.org/2004/02/skos/core#definition> "Prometedor."@pt .
+<https://github.com/elexis-eu/mwsa#esperanto_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#esperanto_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense345> .
+<https://github.com/elexis-eu/mwsa#esperanto_noun> <http://www.w3.org/2000/01/rdf-schema#label> "esperanto"@pt .
+<https://github.com/elexis-eu/mwsa#sense345> <http://www.w3.org/2004/02/skos/core#definition> "Língua internacional, fundada em 1887 pelo Dr. Zamenhof, e cuja gramática abrange apenas dezaseis regras."@pt .
+<https://github.com/elexis-eu/mwsa#perfume_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perfume_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense347> .
+<https://github.com/elexis-eu/mwsa#perfume_noun> <http://www.w3.org/2000/01/rdf-schema#label> "perfume"@pt .
+<https://github.com/elexis-eu/mwsa#sense347> <http://www.w3.org/2004/02/skos/core#definition> "Cheiro agradável, que se exala, como fumo ou como vapor, de uma substância odorífera."@pt .
+<https://github.com/elexis-eu/mwsa#perfume_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perfume_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense348> .
+<https://github.com/elexis-eu/mwsa#perfume_noun> <http://www.w3.org/2000/01/rdf-schema#label> "perfume"@pt .
+<https://github.com/elexis-eu/mwsa#sense348> <http://www.w3.org/2004/02/skos/core#definition> "Substância aromática, especialmente a que se vende nas perfumarias."@pt .
+<https://github.com/elexis-eu/mwsa#perfume_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perfume_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense349> .
+<https://github.com/elexis-eu/mwsa#perfume_noun> <http://www.w3.org/2000/01/rdf-schema#label> "perfume"@pt .
+<https://github.com/elexis-eu/mwsa#sense349> <http://www.w3.org/2004/02/skos/core#definition> "Fig. Suavidade; efeito agradável."@pt .
+<https://github.com/elexis-eu/mwsa#perfumista%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perfumista%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense354> .
+<https://github.com/elexis-eu/mwsa#perfumista%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "perfumista "@pt .
+<https://github.com/elexis-eu/mwsa#sense354> <http://www.w3.org/2004/02/skos/core#definition> "Pessoa, que vende ou fabrica perfumes. "@pt .
+<https://github.com/elexis-eu/mwsa#perfumoso%20_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perfumoso%20_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense356> .
+<https://github.com/elexis-eu/mwsa#perfumoso%20_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "perfumoso "@pt .
+<https://github.com/elexis-eu/mwsa#sense356> <http://www.w3.org/2004/02/skos/core#definition> "Que exala perfume; odorífero. "@pt .
+<https://github.com/elexis-eu/mwsa#perfunct%C3%B3rio%20_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perfunct%C3%B3rio%20_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense359> .
+<https://github.com/elexis-eu/mwsa#perfunct%C3%B3rio%20_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "perfunctório "@pt .
+<https://github.com/elexis-eu/mwsa#sense359> <http://www.w3.org/2004/02/skos/core#definition> "Que se pratica em cumprimento de uma obrigação, ou sem fim útil."@pt .
+<https://github.com/elexis-eu/mwsa#perfunct%C3%B3rio%20_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perfunct%C3%B3rio%20_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense360> .
+<https://github.com/elexis-eu/mwsa#perfunct%C3%B3rio%20_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "perfunctório "@pt .
+<https://github.com/elexis-eu/mwsa#sense360> <http://www.w3.org/2004/02/skos/core#definition> "Pouco útil; superficial; ligeiro. "@pt .
+<https://github.com/elexis-eu/mwsa#perfura%C3%A7%C3%A3o%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perfura%C3%A7%C3%A3o%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense363> .
+<https://github.com/elexis-eu/mwsa#perfura%C3%A7%C3%A3o%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "perfuração "@pt .
+<https://github.com/elexis-eu/mwsa#sense363> <http://www.w3.org/2004/02/skos/core#definition> "Acto ou efeito de perfurar. "@pt .
+<https://github.com/elexis-eu/mwsa#perfurador%20_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perfurador%20_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense369> .
+<https://github.com/elexis-eu/mwsa#perfurador%20_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "perfurador "@pt .
+<https://github.com/elexis-eu/mwsa#sense369> <http://www.w3.org/2004/02/skos/core#definition> "Aquilo que perfura ou é próprio para perfurar. "@pt .
+<https://github.com/elexis-eu/mwsa#perfurador_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perfurador_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense372> .
+<https://github.com/elexis-eu/mwsa#perfurador_noun> <http://www.w3.org/2000/01/rdf-schema#label> "perfurador"@pt .
+<https://github.com/elexis-eu/mwsa#sense372> <http://www.w3.org/2004/02/skos/core#definition> "Aquilo que perfura ou é próprio para perfurar. "@pt .
+<https://github.com/elexis-eu/mwsa#perfurante%20_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perfurante%20_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense378> .
+<https://github.com/elexis-eu/mwsa#perfurante%20_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "perfurante "@pt .
+<https://github.com/elexis-eu/mwsa#sense378> <http://www.w3.org/2004/02/skos/core#definition> "Que perfura."@pt .
+<https://github.com/elexis-eu/mwsa#perfurar%20_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perfurar%20_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense380> .
+<https://github.com/elexis-eu/mwsa#perfurar%20_verb> <http://www.w3.org/2000/01/rdf-schema#label> "perfurar "@pt .
+<https://github.com/elexis-eu/mwsa#sense380> <http://www.w3.org/2004/02/skos/core#definition> "Fazer furo ou furos em; penetrar. "@pt .
+<https://github.com/elexis-eu/mwsa#pergamin%C3%A1ceo%20_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#pergamin%C3%A1ceo%20_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense383> .
+<https://github.com/elexis-eu/mwsa#pergamin%C3%A1ceo%20_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "pergamináceo "@pt .
+<https://github.com/elexis-eu/mwsa#sense383> <http://www.w3.org/2004/02/skos/core#definition> "Ant. O mesmo que pergaminheiro. "@pt .
+<https://github.com/elexis-eu/mwsa#pergamin%C3%A1ceo%20_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#pergamin%C3%A1ceo%20_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense384> .
+<https://github.com/elexis-eu/mwsa#pergamin%C3%A1ceo%20_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "pergamináceo "@pt .
+<https://github.com/elexis-eu/mwsa#sense384> <http://www.w3.org/2004/02/skos/core#definition> "O mesmo ou melhor que pergaminháceo. "@pt .
+<https://github.com/elexis-eu/mwsa#pergaminh%C3%A1ceo%20_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#pergaminh%C3%A1ceo%20_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense387> .
+<https://github.com/elexis-eu/mwsa#pergaminh%C3%A1ceo%20_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "pergaminháceo "@pt .
+<https://github.com/elexis-eu/mwsa#sense387> <http://www.w3.org/2004/02/skos/core#definition> "Que tem o aspecto de pergaminho"@pt .
+<https://github.com/elexis-eu/mwsa#pergaminho_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#pergaminho_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense389> .
+<https://github.com/elexis-eu/mwsa#pergaminho_noun> <http://www.w3.org/2000/01/rdf-schema#label> "pergaminho"@pt .
+<https://github.com/elexis-eu/mwsa#sense389> <http://www.w3.org/2004/02/skos/core#definition> "Pele de carneiro, de ovelha ou cordeiro, preparada com alúmen, e que serve especialmente para nela se escreverem coisas, que se querem conservadas por muito tempo."@pt .
+<https://github.com/elexis-eu/mwsa#pergaminho_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#pergaminho_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense390> .
+<https://github.com/elexis-eu/mwsa#pergaminho_noun> <http://www.w3.org/2000/01/rdf-schema#label> "pergaminho"@pt .
+<https://github.com/elexis-eu/mwsa#sense390> <http://www.w3.org/2004/02/skos/core#definition> "Documento escrito em pergaminho."@pt .
+<https://github.com/elexis-eu/mwsa#pergaminho_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#pergaminho_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense391> .
+<https://github.com/elexis-eu/mwsa#pergaminho_noun> <http://www.w3.org/2000/01/rdf-schema#label> "pergaminho"@pt .
+<https://github.com/elexis-eu/mwsa#sense391> <http://www.w3.org/2004/02/skos/core#definition> "Pl. Fig. Títulos de nobreza."@pt .
+<https://github.com/elexis-eu/mwsa#pergunta%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#pergunta%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense398> .
+<https://github.com/elexis-eu/mwsa#pergunta%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "pergunta "@pt .
+<https://github.com/elexis-eu/mwsa#sense398> <http://www.w3.org/2004/02/skos/core#definition> "Frase ou frases, com que se interroga; interrogação."@pt .
+<https://github.com/elexis-eu/mwsa#pergunta%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#pergunta%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense399> .
+<https://github.com/elexis-eu/mwsa#pergunta%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "pergunta "@pt .
+<https://github.com/elexis-eu/mwsa#sense399> <http://www.w3.org/2004/02/skos/core#definition> "Inquirição; quesito. "@pt .
+<https://github.com/elexis-eu/mwsa#perguntador%20_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perguntador%20_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense405> .
+<https://github.com/elexis-eu/mwsa#perguntador%20_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "perguntador "@pt .
+<https://github.com/elexis-eu/mwsa#sense405> <http://www.w3.org/2004/02/skos/core#definition> "O que pergunta;"@pt .
+<https://github.com/elexis-eu/mwsa#perguntador%20_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perguntador%20_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense406> .
+<https://github.com/elexis-eu/mwsa#perguntador%20_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "perguntador "@pt .
+<https://github.com/elexis-eu/mwsa#sense406> <http://www.w3.org/2004/02/skos/core#definition> "o que gosta de perguntar; aquele que é curioso. "@pt .
+<https://github.com/elexis-eu/mwsa#perguntar%20_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perguntar%20_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense411> .
+<https://github.com/elexis-eu/mwsa#perguntar%20_verb> <http://www.w3.org/2000/01/rdf-schema#label> "perguntar "@pt .
+<https://github.com/elexis-eu/mwsa#sense411> <http://www.w3.org/2004/02/skos/core#definition> "Fazer perguntas a."@pt .
+<https://github.com/elexis-eu/mwsa#perguntar%20_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perguntar%20_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense412> .
+<https://github.com/elexis-eu/mwsa#perguntar%20_verb> <http://www.w3.org/2000/01/rdf-schema#label> "perguntar "@pt .
+<https://github.com/elexis-eu/mwsa#sense412> <http://www.w3.org/2004/02/skos/core#definition> "Inquirir; investigar."@pt .
+<https://github.com/elexis-eu/mwsa#perguntar%20_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perguntar%20_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense413> .
+<https://github.com/elexis-eu/mwsa#perguntar%20_verb> <http://www.w3.org/2000/01/rdf-schema#label> "perguntar "@pt .
+<https://github.com/elexis-eu/mwsa#sense413> <http://www.w3.org/2004/02/skos/core#definition> "Fazer perguntas."@pt .
+<https://github.com/elexis-eu/mwsa#perguntar%20_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perguntar%20_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense414> .
+<https://github.com/elexis-eu/mwsa#perguntar%20_verb> <http://www.w3.org/2000/01/rdf-schema#label> "perguntar "@pt .
+<https://github.com/elexis-eu/mwsa#sense414> <http://www.w3.org/2004/02/skos/core#definition> "Pedir ou buscar esclarecimentos."@pt .
+<https://github.com/elexis-eu/mwsa#peri-_prefix> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#peri-_prefix> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense419> .
+<https://github.com/elexis-eu/mwsa#peri-_prefix> <http://www.w3.org/2000/01/rdf-schema#label> "peri-"@pt .
+<https://github.com/elexis-eu/mwsa#sense419> <http://www.w3.org/2004/02/skos/core#definition> "(designativo de à roda) "@pt .
+<https://github.com/elexis-eu/mwsa#peri%C3%A2ntio%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#peri%C3%A2ntio%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense421> .
+<https://github.com/elexis-eu/mwsa#peri%C3%A2ntio%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "periântio "@pt .
+<https://github.com/elexis-eu/mwsa#sense421> <http://www.w3.org/2004/02/skos/core#definition> "O mesmo que perianto. "@pt .
+<https://github.com/elexis-eu/mwsa#perianto%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perianto%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense423> .
+<https://github.com/elexis-eu/mwsa#perianto%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "perianto "@pt .
+<https://github.com/elexis-eu/mwsa#sense423> <http://www.w3.org/2004/02/skos/core#definition> "Bot. Invólucro exterior da flor. "@pt .
+<https://github.com/elexis-eu/mwsa#per%C3%ADbolo%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#per%C3%ADbolo%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense425> .
+<https://github.com/elexis-eu/mwsa#per%C3%ADbolo%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "períbolo "@pt .
+<https://github.com/elexis-eu/mwsa#sense425> <http://www.w3.org/2004/02/skos/core#definition> "Espaço entre um edifício e o muro que o cerca."@pt .
+<https://github.com/elexis-eu/mwsa#per%C3%ADbolo%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#per%C3%ADbolo%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense426> .
+<https://github.com/elexis-eu/mwsa#per%C3%ADbolo%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "períbolo "@pt .
+<https://github.com/elexis-eu/mwsa#sense426> <http://www.w3.org/2004/02/skos/core#definition> "Pátio. Ant. Arvoredo em volta dos templos, ordinariamente fechado por um muro; adro. "@pt .
+<https://github.com/elexis-eu/mwsa#peric%C3%A1rdio%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#peric%C3%A1rdio%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense429> .
+<https://github.com/elexis-eu/mwsa#peric%C3%A1rdio%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "pericárdio "@pt .
+<https://github.com/elexis-eu/mwsa#sense429> <http://www.w3.org/2004/02/skos/core#definition> "Saco membranoso, que envolve o coração. "@pt .
+<https://github.com/elexis-eu/mwsa#pericardite%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#pericardite%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense431> .
+<https://github.com/elexis-eu/mwsa#pericardite%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "pericardite "@pt .
+<https://github.com/elexis-eu/mwsa#sense431> <http://www.w3.org/2004/02/skos/core#definition> "Inflamação do pericárdio. "@pt .
+<https://github.com/elexis-eu/mwsa#per%C3%ADcia%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#per%C3%ADcia%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense433> .
+<https://github.com/elexis-eu/mwsa#per%C3%ADcia%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "perícia "@pt .
+<https://github.com/elexis-eu/mwsa#sense433> <http://www.w3.org/2004/02/skos/core#definition> "Qualidade do que é perito; destreza; habilidade. "@pt .
+<https://github.com/elexis-eu/mwsa#pericial%20_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#pericial%20_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense439> .
+<https://github.com/elexis-eu/mwsa#pericial%20_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "pericial "@pt .
+<https://github.com/elexis-eu/mwsa#sense439> <http://www.w3.org/2004/02/skos/core#definition> "Jur. Relativo a peritos: "@pt .
+<https://github.com/elexis-eu/mwsa#periclitante%20_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#periclitante%20_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense443> .
+<https://github.com/elexis-eu/mwsa#periclitante%20_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "periclitante "@pt .
+<https://github.com/elexis-eu/mwsa#sense443> <http://www.w3.org/2004/02/skos/core#definition> "Que periclita, que corre perigo. "@pt .
+<https://github.com/elexis-eu/mwsa#periclitar%20_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#periclitar%20_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense446> .
+<https://github.com/elexis-eu/mwsa#periclitar%20_verb> <http://www.w3.org/2000/01/rdf-schema#label> "periclitar "@pt .
+<https://github.com/elexis-eu/mwsa#sense446> <http://www.w3.org/2004/02/skos/core#definition> "Estar em perigo. "@pt .
+<https://github.com/elexis-eu/mwsa#per%C3%ADdromo%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#per%C3%ADdromo%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense448> .
+<https://github.com/elexis-eu/mwsa#per%C3%ADdromo%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "perídromo "@pt .
+<https://github.com/elexis-eu/mwsa#sense448> <http://www.w3.org/2004/02/skos/core#definition> "Espaço coberto, em volta de um edifício. "@pt .
+<https://github.com/elexis-eu/mwsa#perieco%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perieco%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense450> .
+<https://github.com/elexis-eu/mwsa#perieco%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "perieco "@pt .
+<https://github.com/elexis-eu/mwsa#sense450> <http://www.w3.org/2004/02/skos/core#definition> "Geogr. Habitantes da Terra que, tendo a mesma latitude, têm longitude oposta ou 190° de diferença. "@pt .
+<https://github.com/elexis-eu/mwsa#periferia%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#periferia%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense453> .
+<https://github.com/elexis-eu/mwsa#periferia%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "periferia "@pt .
+<https://github.com/elexis-eu/mwsa#sense453> <http://www.w3.org/2004/02/skos/core#definition> "Contorno de uma figura curvilínea."@pt .
+<https://github.com/elexis-eu/mwsa#periferia%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#periferia%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense454> .
+<https://github.com/elexis-eu/mwsa#periferia%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "periferia "@pt .
+<https://github.com/elexis-eu/mwsa#sense454> <http://www.w3.org/2004/02/skos/core#definition> "Superfície de um sólido."@pt .
+<https://github.com/elexis-eu/mwsa#periferia%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#periferia%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense455> .
+<https://github.com/elexis-eu/mwsa#periferia%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "periferia "@pt .
+<https://github.com/elexis-eu/mwsa#sense455> <http://www.w3.org/2004/02/skos/core#definition> "Circunferência."@pt .
+<https://github.com/elexis-eu/mwsa#periforme%20_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#periforme%20_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense462> .
+<https://github.com/elexis-eu/mwsa#periforme%20_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "periforme "@pt .
+<https://github.com/elexis-eu/mwsa#sense462> <http://www.w3.org/2004/02/skos/core#definition> "Que tem forma de pêra. "@pt .
+<https://github.com/elexis-eu/mwsa#per%C3%ADfrase%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#per%C3%ADfrase%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense464> .
+<https://github.com/elexis-eu/mwsa#per%C3%ADfrase%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "perífrase "@pt .
+<https://github.com/elexis-eu/mwsa#sense464> <http://www.w3.org/2004/02/skos/core#definition> "Conjunto de palavras ou frases, empregadas em vez de uma só palavra ou termo próprio. Circunlóquio."@pt .
+<https://github.com/elexis-eu/mwsa#perifr%C3%A1stico_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perifr%C3%A1stico_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense466> .
+<https://github.com/elexis-eu/mwsa#perifr%C3%A1stico_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "perifrástico"@pt .
+<https://github.com/elexis-eu/mwsa#sense466> <http://www.w3.org/2004/02/skos/core#definition> "Relativo à perífrase. "@pt .
+<https://github.com/elexis-eu/mwsa#perigar%20_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perigar%20_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense469> .
+<https://github.com/elexis-eu/mwsa#perigar%20_verb> <http://www.w3.org/2000/01/rdf-schema#label> "perigar "@pt .
+<https://github.com/elexis-eu/mwsa#sense469> <http://www.w3.org/2004/02/skos/core#definition> "Correr perigo; estar em perigo; periclitar. "@pt .
+<https://github.com/elexis-eu/mwsa#perigar%20_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perigar%20_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense470> .
+<https://github.com/elexis-eu/mwsa#perigar%20_verb> <http://www.w3.org/2000/01/rdf-schema#label> "perigar "@pt .
+<https://github.com/elexis-eu/mwsa#sense470> <http://www.w3.org/2004/02/skos/core#definition> "Prov. Abortar involuntariamente. "@pt .
+<https://github.com/elexis-eu/mwsa#perigeu%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perigeu%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense473> .
+<https://github.com/elexis-eu/mwsa#perigeu%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "perigeu "@pt .
+<https://github.com/elexis-eu/mwsa#sense473> <http://www.w3.org/2004/02/skos/core#definition> "Astron. Ponto, em que a órbita de um planeta está mais próxima da Terra. "@pt .
+<https://github.com/elexis-eu/mwsa#perigo%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perigo%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense475> .
+<https://github.com/elexis-eu/mwsa#perigo%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "perigo "@pt .
+<https://github.com/elexis-eu/mwsa#sense475> <http://www.w3.org/2004/02/skos/core#definition> "Estado, em que alguma coisa se receia; risco."@pt .
+<https://github.com/elexis-eu/mwsa#perigo%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perigo%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense476> .
+<https://github.com/elexis-eu/mwsa#perigo%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "perigo "@pt .
+<https://github.com/elexis-eu/mwsa#sense476> <http://www.w3.org/2004/02/skos/core#definition> "Gravidade."@pt .
+<https://github.com/elexis-eu/mwsa#perigo%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perigo%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense477> .
+<https://github.com/elexis-eu/mwsa#perigo%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "perigo "@pt .
+<https://github.com/elexis-eu/mwsa#sense477> <http://www.w3.org/2004/02/skos/core#definition> "Prov. Aborto involuntário. "@pt .
+<https://github.com/elexis-eu/mwsa#perigosamente%20_adverb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perigosamente%20_adverb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense490> .
+<https://github.com/elexis-eu/mwsa#perigosamente%20_adverb> <http://www.w3.org/2000/01/rdf-schema#label> "perigosamente "@pt .
+<https://github.com/elexis-eu/mwsa#sense490> <http://www.w3.org/2004/02/skos/core#definition> "De modo perigoso; com perigo ou risco. "@pt .
+<https://github.com/elexis-eu/mwsa#perigoso_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perigoso_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense494> .
+<https://github.com/elexis-eu/mwsa#perigoso_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "perigoso"@pt .
+<https://github.com/elexis-eu/mwsa#sense494> <http://www.w3.org/2004/02/skos/core#definition> "Em que há perigo; que causa perigo; que ameaça perigo. "@pt .
+<https://github.com/elexis-eu/mwsa#perimetria%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perimetria%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense502> .
+<https://github.com/elexis-eu/mwsa#perimetria%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "perimetria "@pt .
+<https://github.com/elexis-eu/mwsa#sense502> <http://www.w3.org/2004/02/skos/core#definition> "Medida do perímetro. "@pt .
+<https://github.com/elexis-eu/mwsa#perim%C3%A9trico_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perim%C3%A9trico_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense504> .
+<https://github.com/elexis-eu/mwsa#perim%C3%A9trico_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "perimétrico"@pt .
+<https://github.com/elexis-eu/mwsa#sense504> <http://www.w3.org/2004/02/skos/core#definition> "Relativo ao perímetro. "@pt .
+<https://github.com/elexis-eu/mwsa#per%C3%ADmetro%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#per%C3%ADmetro%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense506> .
+<https://github.com/elexis-eu/mwsa#per%C3%ADmetro%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "perímetro "@pt .
+<https://github.com/elexis-eu/mwsa#sense506> <http://www.w3.org/2004/02/skos/core#definition> "Linha, que contorna uma figura."@pt .
+<https://github.com/elexis-eu/mwsa#per%C3%ADmetro%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#per%C3%ADmetro%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense507> .
+<https://github.com/elexis-eu/mwsa#per%C3%ADmetro%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "perímetro "@pt .
+<https://github.com/elexis-eu/mwsa#sense507> <http://www.w3.org/2004/02/skos/core#definition> "Circunferência."@pt .
+<https://github.com/elexis-eu/mwsa#per%C3%ADmetro%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#per%C3%ADmetro%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense508> .
+<https://github.com/elexis-eu/mwsa#per%C3%ADmetro%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "perímetro "@pt .
+<https://github.com/elexis-eu/mwsa#sense508> <http://www.w3.org/2004/02/skos/core#definition> "Campímetro."@pt .
+<https://github.com/elexis-eu/mwsa#perimir%20_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perimir%20_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense513> .
+<https://github.com/elexis-eu/mwsa#perimir%20_verb> <http://www.w3.org/2000/01/rdf-schema#label> "perimir "@pt .
+<https://github.com/elexis-eu/mwsa#sense513> <http://www.w3.org/2004/02/skos/core#definition> "Pôr termo a (acção ou instância judicial). "@pt .
+<https://github.com/elexis-eu/mwsa#periodicamente%20_adverb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#periodicamente%20_adverb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense516> .
+<https://github.com/elexis-eu/mwsa#periodicamente%20_adverb> <http://www.w3.org/2000/01/rdf-schema#label> "periodicamente "@pt .
+<https://github.com/elexis-eu/mwsa#sense516> <http://www.w3.org/2004/02/skos/core#definition> "De modo periódico. "@pt .
+<https://github.com/elexis-eu/mwsa#periodicidade%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#periodicidade%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense518> .
+<https://github.com/elexis-eu/mwsa#periodicidade%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "periodicidade "@pt .
+<https://github.com/elexis-eu/mwsa#sense518> <http://www.w3.org/2004/02/skos/core#definition> "Qualidade daquilo que é periódico. "@pt .
+<https://github.com/elexis-eu/mwsa#peri%C3%B3dico%20_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#peri%C3%B3dico%20_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense520> .
+<https://github.com/elexis-eu/mwsa#peri%C3%B3dico%20_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "periódico "@pt .
+<https://github.com/elexis-eu/mwsa#sense520> <http://www.w3.org/2004/02/skos/core#definition> "Relativo a período."@pt .
+<https://github.com/elexis-eu/mwsa#peri%C3%B3dico%20_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#peri%C3%B3dico%20_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense521> .
+<https://github.com/elexis-eu/mwsa#peri%C3%B3dico%20_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "periódico "@pt .
+<https://github.com/elexis-eu/mwsa#sense521> <http://www.w3.org/2004/02/skos/core#definition> "Que se repete em determinados tempos."@pt .
+<https://github.com/elexis-eu/mwsa#peri%C3%B3dico%20_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#peri%C3%B3dico%20_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense522> .
+<https://github.com/elexis-eu/mwsa#peri%C3%B3dico%20_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "periódico "@pt .
+<https://github.com/elexis-eu/mwsa#sense522> <http://www.w3.org/2004/02/skos/core#definition> "Que em certas horas ou em certos dias manifesta certos fenómenos ou sintomas."@pt .
+<https://github.com/elexis-eu/mwsa#peri%C3%B3dico%20_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#peri%C3%B3dico%20_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense523> .
+<https://github.com/elexis-eu/mwsa#peri%C3%B3dico%20_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "periódico "@pt .
+<https://github.com/elexis-eu/mwsa#sense523> <http://www.w3.org/2004/02/skos/core#definition> "Intermitente"@pt .
+<https://github.com/elexis-eu/mwsa#peri%C3%B3dico%20_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#peri%C3%B3dico%20_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense524> .
+<https://github.com/elexis-eu/mwsa#peri%C3%B3dico%20_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "periódico "@pt .
+<https://github.com/elexis-eu/mwsa#sense524> <http://www.w3.org/2004/02/skos/core#definition> "Aritm. Diz-se das fracções decimais, cujos algarismos, ou somente alguns, se reproduzem na mesma ordem infinitamente."@pt .
+<https://github.com/elexis-eu/mwsa#peri%C3%B3dico%20_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#peri%C3%B3dico%20_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense525> .
+<https://github.com/elexis-eu/mwsa#peri%C3%B3dico%20_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "periódico "@pt .
+<https://github.com/elexis-eu/mwsa#sense525> <http://www.w3.org/2004/02/skos/core#definition> "Diz-se das obras ou publicações, que aparecem em tempos determinados. "@pt .
+<https://github.com/elexis-eu/mwsa#periodizar%20_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#periodizar%20_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense533> .
+<https://github.com/elexis-eu/mwsa#periodizar%20_verb> <http://www.w3.org/2000/01/rdf-schema#label> "periodizar "@pt .
+<https://github.com/elexis-eu/mwsa#sense533> <http://www.w3.org/2004/02/skos/core#definition> "Neol. Dividir em períodos; expor por períodos. "@pt .
+<https://github.com/elexis-eu/mwsa#per%C3%ADodo%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#per%C3%ADodo%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense536> .
+<https://github.com/elexis-eu/mwsa#per%C3%ADodo%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "período "@pt .
+<https://github.com/elexis-eu/mwsa#sense536> <http://www.w3.org/2004/02/skos/core#definition> "Tempo, que decorre entre dois factos."@pt .
+<https://github.com/elexis-eu/mwsa#per%C3%ADodo%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#per%C3%ADodo%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense537> .
+<https://github.com/elexis-eu/mwsa#per%C3%ADodo%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "período "@pt .
+<https://github.com/elexis-eu/mwsa#sense537> <http://www.w3.org/2004/02/skos/core#definition> "Tempo, durante o qual um astro faz a sua revolução."@pt .
+<https://github.com/elexis-eu/mwsa#per%C3%ADodo%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#per%C3%ADodo%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense538> .
+<https://github.com/elexis-eu/mwsa#per%C3%ADodo%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "período "@pt .
+<https://github.com/elexis-eu/mwsa#sense538> <http://www.w3.org/2004/02/skos/core#definition> "Espaço de tempo, entre dois acessos sucessivos de febre intermitente."@pt .
+<https://github.com/elexis-eu/mwsa#per%C3%ADodo%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#per%C3%ADodo%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense539> .
+<https://github.com/elexis-eu/mwsa#per%C3%ADodo%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "período "@pt .
+<https://github.com/elexis-eu/mwsa#sense539> <http://www.w3.org/2004/02/skos/core#definition> "Frase, que é composta de mais de um membro e forma sentido completo e independente."@pt .
+<https://github.com/elexis-eu/mwsa#per%C3%ADodo%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#per%C3%ADodo%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense540> .
+<https://github.com/elexis-eu/mwsa#per%C3%ADodo%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "período "@pt .
+<https://github.com/elexis-eu/mwsa#sense540> <http://www.w3.org/2004/02/skos/core#definition> "Qualquer espaço de tempo. "@pt .
+<https://github.com/elexis-eu/mwsa#per%C3%ADodo%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#per%C3%ADodo%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense541> .
+<https://github.com/elexis-eu/mwsa#per%C3%ADodo%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "período "@pt .
+<https://github.com/elexis-eu/mwsa#sense541> <http://www.w3.org/2004/02/skos/core#definition> "Aritm. Parte de uma fracção periódica, que se reproduz infinitamente. "@pt .
+<https://github.com/elexis-eu/mwsa#per%C3%ADodo%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#per%C3%ADodo%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense542> .
+<https://github.com/elexis-eu/mwsa#per%C3%ADodo%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "período "@pt .
+<https://github.com/elexis-eu/mwsa#sense542> <http://www.w3.org/2004/02/skos/core#definition> "Mús. Frase musical, composta de diversos desenhos, agrupados em dois ou mais ritmos, formando sentido completo. "@pt .
+<https://github.com/elexis-eu/mwsa#peri%C3%B3steo%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#peri%C3%B3steo%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense553> .
+<https://github.com/elexis-eu/mwsa#peri%C3%B3steo%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "periósteo "@pt .
+<https://github.com/elexis-eu/mwsa#sense553> <http://www.w3.org/2004/02/skos/core#definition> "Anat. Membrana fibrosa, que reveste os ossos. "@pt .
+<https://github.com/elexis-eu/mwsa#peripat%C3%A9tico%20_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#peripat%C3%A9tico%20_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense555> .
+<https://github.com/elexis-eu/mwsa#peripat%C3%A9tico%20_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "peripatético "@pt .
+<https://github.com/elexis-eu/mwsa#sense555> <http://www.w3.org/2004/02/skos/core#definition> "Relativo à filosofia de Aristóteles."@pt .
+<https://github.com/elexis-eu/mwsa#peripat%C3%A9tico%20_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#peripat%C3%A9tico%20_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense556> .
+<https://github.com/elexis-eu/mwsa#peripat%C3%A9tico%20_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "peripatético "@pt .
+<https://github.com/elexis-eu/mwsa#sense556> <http://www.w3.org/2004/02/skos/core#definition> "Que segue a doutrina de Aristóteles."@pt .
+<https://github.com/elexis-eu/mwsa#peripat%C3%A9tico%20_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#peripat%C3%A9tico%20_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense557> .
+<https://github.com/elexis-eu/mwsa#peripat%C3%A9tico%20_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "peripatético "@pt .
+<https://github.com/elexis-eu/mwsa#sense557> <http://www.w3.org/2004/02/skos/core#definition> "Que se ensina, passeando. "@pt .
+<https://github.com/elexis-eu/mwsa#peripatetismo%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#peripatetismo%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense562> .
+<https://github.com/elexis-eu/mwsa#peripatetismo%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "peripatetismo "@pt .
+<https://github.com/elexis-eu/mwsa#sense562> <http://www.w3.org/2004/02/skos/core#definition> "Filosofia de Aristóteles. "@pt .
+<https://github.com/elexis-eu/mwsa#perip%C3%A9cia%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perip%C3%A9cia%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense565> .
+<https://github.com/elexis-eu/mwsa#perip%C3%A9cia%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "peripécia "@pt .
+<https://github.com/elexis-eu/mwsa#sense565> <http://www.w3.org/2004/02/skos/core#definition> "Sucesso num poema, numa peça teatral, etc., que muda a face das coisas. "@pt .
+<https://github.com/elexis-eu/mwsa#perip%C3%A9cia%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perip%C3%A9cia%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense566> .
+<https://github.com/elexis-eu/mwsa#perip%C3%A9cia%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "peripécia "@pt .
+<https://github.com/elexis-eu/mwsa#sense566> <http://www.w3.org/2004/02/skos/core#definition> "Fam. Sucesso imprevisto; incidente."@pt .
+<https://github.com/elexis-eu/mwsa#p%C3%A9riplo%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#p%C3%A9riplo%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense569> .
+<https://github.com/elexis-eu/mwsa#p%C3%A9riplo%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "périplo "@pt .
+<https://github.com/elexis-eu/mwsa#sense569> <http://www.w3.org/2004/02/skos/core#definition> "Navegação à volta de um mar ou pelas costas de um país."@pt .
+<https://github.com/elexis-eu/mwsa#p%C3%A9riplo%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#p%C3%A9riplo%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense570> .
+<https://github.com/elexis-eu/mwsa#p%C3%A9riplo%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "périplo "@pt .
+<https://github.com/elexis-eu/mwsa#sense570> <http://www.w3.org/2004/02/skos/core#definition> "Relação de uma viagem desse género. "@pt .
+<https://github.com/elexis-eu/mwsa#peripneumonia%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#peripneumonia%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense574> .
+<https://github.com/elexis-eu/mwsa#peripneumonia%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "peripneumonia "@pt .
+<https://github.com/elexis-eu/mwsa#sense574> <http://www.w3.org/2004/02/skos/core#definition> "Inflamação do pulmão. "@pt .
+<https://github.com/elexis-eu/mwsa#per%C3%ADptero%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#per%C3%ADptero%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense576> .
+<https://github.com/elexis-eu/mwsa#per%C3%ADptero%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "períptero "@pt .
+<https://github.com/elexis-eu/mwsa#sense576> <http://www.w3.org/2004/02/skos/core#definition> "Edifício, que em toda a volta tem colunas insoladas. "@pt .
+<https://github.com/elexis-eu/mwsa#periquito%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#periquito%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense578> .
+<https://github.com/elexis-eu/mwsa#periquito%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "periquito "@pt .
+<https://github.com/elexis-eu/mwsa#sense578> <http://www.w3.org/2004/02/skos/core#definition> "Pequena ave, semelhante ao papagaio. "@pt .
+<https://github.com/elexis-eu/mwsa#periquito%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#periquito%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense579> .
+<https://github.com/elexis-eu/mwsa#periquito%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "periquito "@pt .
+<https://github.com/elexis-eu/mwsa#sense579> <http://www.w3.org/2004/02/skos/core#definition> "Prov. trasm. O mesmo que paio. "@pt .
+<https://github.com/elexis-eu/mwsa#per%C3%ADscios%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#per%C3%ADscios%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense586> .
+<https://github.com/elexis-eu/mwsa#per%C3%ADscios%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "períscios "@pt .
+<https://github.com/elexis-eu/mwsa#sense586> <http://www.w3.org/2004/02/skos/core#definition> "Geogr. Habitantes das zonas glaciais, a sombra dos quais, em um só dia, se projecta sucessivamente para todos os lados do horizonte."@pt .
+<https://github.com/elexis-eu/mwsa#perisc%C3%B3pico_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perisc%C3%B3pico_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense588> .
+<https://github.com/elexis-eu/mwsa#perisc%C3%B3pico_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "periscópico"@pt .
+<https://github.com/elexis-eu/mwsa#sense588> <http://www.w3.org/2004/02/skos/core#definition> "Relativo ao periscópio. "@pt .
+<https://github.com/elexis-eu/mwsa#perisc%C3%B3pico_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perisc%C3%B3pico_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense589> .
+<https://github.com/elexis-eu/mwsa#perisc%C3%B3pico_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "periscópico"@pt .
+<https://github.com/elexis-eu/mwsa#sense589> <http://www.w3.org/2004/02/skos/core#definition> "Med. Diz-se de um vidro, em forma de menisco, empregado em evitar a desigualdade e as confusões da vista. "@pt .
+<https://github.com/elexis-eu/mwsa#perissod%C3%A1ctilos%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perissod%C3%A1ctilos%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense593> .
+<https://github.com/elexis-eu/mwsa#perissod%C3%A1ctilos%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "perissodáctilos "@pt .
+<https://github.com/elexis-eu/mwsa#sense593> <http://www.w3.org/2004/02/skos/core#definition> "Ordem da classe dos mamíferos, que compreende os animais, cujos dedos são em número ímpar, como os tridigitados e os solípedes."@pt .
+<https://github.com/elexis-eu/mwsa#perissologia%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perissologia%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense596> .
+<https://github.com/elexis-eu/mwsa#perissologia%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "perissologia "@pt .
+<https://github.com/elexis-eu/mwsa#sense596> <http://www.w3.org/2004/02/skos/core#definition> "Ret. Repetição, por diversos termos, de um pensamento já expresso. Espécie de pleonasmo."@pt .
+<https://github.com/elexis-eu/mwsa#perist%C3%A1ltico_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perist%C3%A1ltico_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense598> .
+<https://github.com/elexis-eu/mwsa#perist%C3%A1ltico_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "peristáltico"@pt .
+<https://github.com/elexis-eu/mwsa#sense598> <http://www.w3.org/2004/02/skos/core#definition> "Med. Diz-se da contracção sucessiva das fibras circulares da túnica musculosa do estômago e do intestino, quando essa contracção se realiza de cima para baixo. "@pt .
+<https://github.com/elexis-eu/mwsa#per%C3%ADstase%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#per%C3%ADstase%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense600> .
+<https://github.com/elexis-eu/mwsa#per%C3%ADstase%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "perístase "@pt .
+<https://github.com/elexis-eu/mwsa#sense600> <http://www.w3.org/2004/02/skos/core#definition> "Assunto completo de um discurso, com todas as suas minuciosidades. "@pt .
+<https://github.com/elexis-eu/mwsa#peristilo%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#peristilo%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense602> .
+<https://github.com/elexis-eu/mwsa#peristilo%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "peristilo "@pt .
+<https://github.com/elexis-eu/mwsa#sense602> <http://www.w3.org/2004/02/skos/core#definition> "Lugar interiormente cercado de colunas, como os claustros dos conventos."@pt .
+<https://github.com/elexis-eu/mwsa#peristilo%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#peristilo%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense603> .
+<https://github.com/elexis-eu/mwsa#peristilo%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "peristilo "@pt .
+<https://github.com/elexis-eu/mwsa#sense603> <http://www.w3.org/2004/02/skos/core#definition> "Conjunto de colunas insuladas, na fronteira de um edifício."@pt .
+<https://github.com/elexis-eu/mwsa#peristilo%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#peristilo%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense604> .
+<https://github.com/elexis-eu/mwsa#peristilo%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "peristilo "@pt .
+<https://github.com/elexis-eu/mwsa#sense604> <http://www.w3.org/2004/02/skos/core#definition> "Aquilo que serve de introdução; o que antecede. "@pt .
+<https://github.com/elexis-eu/mwsa#perito%20_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perito%20_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense608> .
+<https://github.com/elexis-eu/mwsa#perito%20_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "perito "@pt .
+<https://github.com/elexis-eu/mwsa#sense608> <http://www.w3.org/2004/02/skos/core#definition> "Experimentado, sabedor."@pt .
+<https://github.com/elexis-eu/mwsa#perito%20_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perito%20_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense609> .
+<https://github.com/elexis-eu/mwsa#perito%20_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "perito "@pt .
+<https://github.com/elexis-eu/mwsa#sense609> <http://www.w3.org/2004/02/skos/core#definition> "Hábil; douto; prático. "@pt .
+<https://github.com/elexis-eu/mwsa#perito%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perito%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense612> .
+<https://github.com/elexis-eu/mwsa#perito%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "perito "@pt .
+<https://github.com/elexis-eu/mwsa#sense612> <http://www.w3.org/2004/02/skos/core#definition> "Aquele que é sabedor ou prático, em determinados assuntos."@pt .
+<https://github.com/elexis-eu/mwsa#perito%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perito%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense613> .
+<https://github.com/elexis-eu/mwsa#perito%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "perito "@pt .
+<https://github.com/elexis-eu/mwsa#sense613> <http://www.w3.org/2004/02/skos/core#definition> "Avaliador, nomeado judicialmente."@pt .
+<https://github.com/elexis-eu/mwsa#perito%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perito%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense614> .
+<https://github.com/elexis-eu/mwsa#perito%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "perito "@pt .
+<https://github.com/elexis-eu/mwsa#sense614> <http://www.w3.org/2004/02/skos/core#definition> "Aquele que é judicialmente nomeado para um exame ou vistoria; louvado. "@pt .
+<https://github.com/elexis-eu/mwsa#peritoneu%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#peritoneu%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense618> .
+<https://github.com/elexis-eu/mwsa#peritoneu%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "peritoneu "@pt .
+<https://github.com/elexis-eu/mwsa#sense618> <http://www.w3.org/2004/02/skos/core#definition> "Anat. Membrana serosa, que reveste interiormente o ventre. "@pt .
+<https://github.com/elexis-eu/mwsa#perit%C3%B3nio%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perit%C3%B3nio%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense620> .
+<https://github.com/elexis-eu/mwsa#perit%C3%B3nio%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "peritónio "@pt .
+<https://github.com/elexis-eu/mwsa#sense620> <http://www.w3.org/2004/02/skos/core#definition> "(V. peritoneu) "@pt .
+<https://github.com/elexis-eu/mwsa#peritonite%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#peritonite%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense622> .
+<https://github.com/elexis-eu/mwsa#peritonite%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "peritonite "@pt .
+<https://github.com/elexis-eu/mwsa#sense622> <http://www.w3.org/2004/02/skos/core#definition> "Inflamação do peritoneu. "@pt .
+<https://github.com/elexis-eu/mwsa#perjurar%20_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perjurar%20_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense624> .
+<https://github.com/elexis-eu/mwsa#perjurar%20_verb> <http://www.w3.org/2000/01/rdf-schema#label> "perjurar "@pt .
+<https://github.com/elexis-eu/mwsa#sense624> <http://www.w3.org/2004/02/skos/core#definition> "Abjurar"@pt .
+<https://github.com/elexis-eu/mwsa#perjurar%20_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perjurar%20_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense625> .
+<https://github.com/elexis-eu/mwsa#perjurar%20_verb> <http://www.w3.org/2000/01/rdf-schema#label> "perjurar "@pt .
+<https://github.com/elexis-eu/mwsa#sense625> <http://www.w3.org/2004/02/skos/core#definition> "Jurar falso; cometer perjúrio."@pt .
+<https://github.com/elexis-eu/mwsa#perjurar%20_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perjurar%20_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense626> .
+<https://github.com/elexis-eu/mwsa#perjurar%20_verb> <http://www.w3.org/2000/01/rdf-schema#label> "perjurar "@pt .
+<https://github.com/elexis-eu/mwsa#sense626> <http://www.w3.org/2004/02/skos/core#definition> "Faltar a promessas juradas. "@pt .
+<https://github.com/elexis-eu/mwsa#perj%C3%BArio%20%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perj%C3%BArio%20%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense631> .
+<https://github.com/elexis-eu/mwsa#perj%C3%BArio%20%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "perjúrio  "@pt .
+<https://github.com/elexis-eu/mwsa#sense631> <http://www.w3.org/2004/02/skos/core#definition> "Acto de perjurar; juramento falso. "@pt .
+<https://github.com/elexis-eu/mwsa#perjuro%20_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perjuro%20_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense636> .
+<https://github.com/elexis-eu/mwsa#perjuro%20_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "perjuro "@pt .
+<https://github.com/elexis-eu/mwsa#sense636> <http://www.w3.org/2004/02/skos/core#definition> "Aquele que jura falso, ou que falta à fé jurada. "@pt .
+<https://github.com/elexis-eu/mwsa#perla%20_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perla%20_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense641> .
+<https://github.com/elexis-eu/mwsa#perla%20_noun> <http://www.w3.org/2000/01/rdf-schema#label> "perla "@pt .
+<https://github.com/elexis-eu/mwsa#sense641> <http://www.w3.org/2004/02/skos/core#definition> "(Forma divergente e antiga de pérola.)"@pt .
+<https://github.com/elexis-eu/mwsa#perlar%20_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perlar%20_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense644> .
+<https://github.com/elexis-eu/mwsa#perlar%20_verb> <http://www.w3.org/2000/01/rdf-schema#label> "perlar "@pt .
+<https://github.com/elexis-eu/mwsa#sense644> <http://www.w3.org/2004/02/skos/core#definition> "Dar forma de pérola a; perolizar."@pt .
+<https://github.com/elexis-eu/mwsa#perlar%20_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perlar%20_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense645> .
+<https://github.com/elexis-eu/mwsa#perlar%20_verb> <http://www.w3.org/2000/01/rdf-schema#label> "perlar "@pt .
+<https://github.com/elexis-eu/mwsa#sense645> <http://www.w3.org/2004/02/skos/core#definition> "Tornar como que revestido de pérolas"@pt .
+<https://github.com/elexis-eu/mwsa#perl%C3%ADfero_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#perl%C3%ADfero_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense648> .
+<https://github.com/elexis-eu/mwsa#perl%C3%ADfero_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "perlífero"@pt .
+<https://github.com/elexis-eu/mwsa#sense648> <http://www.w3.org/2004/02/skos/core#definition> "(V. perolífero) "@pt .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense650> .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/2000/01/rdf-schema#label> "coração"@pt .
+<https://github.com/elexis-eu/mwsa#sense650> <http://www.w3.org/2004/02/skos/core#definition> "Órgão musculoso, que é o centro da circulação do sangue."@pt .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense651> .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/2000/01/rdf-schema#label> "coração"@pt .
+<https://github.com/elexis-eu/mwsa#sense651> <http://www.w3.org/2004/02/skos/core#definition> "Sentimento moral"@pt .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense652> .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/2000/01/rdf-schema#label> "coração"@pt .
+<https://github.com/elexis-eu/mwsa#sense652> <http://www.w3.org/2004/02/skos/core#definition> "Complexo de faculdades afectivas: saiu-lhe do coração aquele grito."@pt .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense653> .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/2000/01/rdf-schema#label> "coração"@pt .
+<https://github.com/elexis-eu/mwsa#sense653> <http://www.w3.org/2004/02/skos/core#definition> "Consciência."@pt .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense654> .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/2000/01/rdf-schema#label> "coração"@pt .
+<https://github.com/elexis-eu/mwsa#sense654> <http://www.w3.org/2004/02/skos/core#definition> "Memória."@pt .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense655> .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/2000/01/rdf-schema#label> "coração"@pt .
+<https://github.com/elexis-eu/mwsa#sense655> <http://www.w3.org/2004/02/skos/core#definition> "Peito"@pt .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense656> .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/2000/01/rdf-schema#label> "coração"@pt .
+<https://github.com/elexis-eu/mwsa#sense656> <http://www.w3.org/2004/02/skos/core#definition> "Afeição, amor."@pt .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense657> .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/2000/01/rdf-schema#label> "coração"@pt .
+<https://github.com/elexis-eu/mwsa#sense657> <http://www.w3.org/2004/02/skos/core#definition> "Pessoa, que alimenta sentimentos morais e exerce faculdades afetivas."@pt .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense658> .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/2000/01/rdf-schema#label> "coração"@pt .
+<https://github.com/elexis-eu/mwsa#sense658> <http://www.w3.org/2004/02/skos/core#definition> "Generosidade."@pt .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense659> .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/2000/01/rdf-schema#label> "coração"@pt .
+<https://github.com/elexis-eu/mwsa#sense659> <http://www.w3.org/2004/02/skos/core#definition> "Pressentimento."@pt .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense660> .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/2000/01/rdf-schema#label> "coração"@pt .
+<https://github.com/elexis-eu/mwsa#sense660> <http://www.w3.org/2004/02/skos/core#definition> "Centro."@pt .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense661> .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/2000/01/rdf-schema#label> "coração"@pt .
+<https://github.com/elexis-eu/mwsa#sense661> <http://www.w3.org/2004/02/skos/core#definition> "Objecto, que tem a forma de coração."@pt .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense662> .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/2000/01/rdf-schema#label> "coração"@pt .
+<https://github.com/elexis-eu/mwsa#sense662> <http://www.w3.org/2004/02/skos/core#definition> "Ânimo, coragem."@pt .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense663> .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/2000/01/rdf-schema#label> "coração"@pt .
+<https://github.com/elexis-eu/mwsa#sense663> <http://www.w3.org/2004/02/skos/core#definition> "Vontade."@pt .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense664> .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/2000/01/rdf-schema#label> "coração"@pt .
+<https://github.com/elexis-eu/mwsa#sense664> <http://www.w3.org/2004/02/skos/core#definition> "Designação de várias plantas."@pt .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense665> .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/2000/01/rdf-schema#label> "coração"@pt .
+<https://github.com/elexis-eu/mwsa#sense665> <http://www.w3.org/2004/02/skos/core#definition> "Nome de várias estrelas."@pt .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense666> .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/2000/01/rdf-schema#label> "coração"@pt .
+<https://github.com/elexis-eu/mwsa#sense666> <http://www.w3.org/2004/02/skos/core#definition> "prov. Cada um dos pesos do tear, em forma de coração."@pt .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense667> .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/2000/01/rdf-schema#label> "coração"@pt .
+<https://github.com/elexis-eu/mwsa#sense667> <http://www.w3.org/2004/02/skos/core#definition> "prov. alent. Peça da forquilha, em que entram os dentes e o cabo."@pt .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense668> .
+<https://github.com/elexis-eu/mwsa#cora%C3%A7%C3%A3o_noun> <http://www.w3.org/2000/01/rdf-schema#label> "coração"@pt .
+<https://github.com/elexis-eu/mwsa#sense668> <http://www.w3.org/2004/02/skos/core#definition> "prov. Alent. Peça fundida, ou formada de troços de carris, angular, na intersecção de via férrea."@pt .
+<https://github.com/elexis-eu/mwsa#praia_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#praia_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense677> .
+<https://github.com/elexis-eu/mwsa#praia_noun> <http://www.w3.org/2000/01/rdf-schema#label> "praia"@pt .
+<https://github.com/elexis-eu/mwsa#sense677> <http://www.w3.org/2004/02/skos/core#definition> "Orla de terra, geralmente coberta de areia, confinando com o mar."@pt .
+<https://github.com/elexis-eu/mwsa#praia_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#praia_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense678> .
+<https://github.com/elexis-eu/mwsa#praia_noun> <http://www.w3.org/2000/01/rdf-schema#label> "praia"@pt .
+<https://github.com/elexis-eu/mwsa#sense678> <http://www.w3.org/2004/02/skos/core#definition> "Beiramar."@pt .
+<https://github.com/elexis-eu/mwsa#praia_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#praia_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense679> .
+<https://github.com/elexis-eu/mwsa#praia_noun> <http://www.w3.org/2000/01/rdf-schema#label> "praia"@pt .
+<https://github.com/elexis-eu/mwsa#sense679> <http://www.w3.org/2004/02/skos/core#definition> "Região, banhada pelo mar; litoral; margem."@pt .
+<https://github.com/elexis-eu/mwsa#praia_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#praia_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense680> .
+<https://github.com/elexis-eu/mwsa#praia_noun> <http://www.w3.org/2000/01/rdf-schema#label> "praia"@pt .
+<https://github.com/elexis-eu/mwsa#sense680> <http://www.w3.org/2004/02/skos/core#definition> "Pl. Marn. Depósito geral das águas que alimentam a salina, e que também se chama loiças, (cp. loiça)."@pt .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense683> .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/2000/01/rdf-schema#label> "especializar"@pt .
+<https://github.com/elexis-eu/mwsa#sense683> <http://www.w3.org/2004/02/skos/core#definition> "Tornar especial, particularizar."@pt .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense684> .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/2000/01/rdf-schema#label> "especializar"@pt .
+<https://github.com/elexis-eu/mwsa#sense684> <http://www.w3.org/2004/02/skos/core#definition> "Distinguir."@pt .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense685> .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/2000/01/rdf-schema#label> "especializar"@pt .
+<https://github.com/elexis-eu/mwsa#sense685> <http://www.w3.org/2004/02/skos/core#definition> "Preferir, pôr em primeiro lugar."@pt .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense686> .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/2000/01/rdf-schema#label> "especializar"@pt .
+<https://github.com/elexis-eu/mwsa#sense686> <http://www.w3.org/2004/02/skos/core#definition> "Qualidade."@pt .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense687> .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/2000/01/rdf-schema#label> "especializar"@pt .
+<https://github.com/elexis-eu/mwsa#sense687> <http://www.w3.org/2004/02/skos/core#definition> "Condição."@pt .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense688> .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/2000/01/rdf-schema#label> "especializar"@pt .
+<https://github.com/elexis-eu/mwsa#sense688> <http://www.w3.org/2004/02/skos/core#definition> "Carácter."@pt .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense689> .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/2000/01/rdf-schema#label> "especializar"@pt .
+<https://github.com/elexis-eu/mwsa#sense689> <http://www.w3.org/2004/02/skos/core#definition> "Aparência."@pt .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense690> .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/2000/01/rdf-schema#label> "especializar"@pt .
+<https://github.com/elexis-eu/mwsa#sense690> <http://www.w3.org/2004/02/skos/core#definition> "Semelhança externa."@pt .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense691> .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/2000/01/rdf-schema#label> "especializar"@pt .
+<https://github.com/elexis-eu/mwsa#sense691> <http://www.w3.org/2004/02/skos/core#definition> "Caso especial."@pt .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense692> .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/2000/01/rdf-schema#label> "especializar"@pt .
+<https://github.com/elexis-eu/mwsa#sense692> <http://www.w3.org/2004/02/skos/core#definition> "Géneros alimentícios, que se dão em pagamento."@pt .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense693> .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/2000/01/rdf-schema#label> "especializar"@pt .
+<https://github.com/elexis-eu/mwsa#sense693> <http://www.w3.org/2004/02/skos/core#definition> "Dinheiro."@pt .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense694> .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/2000/01/rdf-schema#label> "especializar"@pt .
+<https://github.com/elexis-eu/mwsa#sense694> <http://www.w3.org/2004/02/skos/core#definition> "Subdivisão de certas classificações."@pt .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense695> .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/2000/01/rdf-schema#label> "especializar"@pt .
+<https://github.com/elexis-eu/mwsa#sense695> <http://www.w3.org/2004/02/skos/core#definition> "Conjunto de seres que têm a mesma essência"@pt .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense696> .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/2000/01/rdf-schema#label> "especializar"@pt .
+<https://github.com/elexis-eu/mwsa#sense696> <http://www.w3.org/2004/02/skos/core#definition> "Casta."@pt .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense697> .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/2000/01/rdf-schema#label> "especializar"@pt .
+<https://github.com/elexis-eu/mwsa#sense697> <http://www.w3.org/2004/02/skos/core#definition> "Especiaria."@pt .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense698> .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/2000/01/rdf-schema#label> "especializar"@pt .
+<https://github.com/elexis-eu/mwsa#sense698> <http://www.w3.org/2004/02/skos/core#definition> "Doce de amêndoa pisada."@pt .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense699> .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/2000/01/rdf-schema#label> "especializar"@pt .
+<https://github.com/elexis-eu/mwsa#sense699> <http://www.w3.org/2004/02/skos/core#definition> "Quantidade da mesma natureza, em aritmética."@pt .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense700> .
+<https://github.com/elexis-eu/mwsa#especializar_verb> <http://www.w3.org/2000/01/rdf-schema#label> "especializar"@pt .
+<https://github.com/elexis-eu/mwsa#sense700> <http://www.w3.org/2004/02/skos/core#definition> "Fam. Surpresa, intriga: isso faz-me espécie."@pt .
+<https://github.com/elexis-eu/mwsa#especificar_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especificar_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense716> .
+<https://github.com/elexis-eu/mwsa#especificar_verb> <http://www.w3.org/2000/01/rdf-schema#label> "especificar"@pt .
+<https://github.com/elexis-eu/mwsa#sense716> <http://www.w3.org/2004/02/skos/core#definition> "Indicar a espécie de."@pt .
+<https://github.com/elexis-eu/mwsa#especificar_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especificar_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense717> .
+<https://github.com/elexis-eu/mwsa#especificar_verb> <http://www.w3.org/2000/01/rdf-schema#label> "especificar"@pt .
+<https://github.com/elexis-eu/mwsa#sense717> <http://www.w3.org/2004/02/skos/core#definition> "Explicar por miúdo."@pt .
+<https://github.com/elexis-eu/mwsa#especificar_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especificar_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense718> .
+<https://github.com/elexis-eu/mwsa#especificar_verb> <http://www.w3.org/2000/01/rdf-schema#label> "especificar"@pt .
+<https://github.com/elexis-eu/mwsa#sense718> <http://www.w3.org/2004/02/skos/core#definition> "Apontar individualmente."@pt .
+<https://github.com/elexis-eu/mwsa#especificar_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#especificar_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense719> .
+<https://github.com/elexis-eu/mwsa#especificar_verb> <http://www.w3.org/2000/01/rdf-schema#label> "especificar"@pt .
+<https://github.com/elexis-eu/mwsa#sense719> <http://www.w3.org/2004/02/skos/core#definition> "Especializar."@pt .
+<https://github.com/elexis-eu/mwsa#esp%C3%A9cime_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#esp%C3%A9cime_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense723> .
+<https://github.com/elexis-eu/mwsa#esp%C3%A9cime_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espécime"@pt .
+<https://github.com/elexis-eu/mwsa#sense723> <http://www.w3.org/2004/02/skos/core#definition> "Modelo, amostra."@pt .
+<https://github.com/elexis-eu/mwsa#esp%C3%A9cime_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#esp%C3%A9cime_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense724> .
+<https://github.com/elexis-eu/mwsa#esp%C3%A9cime_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espécime"@pt .
+<https://github.com/elexis-eu/mwsa#sense724> <http://www.w3.org/2004/02/skos/core#definition> "Exemplar."@pt .
+<https://github.com/elexis-eu/mwsa#espelhento_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espelhento_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense726> .
+<https://github.com/elexis-eu/mwsa#espelhento_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "espelhento"@pt .
+<https://github.com/elexis-eu/mwsa#sense726> <http://www.w3.org/2004/02/skos/core#definition> "Polido."@pt .
+<https://github.com/elexis-eu/mwsa#espelhento_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espelhento_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense727> .
+<https://github.com/elexis-eu/mwsa#espelhento_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "espelhento"@pt .
+<https://github.com/elexis-eu/mwsa#sense727> <http://www.w3.org/2004/02/skos/core#definition> "Que reflecte como um espelho"@pt .
+<https://github.com/elexis-eu/mwsa#espera_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espera_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense729> .
+<https://github.com/elexis-eu/mwsa#espera_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espera"@pt .
+<https://github.com/elexis-eu/mwsa#sense729> <http://www.w3.org/2004/02/skos/core#definition> "Acto de esperar."@pt .
+<https://github.com/elexis-eu/mwsa#espera_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espera_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense730> .
+<https://github.com/elexis-eu/mwsa#espera_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espera"@pt .
+<https://github.com/elexis-eu/mwsa#sense730> <http://www.w3.org/2004/02/skos/core#definition> "Esperança."@pt .
+<https://github.com/elexis-eu/mwsa#espera_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espera_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense731> .
+<https://github.com/elexis-eu/mwsa#espera_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espera"@pt .
+<https://github.com/elexis-eu/mwsa#sense731> <http://www.w3.org/2004/02/skos/core#definition> "Adiamento."@pt .
+<https://github.com/elexis-eu/mwsa#espera_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espera_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense732> .
+<https://github.com/elexis-eu/mwsa#espera_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espera"@pt .
+<https://github.com/elexis-eu/mwsa#sense732> <http://www.w3.org/2004/02/skos/core#definition> "Demora."@pt .
+<https://github.com/elexis-eu/mwsa#espera_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espera_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense733> .
+<https://github.com/elexis-eu/mwsa#espera_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espera"@pt .
+<https://github.com/elexis-eu/mwsa#sense733> <http://www.w3.org/2004/02/skos/core#definition> "Lugar, em que se espera."@pt .
+<https://github.com/elexis-eu/mwsa#espera_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espera_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense734> .
+<https://github.com/elexis-eu/mwsa#espera_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espera"@pt .
+<https://github.com/elexis-eu/mwsa#sense734> <http://www.w3.org/2004/02/skos/core#definition> "Emboscada."@pt .
+<https://github.com/elexis-eu/mwsa#espera_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espera_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense735> .
+<https://github.com/elexis-eu/mwsa#espera_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espera"@pt .
+<https://github.com/elexis-eu/mwsa#sense735> <http://www.w3.org/2004/02/skos/core#definition> "Peça de ferro, cravada numa das extremidades do banco de carpinteiro ou marceneiro, para segurar as tábuas que se aplainam e outras peças de madeira em que se trabalha."@pt .
+<https://github.com/elexis-eu/mwsa#espera_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espera_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense736> .
+<https://github.com/elexis-eu/mwsa#espera_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espera"@pt .
+<https://github.com/elexis-eu/mwsa#sense736> <http://www.w3.org/2004/02/skos/core#definition> "Antiga peça de artilharia."@pt .
+<https://github.com/elexis-eu/mwsa#espera_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espera_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense737> .
+<https://github.com/elexis-eu/mwsa#espera_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espera"@pt .
+<https://github.com/elexis-eu/mwsa#sense737> <http://www.w3.org/2004/02/skos/core#definition> "Espigão de ferro ou madeira, de aplicação análoga à da espera de carpinteiro."@pt .
+<https://github.com/elexis-eu/mwsa#espera_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espera_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense738> .
+<https://github.com/elexis-eu/mwsa#espera_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espera"@pt .
+<https://github.com/elexis-eu/mwsa#sense738> <http://www.w3.org/2004/02/skos/core#definition> "Pequena vara, que os podadores deixam em sitio anterior à vara da poda, para obstar ao alongamento das vides, e que cortam no ano seguinte, ficando assim mais curta e mais forte a vara da poda."@pt .
+<https://github.com/elexis-eu/mwsa#espera_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espera_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense739> .
+<https://github.com/elexis-eu/mwsa#espera_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espera"@pt .
+<https://github.com/elexis-eu/mwsa#sense739> <http://www.w3.org/2004/02/skos/core#definition> "Prov. O mesmo que mata-boi."@pt .
+<https://github.com/elexis-eu/mwsa#espera_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espera_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense740> .
+<https://github.com/elexis-eu/mwsa#espera_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espera"@pt .
+<https://github.com/elexis-eu/mwsa#sense740> <http://www.w3.org/2004/02/skos/core#definition> "Pl. Turno de caçadores, que esperam a passagem da caça, enquanto os monteadores batem o mato."@pt .
+<https://github.com/elexis-eu/mwsa#espera_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#espera_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense741> .
+<https://github.com/elexis-eu/mwsa#espera_noun> <http://www.w3.org/2000/01/rdf-schema#label> "espera"@pt .
+<https://github.com/elexis-eu/mwsa#sense741> <http://www.w3.org/2004/02/skos/core#definition> "O mesmo que esfera."@pt .
+<https://github.com/elexis-eu/mwsa#esperan%C3%A7ar_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#esperan%C3%A7ar_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense752> .
+<https://github.com/elexis-eu/mwsa#esperan%C3%A7ar_verb> <http://www.w3.org/2000/01/rdf-schema#label> "esperançar"@pt .
+<https://github.com/elexis-eu/mwsa#sense752> <http://www.w3.org/2004/02/skos/core#definition> "Dar esperanças a."@pt .
+<https://github.com/elexis-eu/mwsa#esperan%C3%A7ar_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#esperan%C3%A7ar_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense753> .
+<https://github.com/elexis-eu/mwsa#esperan%C3%A7ar_verb> <http://www.w3.org/2000/01/rdf-schema#label> "esperançar"@pt .
+<https://github.com/elexis-eu/mwsa#sense753> <http://www.w3.org/2004/02/skos/core#definition> "Ter esperança."@pt .

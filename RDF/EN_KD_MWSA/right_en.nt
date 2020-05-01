@@ -1,0 +1,1096 @@
+<https://github.com/elexis-eu/mwsa#asian_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#asian_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense1> .
+<https://github.com/elexis-eu/mwsa#asian_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "asian"@en .
+<https://github.com/elexis-eu/mwsa#sense1> <http://www.w3.org/2004/02/skos/core#definition> "relating to Asia"@en .
+<https://github.com/elexis-eu/mwsa#bible_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#bible_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense4> .
+<https://github.com/elexis-eu/mwsa#bible_noun> <http://www.w3.org/2000/01/rdf-schema#label> "bible"@en .
+<https://github.com/elexis-eu/mwsa#sense4> <http://www.w3.org/2004/02/skos/core#definition> "the Jewish Scriptures (the Old Testament)."@en .
+<https://github.com/elexis-eu/mwsa#english_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#english_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense8> .
+<https://github.com/elexis-eu/mwsa#english_noun> <http://www.w3.org/2000/01/rdf-schema#label> "english"@en .
+<https://github.com/elexis-eu/mwsa#sense8> <http://www.w3.org/2004/02/skos/core#definition> "the main language of England and the rest of Britain, North America, a great part of the British Commonwealth and some other countries"@en .
+<https://github.com/elexis-eu/mwsa#indian_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#indian_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense11> .
+<https://github.com/elexis-eu/mwsa#indian_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "indian"@en .
+<https://github.com/elexis-eu/mwsa#sense11> <http://www.w3.org/2004/02/skos/core#definition> "of India or of Indians."@en .
+<https://github.com/elexis-eu/mwsa#indian_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#indian_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense14> .
+<https://github.com/elexis-eu/mwsa#indian_noun> <http://www.w3.org/2000/01/rdf-schema#label> "indian"@en .
+<https://github.com/elexis-eu/mwsa#sense14> <http://www.w3.org/2004/02/skos/core#definition> "a person born in India or having Indian citizenship."@en .
+<https://github.com/elexis-eu/mwsa#yankee_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#yankee_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense17> .
+<https://github.com/elexis-eu/mwsa#yankee_noun> <http://www.w3.org/2000/01/rdf-schema#label> "yankee"@en .
+<https://github.com/elexis-eu/mwsa#sense17> <http://www.w3.org/2004/02/skos/core#definition> "a more affectionate word for (an) American."@en .
+<https://github.com/elexis-eu/mwsa#yankee_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#yankee_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense18> .
+<https://github.com/elexis-eu/mwsa#yankee_noun> <http://www.w3.org/2000/01/rdf-schema#label> "yankee"@en .
+<https://github.com/elexis-eu/mwsa#sense18> <http://www.w3.org/2004/02/skos/core#definition> "(used by Americans from the southern states of the USA) an American from the northern states."@en .
+<https://github.com/elexis-eu/mwsa#able_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#able_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense21> .
+<https://github.com/elexis-eu/mwsa#able_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "able"@en .
+<https://github.com/elexis-eu/mwsa#sense21> <http://www.w3.org/2004/02/skos/core#definition> "clever and skilful; capable"@en .
+<https://github.com/elexis-eu/mwsa#able_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#able_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense22> .
+<https://github.com/elexis-eu/mwsa#able_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "able"@en .
+<https://github.com/elexis-eu/mwsa#sense22> <http://www.w3.org/2004/02/skos/core#definition> "legally competent"@en .
+<https://github.com/elexis-eu/mwsa#abrupt_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#abrupt_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense25> .
+<https://github.com/elexis-eu/mwsa#abrupt_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "abrupt"@en .
+<https://github.com/elexis-eu/mwsa#sense25> <http://www.w3.org/2004/02/skos/core#definition> "sudden; unexpected"@en .
+<https://github.com/elexis-eu/mwsa#absolute_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#absolute_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense28> .
+<https://github.com/elexis-eu/mwsa#absolute_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "absolute"@en .
+<https://github.com/elexis-eu/mwsa#sense28> <http://www.w3.org/2004/02/skos/core#definition> "complete"@en .
+<https://github.com/elexis-eu/mwsa#absolute_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#absolute_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense29> .
+<https://github.com/elexis-eu/mwsa#absolute_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "absolute"@en .
+<https://github.com/elexis-eu/mwsa#sense29> <http://www.w3.org/2004/02/skos/core#definition> "used to add emphasis to what you are saying"@en .
+<https://github.com/elexis-eu/mwsa#absolute_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#absolute_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense30> .
+<https://github.com/elexis-eu/mwsa#absolute_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "absolute"@en .
+<https://github.com/elexis-eu/mwsa#sense30> <http://www.w3.org/2004/02/skos/core#definition> "definite and without any doubt"@en .
+<https://github.com/elexis-eu/mwsa#accelerate_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#accelerate_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense34> .
+<https://github.com/elexis-eu/mwsa#accelerate_verb> <http://www.w3.org/2000/01/rdf-schema#label> "accelerate"@en .
+<https://github.com/elexis-eu/mwsa#sense34> <http://www.w3.org/2004/02/skos/core#definition> "to increase speed"@en .
+<https://github.com/elexis-eu/mwsa#accelerate_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#accelerate_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense35> .
+<https://github.com/elexis-eu/mwsa#accelerate_verb> <http://www.w3.org/2000/01/rdf-schema#label> "accelerate"@en .
+<https://github.com/elexis-eu/mwsa#sense35> <http://www.w3.org/2004/02/skos/core#definition> "to make (something) happen sooner"@en .
+<https://github.com/elexis-eu/mwsa#accept_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#accept_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense38> .
+<https://github.com/elexis-eu/mwsa#accept_verb> <http://www.w3.org/2000/01/rdf-schema#label> "accept"@en .
+<https://github.com/elexis-eu/mwsa#sense38> <http://www.w3.org/2004/02/skos/core#definition> "to take (something offered)"@en .
+<https://github.com/elexis-eu/mwsa#accept_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#accept_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense39> .
+<https://github.com/elexis-eu/mwsa#accept_verb> <http://www.w3.org/2000/01/rdf-schema#label> "accept"@en .
+<https://github.com/elexis-eu/mwsa#sense39> <http://www.w3.org/2004/02/skos/core#definition> "to believe in, agree to or acknowledge"@en .
+<https://github.com/elexis-eu/mwsa#accept_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#accept_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense40> .
+<https://github.com/elexis-eu/mwsa#accept_verb> <http://www.w3.org/2000/01/rdf-schema#label> "accept"@en .
+<https://github.com/elexis-eu/mwsa#sense40> <http://www.w3.org/2004/02/skos/core#definition> "to make someone new feel welcome and part of a group"@en .
+<https://github.com/elexis-eu/mwsa#accept_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#accept_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense41> .
+<https://github.com/elexis-eu/mwsa#accept_verb> <http://www.w3.org/2000/01/rdf-schema#label> "accept"@en .
+<https://github.com/elexis-eu/mwsa#sense41> <http://www.w3.org/2004/02/skos/core#definition> "to allow customers to pay for goods or services in a particular way"@en .
+<https://github.com/elexis-eu/mwsa#accident_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#accident_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense46> .
+<https://github.com/elexis-eu/mwsa#accident_noun> <http://www.w3.org/2000/01/rdf-schema#label> "accident"@en .
+<https://github.com/elexis-eu/mwsa#sense46> <http://www.w3.org/2004/02/skos/core#definition> "chance"@en .
+<https://github.com/elexis-eu/mwsa#accommodate_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#accommodate_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense49> .
+<https://github.com/elexis-eu/mwsa#accommodate_verb> <http://www.w3.org/2000/01/rdf-schema#label> "accommodate"@en .
+<https://github.com/elexis-eu/mwsa#sense49> <http://www.w3.org/2004/02/skos/core#definition> "to find or be a place for"@en .
+<https://github.com/elexis-eu/mwsa#accompany_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#accompany_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense52> .
+<https://github.com/elexis-eu/mwsa#accompany_verb> <http://www.w3.org/2000/01/rdf-schema#label> "accompany"@en .
+<https://github.com/elexis-eu/mwsa#sense52> <http://www.w3.org/2004/02/skos/core#definition> "to go with (someone or something)"@en .
+<https://github.com/elexis-eu/mwsa#accompany_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#accompany_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense53> .
+<https://github.com/elexis-eu/mwsa#accompany_verb> <http://www.w3.org/2000/01/rdf-schema#label> "accompany"@en .
+<https://github.com/elexis-eu/mwsa#sense53> <http://www.w3.org/2004/02/skos/core#definition> "to happen, exist, or appear with something else"@en .
+<https://github.com/elexis-eu/mwsa#acquire_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#acquire_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense56> .
+<https://github.com/elexis-eu/mwsa#acquire_verb> <http://www.w3.org/2000/01/rdf-schema#label> "acquire"@en .
+<https://github.com/elexis-eu/mwsa#sense56> <http://www.w3.org/2004/02/skos/core#definition> "to learn"@en .
+<https://github.com/elexis-eu/mwsa#add_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#add_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense59> .
+<https://github.com/elexis-eu/mwsa#add_verb> <http://www.w3.org/2000/01/rdf-schema#label> "add"@en .
+<https://github.com/elexis-eu/mwsa#sense59> <http://www.w3.org/2004/02/skos/core#definition> "to say something extra"@en .
+<https://github.com/elexis-eu/mwsa#adjust_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#adjust_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense63> .
+<https://github.com/elexis-eu/mwsa#adjust_verb> <http://www.w3.org/2000/01/rdf-schema#label> "adjust"@en .
+<https://github.com/elexis-eu/mwsa#sense63> <http://www.w3.org/2004/02/skos/core#definition> "to change (the position of, setting of)"@en .
+<https://github.com/elexis-eu/mwsa#admit_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#admit_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense66> .
+<https://github.com/elexis-eu/mwsa#admit_verb> <http://www.w3.org/2000/01/rdf-schema#label> "admit"@en .
+<https://github.com/elexis-eu/mwsa#sense66> <http://www.w3.org/2004/02/skos/core#definition> "to say that one accepts as true"@en .
+<https://github.com/elexis-eu/mwsa#admit_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#admit_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense67> .
+<https://github.com/elexis-eu/mwsa#admit_verb> <http://www.w3.org/2000/01/rdf-schema#label> "admit"@en .
+<https://github.com/elexis-eu/mwsa#sense67> <http://www.w3.org/2004/02/skos/core#definition> "to allow to enter"@en .
+<https://github.com/elexis-eu/mwsa#admit_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#admit_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense68> .
+<https://github.com/elexis-eu/mwsa#admit_verb> <http://www.w3.org/2000/01/rdf-schema#label> "admit"@en .
+<https://github.com/elexis-eu/mwsa#sense68> <http://www.w3.org/2004/02/skos/core#definition> "to take someone to hospital"@en .
+<https://github.com/elexis-eu/mwsa#advanced_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#advanced_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense72> .
+<https://github.com/elexis-eu/mwsa#advanced_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "advanced"@en .
+<https://github.com/elexis-eu/mwsa#sense72> <http://www.w3.org/2004/02/skos/core#definition> "having made a lot of progress; at a high level"@en .
+<https://github.com/elexis-eu/mwsa#advantage_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#advantage_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense76> .
+<https://github.com/elexis-eu/mwsa#advantage_noun> <http://www.w3.org/2000/01/rdf-schema#label> "advantage"@en .
+<https://github.com/elexis-eu/mwsa#sense76> <http://www.w3.org/2004/02/skos/core#definition> "(a) gain or benefit"@en .
+<https://github.com/elexis-eu/mwsa#advantage_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#advantage_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense77> .
+<https://github.com/elexis-eu/mwsa#advantage_noun> <http://www.w3.org/2000/01/rdf-schema#label> "advantage"@en .
+<https://github.com/elexis-eu/mwsa#sense77> <http://www.w3.org/2004/02/skos/core#definition> "in tennis, the first point gained after deuce."@en .
+<https://github.com/elexis-eu/mwsa#advertise_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#advertise_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense82> .
+<https://github.com/elexis-eu/mwsa#advertise_verb> <http://www.w3.org/2000/01/rdf-schema#label> "advertise"@en .
+<https://github.com/elexis-eu/mwsa#sense82> <http://www.w3.org/2004/02/skos/core#definition> "to make (something) known to the public by any of various methods"@en .
+<https://github.com/elexis-eu/mwsa#affair_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#affair_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense85> .
+<https://github.com/elexis-eu/mwsa#affair_noun> <http://www.w3.org/2000/01/rdf-schema#label> "affair"@en .
+<https://github.com/elexis-eu/mwsa#sense85> <http://www.w3.org/2004/02/skos/core#definition> "a love relationship"@en .
+<https://github.com/elexis-eu/mwsa#afraid_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#afraid_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense89> .
+<https://github.com/elexis-eu/mwsa#afraid_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "afraid"@en .
+<https://github.com/elexis-eu/mwsa#sense89> <http://www.w3.org/2004/02/skos/core#definition> "sorry (to have to say that)"@en .
+<https://github.com/elexis-eu/mwsa#afraid_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#afraid_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense90> .
+<https://github.com/elexis-eu/mwsa#afraid_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "afraid"@en .
+<https://github.com/elexis-eu/mwsa#sense90> <http://www.w3.org/2004/02/skos/core#definition> "worried about something"@en .
+<https://github.com/elexis-eu/mwsa#again_adverb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#again_adverb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense94> .
+<https://github.com/elexis-eu/mwsa#again_adverb> <http://www.w3.org/2000/01/rdf-schema#label> "again"@en .
+<https://github.com/elexis-eu/mwsa#sense94> <http://www.w3.org/2004/02/skos/core#definition> "once more or another time"@en .
+<https://github.com/elexis-eu/mwsa#against_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#against_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense97> .
+<https://github.com/elexis-eu/mwsa#against_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "against"@en .
+<https://github.com/elexis-eu/mwsa#sense97> <http://www.w3.org/2004/02/skos/core#definition> "in opposition to"@en .
+<https://github.com/elexis-eu/mwsa#against_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#against_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense98> .
+<https://github.com/elexis-eu/mwsa#against_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "against"@en .
+<https://github.com/elexis-eu/mwsa#sense98> <http://www.w3.org/2004/02/skos/core#definition> "in contrast to"@en .
+<https://github.com/elexis-eu/mwsa#against_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#against_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense99> .
+<https://github.com/elexis-eu/mwsa#against_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "against"@en .
+<https://github.com/elexis-eu/mwsa#sense99> <http://www.w3.org/2004/02/skos/core#definition> "touching or in contact with"@en .
+<https://github.com/elexis-eu/mwsa#against_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#against_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense100> .
+<https://github.com/elexis-eu/mwsa#against_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "against"@en .
+<https://github.com/elexis-eu/mwsa#sense100> <http://www.w3.org/2004/02/skos/core#definition> "in order to protect against"@en .
+<https://github.com/elexis-eu/mwsa#aggravate_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#aggravate_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense106> .
+<https://github.com/elexis-eu/mwsa#aggravate_verb> <http://www.w3.org/2000/01/rdf-schema#label> "aggravate"@en .
+<https://github.com/elexis-eu/mwsa#sense106> <http://www.w3.org/2004/02/skos/core#definition> "to make (someone) angry or impatient"@en .
+<https://github.com/elexis-eu/mwsa#agree_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#agree_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense109> .
+<https://github.com/elexis-eu/mwsa#agree_verb> <http://www.w3.org/2000/01/rdf-schema#label> "agree"@en .
+<https://github.com/elexis-eu/mwsa#sense109> <http://www.w3.org/2004/02/skos/core#definition> "to say that one will do or allow something"@en .
+<https://github.com/elexis-eu/mwsa#agree_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#agree_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense110> .
+<https://github.com/elexis-eu/mwsa#agree_verb> <http://www.w3.org/2000/01/rdf-schema#label> "agree"@en .
+<https://github.com/elexis-eu/mwsa#sense110> <http://www.w3.org/2004/02/skos/core#definition> "to be happy and friendly together"@en .
+<https://github.com/elexis-eu/mwsa#agree_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#agree_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense111> .
+<https://github.com/elexis-eu/mwsa#agree_verb> <http://www.w3.org/2000/01/rdf-schema#label> "agree"@en .
+<https://github.com/elexis-eu/mwsa#sense111> <http://www.w3.org/2004/02/skos/core#definition> "to say the same thing"@en .
+<https://github.com/elexis-eu/mwsa#ahead_adverb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#ahead_adverb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense115> .
+<https://github.com/elexis-eu/mwsa#ahead_adverb> <http://www.w3.org/2000/01/rdf-schema#label> "ahead"@en .
+<https://github.com/elexis-eu/mwsa#sense115> <http://www.w3.org/2004/02/skos/core#definition> "before someone or something in time"@en .
+<https://github.com/elexis-eu/mwsa#alcohol_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#alcohol_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense120> .
+<https://github.com/elexis-eu/mwsa#alcohol_noun> <http://www.w3.org/2000/01/rdf-schema#label> "alcohol"@en .
+<https://github.com/elexis-eu/mwsa#sense120> <http://www.w3.org/2004/02/skos/core#definition> "liquid made by the fermentation or distillation of sugar, present in intoxicating drinks, used also as a fuel, and in thermometers"@en .
+<https://github.com/elexis-eu/mwsa#alcohol_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#alcohol_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense121> .
+<https://github.com/elexis-eu/mwsa#alcohol_noun> <http://www.w3.org/2000/01/rdf-schema#label> "alcohol"@en .
+<https://github.com/elexis-eu/mwsa#sense121> <http://www.w3.org/2004/02/skos/core#definition> "a person who suffers from a dependence on alcohol"@en .
+<https://github.com/elexis-eu/mwsa#allow_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#allow_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense124> .
+<https://github.com/elexis-eu/mwsa#allow_verb> <http://www.w3.org/2000/01/rdf-schema#label> "allow"@en .
+<https://github.com/elexis-eu/mwsa#sense124> <http://www.w3.org/2004/02/skos/core#definition> "not to forbid or prevent"@en .
+<https://github.com/elexis-eu/mwsa#allowance_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#allowance_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense129> .
+<https://github.com/elexis-eu/mwsa#allowance_noun> <http://www.w3.org/2000/01/rdf-schema#label> "allowance"@en .
+<https://github.com/elexis-eu/mwsa#sense129> <http://www.w3.org/2004/02/skos/core#definition> "a fixed sum or quantity given regularly"@en .
+<https://github.com/elexis-eu/mwsa#already_adverb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#already_adverb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense132> .
+<https://github.com/elexis-eu/mwsa#already_adverb> <http://www.w3.org/2000/01/rdf-schema#label> "already"@en .
+<https://github.com/elexis-eu/mwsa#sense132> <http://www.w3.org/2004/02/skos/core#definition> "before a particular time; previously"@en .
+<https://github.com/elexis-eu/mwsa#already_adverb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#already_adverb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense133> .
+<https://github.com/elexis-eu/mwsa#already_adverb> <http://www.w3.org/2000/01/rdf-schema#label> "already"@en .
+<https://github.com/elexis-eu/mwsa#sense133> <http://www.w3.org/2004/02/skos/core#definition> "before the expected time"@en .
+<https://github.com/elexis-eu/mwsa#also_adverb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#also_adverb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense136> .
+<https://github.com/elexis-eu/mwsa#also_adverb> <http://www.w3.org/2000/01/rdf-schema#label> "also"@en .
+<https://github.com/elexis-eu/mwsa#sense136> <http://www.w3.org/2004/02/skos/core#definition> "in addition or besides; too"@en .
+<https://github.com/elexis-eu/mwsa#although_conjunction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#although_conjunction> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense139> .
+<https://github.com/elexis-eu/mwsa#although_conjunction> <http://www.w3.org/2000/01/rdf-schema#label> "although"@en .
+<https://github.com/elexis-eu/mwsa#sense139> <http://www.w3.org/2004/02/skos/core#definition> "in spite of the fact that"@en .
+<https://github.com/elexis-eu/mwsa#altogether_adverb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#altogether_adverb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense142> .
+<https://github.com/elexis-eu/mwsa#altogether_adverb> <http://www.w3.org/2000/01/rdf-schema#label> "altogether"@en .
+<https://github.com/elexis-eu/mwsa#sense142> <http://www.w3.org/2004/02/skos/core#definition> "completely"@en .
+<https://github.com/elexis-eu/mwsa#altogether_adverb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#altogether_adverb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense143> .
+<https://github.com/elexis-eu/mwsa#altogether_adverb> <http://www.w3.org/2000/01/rdf-schema#label> "altogether"@en .
+<https://github.com/elexis-eu/mwsa#sense143> <http://www.w3.org/2004/02/skos/core#definition> "on the whole and considering everything"@en .
+<https://github.com/elexis-eu/mwsa#always_adverb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#always_adverb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense146> .
+<https://github.com/elexis-eu/mwsa#always_adverb> <http://www.w3.org/2000/01/rdf-schema#label> "always"@en .
+<https://github.com/elexis-eu/mwsa#sense146> <http://www.w3.org/2004/02/skos/core#definition> "at all times"@en .
+<https://github.com/elexis-eu/mwsa#always_adverb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#always_adverb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense147> .
+<https://github.com/elexis-eu/mwsa#always_adverb> <http://www.w3.org/2000/01/rdf-schema#label> "always"@en .
+<https://github.com/elexis-eu/mwsa#sense147> <http://www.w3.org/2004/02/skos/core#definition> "continually or repeatedly"@en .
+<https://github.com/elexis-eu/mwsa#ambition_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#ambition_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense152> .
+<https://github.com/elexis-eu/mwsa#ambition_noun> <http://www.w3.org/2000/01/rdf-schema#label> "ambition"@en .
+<https://github.com/elexis-eu/mwsa#sense152> <http://www.w3.org/2004/02/skos/core#definition> "the desire eventually to become or do something special"@en .
+<https://github.com/elexis-eu/mwsa#among_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#among_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense155> .
+<https://github.com/elexis-eu/mwsa#among_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "among"@en .
+<https://github.com/elexis-eu/mwsa#sense155> <http://www.w3.org/2004/02/skos/core#definition> "in the middle of"@en .
+<https://github.com/elexis-eu/mwsa#amongst_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#amongst_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense161> .
+<https://github.com/elexis-eu/mwsa#amongst_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "amongst"@en .
+<https://github.com/elexis-eu/mwsa#sense161> <http://www.w3.org/2004/02/skos/core#definition> "in the middle of"@en .
+<https://github.com/elexis-eu/mwsa#amuse_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#amuse_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense167> .
+<https://github.com/elexis-eu/mwsa#amuse_verb> <http://www.w3.org/2000/01/rdf-schema#label> "amuse"@en .
+<https://github.com/elexis-eu/mwsa#sense167> <http://www.w3.org/2004/02/skos/core#definition> "to make (someone) laugh"@en .
+<https://github.com/elexis-eu/mwsa#amuse_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#amuse_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense168> .
+<https://github.com/elexis-eu/mwsa#amuse_verb> <http://www.w3.org/2000/01/rdf-schema#label> "amuse"@en .
+<https://github.com/elexis-eu/mwsa#sense168> <http://www.w3.org/2004/02/skos/core#definition> "to interest or give pleasure to (for a time)"@en .
+<https://github.com/elexis-eu/mwsa#and_conjunction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#and_conjunction> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense171> .
+<https://github.com/elexis-eu/mwsa#and_conjunction> <http://www.w3.org/2000/01/rdf-schema#label> "and"@en .
+<https://github.com/elexis-eu/mwsa#sense171> <http://www.w3.org/2004/02/skos/core#definition> "in addition to"@en .
+<https://github.com/elexis-eu/mwsa#and_conjunction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#and_conjunction> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense172> .
+<https://github.com/elexis-eu/mwsa#and_conjunction> <http://www.w3.org/2000/01/rdf-schema#label> "and"@en .
+<https://github.com/elexis-eu/mwsa#sense172> <http://www.w3.org/2004/02/skos/core#definition> "as a result of which"@en .
+<https://github.com/elexis-eu/mwsa#and_conjunction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#and_conjunction> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense173> .
+<https://github.com/elexis-eu/mwsa#and_conjunction> <http://www.w3.org/2000/01/rdf-schema#label> "and"@en .
+<https://github.com/elexis-eu/mwsa#sense173> <http://www.w3.org/2004/02/skos/core#definition> "used instead of 'to' with a verb"@en .
+<https://github.com/elexis-eu/mwsa#animal_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#animal_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense181> .
+<https://github.com/elexis-eu/mwsa#animal_noun> <http://www.w3.org/2000/01/rdf-schema#label> "animal"@en .
+<https://github.com/elexis-eu/mwsa#sense181> <http://www.w3.org/2004/02/skos/core#definition> "a living being which can feel things and move freely"@en .
+<https://github.com/elexis-eu/mwsa#animal_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#animal_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense182> .
+<https://github.com/elexis-eu/mwsa#animal_noun> <http://www.w3.org/2000/01/rdf-schema#label> "animal"@en .
+<https://github.com/elexis-eu/mwsa#sense182> <http://www.w3.org/2004/02/skos/core#definition> "an animal other than man"@en .
+<https://github.com/elexis-eu/mwsa#annual_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#annual_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense185> .
+<https://github.com/elexis-eu/mwsa#annual_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "annual"@en .
+<https://github.com/elexis-eu/mwsa#sense185> <http://www.w3.org/2004/02/skos/core#definition> "happening every year"@en .
+<https://github.com/elexis-eu/mwsa#annual_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#annual_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense186> .
+<https://github.com/elexis-eu/mwsa#annual_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "annual"@en .
+<https://github.com/elexis-eu/mwsa#sense186> <http://www.w3.org/2004/02/skos/core#definition> "of one year"@en .
+<https://github.com/elexis-eu/mwsa#anti-_prefix> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#anti-_prefix> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense189> .
+<https://github.com/elexis-eu/mwsa#anti-_prefix> <http://www.w3.org/2000/01/rdf-schema#label> "anti-"@en .
+<https://github.com/elexis-eu/mwsa#sense189> <http://www.w3.org/2004/02/skos/core#definition> "against."@en .
+<https://github.com/elexis-eu/mwsa#anti-_prefix> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#anti-_prefix> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense190> .
+<https://github.com/elexis-eu/mwsa#anti-_prefix> <http://www.w3.org/2000/01/rdf-schema#label> "anti-"@en .
+<https://github.com/elexis-eu/mwsa#sense190> <http://www.w3.org/2004/02/skos/core#definition> "the opposite of"@en .
+<https://github.com/elexis-eu/mwsa#anxiety_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#anxiety_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense193> .
+<https://github.com/elexis-eu/mwsa#anxiety_noun> <http://www.w3.org/2000/01/rdf-schema#label> "anxiety"@en .
+<https://github.com/elexis-eu/mwsa#sense193> <http://www.w3.org/2004/02/skos/core#definition> "being very worried about something"@en .
+<https://github.com/elexis-eu/mwsa#anxious_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#anxious_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense196> .
+<https://github.com/elexis-eu/mwsa#anxious_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "anxious"@en .
+<https://github.com/elexis-eu/mwsa#sense196> <http://www.w3.org/2004/02/skos/core#definition> "worried about what may happen or have happened"@en .
+<https://github.com/elexis-eu/mwsa#anxious_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#anxious_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense197> .
+<https://github.com/elexis-eu/mwsa#anxious_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "anxious"@en .
+<https://github.com/elexis-eu/mwsa#sense197> <http://www.w3.org/2004/02/skos/core#definition> "causing worry, fear or uncertainty"@en .
+<https://github.com/elexis-eu/mwsa#apart_adverb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#apart_adverb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense200> .
+<https://github.com/elexis-eu/mwsa#apart_adverb> <http://www.w3.org/2000/01/rdf-schema#label> "apart"@en .
+<https://github.com/elexis-eu/mwsa#sense200> <http://www.w3.org/2004/02/skos/core#definition> "separated by a certain distance"@en .
+<https://github.com/elexis-eu/mwsa#apostrophe_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#apostrophe_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense205> .
+<https://github.com/elexis-eu/mwsa#apostrophe_noun> <http://www.w3.org/2000/01/rdf-schema#label> "apostrophe"@en .
+<https://github.com/elexis-eu/mwsa#sense205> <http://www.w3.org/2004/02/skos/core#definition> "a mark (') which is used to show that a letter or letters has/have been omitted from a word, and which is also used in possessive phrases and in the plurals of letters"@en .
+<https://github.com/elexis-eu/mwsa#apparent_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#apparent_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense208> .
+<https://github.com/elexis-eu/mwsa#apparent_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "apparent"@en .
+<https://github.com/elexis-eu/mwsa#sense208> <http://www.w3.org/2004/02/skos/core#definition> "easy to see; evident"@en .
+<https://github.com/elexis-eu/mwsa#apparent_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#apparent_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense209> .
+<https://github.com/elexis-eu/mwsa#apparent_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "apparent"@en .
+<https://github.com/elexis-eu/mwsa#sense209> <http://www.w3.org/2004/02/skos/core#definition> "seeming but perhaps not real"@en .
+<https://github.com/elexis-eu/mwsa#appear_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#appear_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense212> .
+<https://github.com/elexis-eu/mwsa#appear_verb> <http://www.w3.org/2000/01/rdf-schema#label> "appear"@en .
+<https://github.com/elexis-eu/mwsa#sense212> <http://www.w3.org/2004/02/skos/core#definition> "to come into view"@en .
+<https://github.com/elexis-eu/mwsa#appear_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#appear_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense213> .
+<https://github.com/elexis-eu/mwsa#appear_verb> <http://www.w3.org/2000/01/rdf-schema#label> "appear"@en .
+<https://github.com/elexis-eu/mwsa#sense213> <http://www.w3.org/2004/02/skos/core#definition> "to look or seem as if (something is the case)"@en .
+<https://github.com/elexis-eu/mwsa#appetite_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#appetite_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense219> .
+<https://github.com/elexis-eu/mwsa#appetite_noun> <http://www.w3.org/2000/01/rdf-schema#label> "appetite"@en .
+<https://github.com/elexis-eu/mwsa#sense219> <http://www.w3.org/2004/02/skos/core#definition> "a desire for food"@en .
+<https://github.com/elexis-eu/mwsa#applaud_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#applaud_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense222> .
+<https://github.com/elexis-eu/mwsa#applaud_verb> <http://www.w3.org/2000/01/rdf-schema#label> "applaud"@en .
+<https://github.com/elexis-eu/mwsa#sense222> <http://www.w3.org/2004/02/skos/core#definition> "to praise or show approval, by clapping the hands"@en .
+<https://github.com/elexis-eu/mwsa#approve_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#approve_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense225> .
+<https://github.com/elexis-eu/mwsa#approve_verb> <http://www.w3.org/2000/01/rdf-schema#label> "approve"@en .
+<https://github.com/elexis-eu/mwsa#sense225> <http://www.w3.org/2004/02/skos/core#definition> "to agree to (something)"@en .
+<https://github.com/elexis-eu/mwsa#apt_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#apt_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense228> .
+<https://github.com/elexis-eu/mwsa#apt_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "apt"@en .
+<https://github.com/elexis-eu/mwsa#sense228> <http://www.w3.org/2004/02/skos/core#definition> "suitable"@en .
+<https://github.com/elexis-eu/mwsa#aquarium_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#aquarium_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense231> .
+<https://github.com/elexis-eu/mwsa#aquarium_noun> <http://www.w3.org/2000/01/rdf-schema#label> "aquarium"@en .
+<https://github.com/elexis-eu/mwsa#sense231> <http://www.w3.org/2004/02/skos/core#definition> "a glass tank, or a building containing tanks, for keeping fish and other water animals."@en .
+<https://github.com/elexis-eu/mwsa#area_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#area_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense234> .
+<https://github.com/elexis-eu/mwsa#area_noun> <http://www.w3.org/2000/01/rdf-schema#label> "area"@en .
+<https://github.com/elexis-eu/mwsa#sense234> <http://www.w3.org/2004/02/skos/core#definition> "the extent or size of a flat surface"@en .
+<https://github.com/elexis-eu/mwsa#area_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#area_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense235> .
+<https://github.com/elexis-eu/mwsa#area_noun> <http://www.w3.org/2000/01/rdf-schema#label> "area"@en .
+<https://github.com/elexis-eu/mwsa#sense235> <http://www.w3.org/2004/02/skos/core#definition> "a particular subject or activity"@en .
+<https://github.com/elexis-eu/mwsa#argue_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#argue_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense239> .
+<https://github.com/elexis-eu/mwsa#argue_verb> <http://www.w3.org/2000/01/rdf-schema#label> "argue"@en .
+<https://github.com/elexis-eu/mwsa#sense239> <http://www.w3.org/2004/02/skos/core#definition> "to discuss, giving one's reasoning"@en .
+<https://github.com/elexis-eu/mwsa#arm_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#arm_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense242> .
+<https://github.com/elexis-eu/mwsa#arm_noun> <http://www.w3.org/2000/01/rdf-schema#label> "arm"@en .
+<https://github.com/elexis-eu/mwsa#sense242> <http://www.w3.org/2004/02/skos/core#definition> "the part of the body between the shoulder and the hand"@en .
+<https://github.com/elexis-eu/mwsa#arm_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#arm_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense243> .
+<https://github.com/elexis-eu/mwsa#arm_noun> <http://www.w3.org/2000/01/rdf-schema#label> "arm"@en .
+<https://github.com/elexis-eu/mwsa#sense243> <http://www.w3.org/2004/02/skos/core#definition> "anything shaped like or similar to this"@en .
+<https://github.com/elexis-eu/mwsa#armed_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#armed_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense247> .
+<https://github.com/elexis-eu/mwsa#armed_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "armed"@en .
+<https://github.com/elexis-eu/mwsa#sense247> <http://www.w3.org/2004/02/skos/core#definition> "having a weapon or weapons"@en .
+<https://github.com/elexis-eu/mwsa#arouse_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#arouse_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense250> .
+<https://github.com/elexis-eu/mwsa#arouse_verb> <http://www.w3.org/2000/01/rdf-schema#label> "arouse"@en .
+<https://github.com/elexis-eu/mwsa#sense250> <http://www.w3.org/2004/02/skos/core#definition> "to cause or give rise to (something)"@en .
+<https://github.com/elexis-eu/mwsa#arrange_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#arrange_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense253> .
+<https://github.com/elexis-eu/mwsa#arrange_verb> <http://www.w3.org/2000/01/rdf-schema#label> "arrange"@en .
+<https://github.com/elexis-eu/mwsa#sense253> <http://www.w3.org/2004/02/skos/core#definition> "to put in some sort of order"@en .
+<https://github.com/elexis-eu/mwsa#arrange_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#arrange_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense254> .
+<https://github.com/elexis-eu/mwsa#arrange_verb> <http://www.w3.org/2000/01/rdf-schema#label> "arrange"@en .
+<https://github.com/elexis-eu/mwsa#sense254> <http://www.w3.org/2004/02/skos/core#definition> "to plan or make decisions (about future events)"@en .
+<https://github.com/elexis-eu/mwsa#arrow_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#arrow_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense257> .
+<https://github.com/elexis-eu/mwsa#arrow_noun> <http://www.w3.org/2000/01/rdf-schema#label> "arrow"@en .
+<https://github.com/elexis-eu/mwsa#sense257> <http://www.w3.org/2004/02/skos/core#definition> "a thin, straight stick with a point, which is fired from a bow."@en .
+<https://github.com/elexis-eu/mwsa#art_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#art_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense260> .
+<https://github.com/elexis-eu/mwsa#art_noun> <http://www.w3.org/2000/01/rdf-schema#label> "art"@en .
+<https://github.com/elexis-eu/mwsa#sense260> <http://www.w3.org/2004/02/skos/core#definition> "painting and sculpture"@en .
+<https://github.com/elexis-eu/mwsa#art_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#art_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense261> .
+<https://github.com/elexis-eu/mwsa#art_noun> <http://www.w3.org/2000/01/rdf-schema#label> "art"@en .
+<https://github.com/elexis-eu/mwsa#sense261> <http://www.w3.org/2004/02/skos/core#definition> "any of various creative forms of expression"@en .
+<https://github.com/elexis-eu/mwsa#art_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#art_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense262> .
+<https://github.com/elexis-eu/mwsa#art_noun> <http://www.w3.org/2000/01/rdf-schema#label> "art"@en .
+<https://github.com/elexis-eu/mwsa#sense262> <http://www.w3.org/2004/02/skos/core#definition> "an ability or skill; the (best) way of doing something"@en .
+<https://github.com/elexis-eu/mwsa#article_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#article_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense266> .
+<https://github.com/elexis-eu/mwsa#article_noun> <http://www.w3.org/2000/01/rdf-schema#label> "article"@en .
+<https://github.com/elexis-eu/mwsa#sense266> <http://www.w3.org/2004/02/skos/core#definition> "a thing or an object"@en .
+<https://github.com/elexis-eu/mwsa#article_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#article_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense267> .
+<https://github.com/elexis-eu/mwsa#article_noun> <http://www.w3.org/2000/01/rdf-schema#label> "article"@en .
+<https://github.com/elexis-eu/mwsa#sense267> <http://www.w3.org/2004/02/skos/core#definition> "a piece of writing in a newspaper or magazine"@en .
+<https://github.com/elexis-eu/mwsa#artificial_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#artificial_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense271> .
+<https://github.com/elexis-eu/mwsa#artificial_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "artificial"@en .
+<https://github.com/elexis-eu/mwsa#sense271> <http://www.w3.org/2004/02/skos/core#definition> "made by man; not natural; not real"@en .
+<https://github.com/elexis-eu/mwsa#artist_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#artist_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense274> .
+<https://github.com/elexis-eu/mwsa#artist_noun> <http://www.w3.org/2000/01/rdf-schema#label> "artist"@en .
+<https://github.com/elexis-eu/mwsa#sense274> <http://www.w3.org/2004/02/skos/core#definition> "a person who paints pictures or is a sculptor or is skilled at one of the other arts"@en .
+<https://github.com/elexis-eu/mwsa#ashamed_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#ashamed_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense277> .
+<https://github.com/elexis-eu/mwsa#ashamed_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "ashamed"@en .
+<https://github.com/elexis-eu/mwsa#sense277> <http://www.w3.org/2004/02/skos/core#definition> "feeling shame"@en .
+<https://github.com/elexis-eu/mwsa#aside_adverb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#aside_adverb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense280> .
+<https://github.com/elexis-eu/mwsa#aside_adverb> <http://www.w3.org/2000/01/rdf-schema#label> "aside"@en .
+<https://github.com/elexis-eu/mwsa#sense280> <http://www.w3.org/2004/02/skos/core#definition> "on or to one side"@en .
+<https://github.com/elexis-eu/mwsa#ask_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#ask_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense284> .
+<https://github.com/elexis-eu/mwsa#ask_verb> <http://www.w3.org/2000/01/rdf-schema#label> "ask"@en .
+<https://github.com/elexis-eu/mwsa#sense284> <http://www.w3.org/2004/02/skos/core#definition> "to put a question"@en .
+<https://github.com/elexis-eu/mwsa#ask_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#ask_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense285> .
+<https://github.com/elexis-eu/mwsa#ask_verb> <http://www.w3.org/2000/01/rdf-schema#label> "ask"@en .
+<https://github.com/elexis-eu/mwsa#sense285> <http://www.w3.org/2004/02/skos/core#definition> "to express a wish to someone for something"@en .
+<https://github.com/elexis-eu/mwsa#ask_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#ask_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense286> .
+<https://github.com/elexis-eu/mwsa#ask_verb> <http://www.w3.org/2000/01/rdf-schema#label> "ask"@en .
+<https://github.com/elexis-eu/mwsa#sense286> <http://www.w3.org/2004/02/skos/core#definition> "to invite"@en .
+<https://github.com/elexis-eu/mwsa#ass_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#ass_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense294> .
+<https://github.com/elexis-eu/mwsa#ass_noun> <http://www.w3.org/2000/01/rdf-schema#label> "ass"@en .
+<https://github.com/elexis-eu/mwsa#sense294> <http://www.w3.org/2004/02/skos/core#definition> "a donkey."@en .
+<https://github.com/elexis-eu/mwsa#assemble_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#assemble_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense298> .
+<https://github.com/elexis-eu/mwsa#assemble_verb> <http://www.w3.org/2000/01/rdf-schema#label> "assemble"@en .
+<https://github.com/elexis-eu/mwsa#sense298> <http://www.w3.org/2004/02/skos/core#definition> "(of people) to come together"@en .
+<https://github.com/elexis-eu/mwsa#assemble_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#assemble_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense299> .
+<https://github.com/elexis-eu/mwsa#assemble_verb> <http://www.w3.org/2000/01/rdf-schema#label> "assemble"@en .
+<https://github.com/elexis-eu/mwsa#sense299> <http://www.w3.org/2004/02/skos/core#definition> "to call or bring together"@en .
+<https://github.com/elexis-eu/mwsa#assert_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#assert_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense302> .
+<https://github.com/elexis-eu/mwsa#assert_verb> <http://www.w3.org/2000/01/rdf-schema#label> "assert"@en .
+<https://github.com/elexis-eu/mwsa#sense302> <http://www.w3.org/2004/02/skos/core#definition> "to say definitely"@en .
+<https://github.com/elexis-eu/mwsa#assert_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#assert_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense303> .
+<https://github.com/elexis-eu/mwsa#assert_verb> <http://www.w3.org/2000/01/rdf-schema#label> "assert"@en .
+<https://github.com/elexis-eu/mwsa#sense303> <http://www.w3.org/2004/02/skos/core#definition> "to insist on"@en .
+<https://github.com/elexis-eu/mwsa#asset_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#asset_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense306> .
+<https://github.com/elexis-eu/mwsa#asset_noun> <http://www.w3.org/2000/01/rdf-schema#label> "asset"@en .
+<https://github.com/elexis-eu/mwsa#sense306> <http://www.w3.org/2004/02/skos/core#definition> "anything useful or valuable; an advantage"@en .
+<https://github.com/elexis-eu/mwsa#assign_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#assign_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense309> .
+<https://github.com/elexis-eu/mwsa#assign_verb> <http://www.w3.org/2000/01/rdf-schema#label> "assign"@en .
+<https://github.com/elexis-eu/mwsa#sense309> <http://www.w3.org/2004/02/skos/core#definition> "to give to someone as his share or duty"@en .
+<https://github.com/elexis-eu/mwsa#assign_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#assign_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense310> .
+<https://github.com/elexis-eu/mwsa#assign_verb> <http://www.w3.org/2000/01/rdf-schema#label> "assign"@en .
+<https://github.com/elexis-eu/mwsa#sense310> <http://www.w3.org/2004/02/skos/core#definition> "to order or appoint"@en .
+<https://github.com/elexis-eu/mwsa#association_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#association_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense313> .
+<https://github.com/elexis-eu/mwsa#association_noun> <http://www.w3.org/2000/01/rdf-schema#label> "association"@en .
+<https://github.com/elexis-eu/mwsa#sense313> <http://www.w3.org/2004/02/skos/core#definition> "a friendship or partnership"@en .
+<https://github.com/elexis-eu/mwsa#association_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#association_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense314> .
+<https://github.com/elexis-eu/mwsa#association_noun> <http://www.w3.org/2000/01/rdf-schema#label> "association"@en .
+<https://github.com/elexis-eu/mwsa#sense314> <http://www.w3.org/2004/02/skos/core#definition> "a connection in the mind"@en .
+<https://github.com/elexis-eu/mwsa#assume_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#assume_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense318> .
+<https://github.com/elexis-eu/mwsa#assume_verb> <http://www.w3.org/2000/01/rdf-schema#label> "assume"@en .
+<https://github.com/elexis-eu/mwsa#sense318> <http://www.w3.org/2004/02/skos/core#definition> "to take or accept as true"@en .
+<https://github.com/elexis-eu/mwsa#assure_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#assure_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense322> .
+<https://github.com/elexis-eu/mwsa#assure_verb> <http://www.w3.org/2000/01/rdf-schema#label> "assure"@en .
+<https://github.com/elexis-eu/mwsa#sense322> <http://www.w3.org/2004/02/skos/core#definition> "to tell positively"@en .
+<https://github.com/elexis-eu/mwsa#assure_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#assure_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense323> .
+<https://github.com/elexis-eu/mwsa#assure_verb> <http://www.w3.org/2000/01/rdf-schema#label> "assure"@en .
+<https://github.com/elexis-eu/mwsa#sense323> <http://www.w3.org/2004/02/skos/core#definition> "to make (someone) sure"@en .
+<https://github.com/elexis-eu/mwsa#astronomical_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#astronomical_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense326> .
+<https://github.com/elexis-eu/mwsa#astronomical_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "astronomical"@en .
+<https://github.com/elexis-eu/mwsa#sense326> <http://www.w3.org/2004/02/skos/core#definition> "(of numbers or amounts) very large"@en .
+<https://github.com/elexis-eu/mwsa#astronomical_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#astronomical_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense327> .
+<https://github.com/elexis-eu/mwsa#astronomical_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "astronomical"@en .
+<https://github.com/elexis-eu/mwsa#sense327> <http://www.w3.org/2004/02/skos/core#definition> "of astronomy"@en .
+<https://github.com/elexis-eu/mwsa#at_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#at_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense330> .
+<https://github.com/elexis-eu/mwsa#at_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "at"@en .
+<https://github.com/elexis-eu/mwsa#sense330> <http://www.w3.org/2004/02/skos/core#definition> "showing position"@en .
+<https://github.com/elexis-eu/mwsa#at_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#at_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense331> .
+<https://github.com/elexis-eu/mwsa#at_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "at"@en .
+<https://github.com/elexis-eu/mwsa#sense331> <http://www.w3.org/2004/02/skos/core#definition> "showing direction"@en .
+<https://github.com/elexis-eu/mwsa#at_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#at_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense332> .
+<https://github.com/elexis-eu/mwsa#at_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "at"@en .
+<https://github.com/elexis-eu/mwsa#sense332> <http://www.w3.org/2004/02/skos/core#definition> "showing time"@en .
+<https://github.com/elexis-eu/mwsa#at_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#at_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense333> .
+<https://github.com/elexis-eu/mwsa#at_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "at"@en .
+<https://github.com/elexis-eu/mwsa#sense333> <http://www.w3.org/2004/02/skos/core#definition> "showing a state or occupation"@en .
+<https://github.com/elexis-eu/mwsa#at_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#at_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense334> .
+<https://github.com/elexis-eu/mwsa#at_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "at"@en .
+<https://github.com/elexis-eu/mwsa#sense334> <http://www.w3.org/2004/02/skos/core#definition> "showing pace or speed"@en .
+<https://github.com/elexis-eu/mwsa#at_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#at_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense335> .
+<https://github.com/elexis-eu/mwsa#at_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "at"@en .
+<https://github.com/elexis-eu/mwsa#sense335> <http://www.w3.org/2004/02/skos/core#definition> "showing cost"@en .
+<https://github.com/elexis-eu/mwsa#atmosphere_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#atmosphere_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense344> .
+<https://github.com/elexis-eu/mwsa#atmosphere_noun> <http://www.w3.org/2000/01/rdf-schema#label> "atmosphere"@en .
+<https://github.com/elexis-eu/mwsa#sense344> <http://www.w3.org/2004/02/skos/core#definition> "the air surrounding the earth"@en .
+<https://github.com/elexis-eu/mwsa#atmosphere_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#atmosphere_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense345> .
+<https://github.com/elexis-eu/mwsa#atmosphere_noun> <http://www.w3.org/2000/01/rdf-schema#label> "atmosphere"@en .
+<https://github.com/elexis-eu/mwsa#sense345> <http://www.w3.org/2004/02/skos/core#definition> "any surrounding feeling"@en .
+<https://github.com/elexis-eu/mwsa#attach_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#attach_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense348> .
+<https://github.com/elexis-eu/mwsa#attach_verb> <http://www.w3.org/2000/01/rdf-schema#label> "attach"@en .
+<https://github.com/elexis-eu/mwsa#sense348> <http://www.w3.org/2004/02/skos/core#definition> "to fasten or join"@en .
+<https://github.com/elexis-eu/mwsa#attract_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#attract_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense352> .
+<https://github.com/elexis-eu/mwsa#attract_verb> <http://www.w3.org/2000/01/rdf-schema#label> "attract"@en .
+<https://github.com/elexis-eu/mwsa#sense352> <http://www.w3.org/2004/02/skos/core#definition> "to cause (someone or something) to come towards"@en .
+<https://github.com/elexis-eu/mwsa#attract_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#attract_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense353> .
+<https://github.com/elexis-eu/mwsa#attract_verb> <http://www.w3.org/2000/01/rdf-schema#label> "attract"@en .
+<https://github.com/elexis-eu/mwsa#sense353> <http://www.w3.org/2004/02/skos/core#definition> "to arouse (someone's) liking or interest"@en .
+<https://github.com/elexis-eu/mwsa#authentic_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#authentic_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense359> .
+<https://github.com/elexis-eu/mwsa#authentic_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "authentic"@en .
+<https://github.com/elexis-eu/mwsa#sense359> <http://www.w3.org/2004/02/skos/core#definition> "true, real or genuine"@en .
+<https://github.com/elexis-eu/mwsa#authority_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#authority_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense362> .
+<https://github.com/elexis-eu/mwsa#authority_noun> <http://www.w3.org/2000/01/rdf-schema#label> "authority"@en .
+<https://github.com/elexis-eu/mwsa#sense362> <http://www.w3.org/2004/02/skos/core#definition> "the power or right to do something"@en .
+<https://github.com/elexis-eu/mwsa#authority_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#authority_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense363> .
+<https://github.com/elexis-eu/mwsa#authority_noun> <http://www.w3.org/2000/01/rdf-schema#label> "authority"@en .
+<https://github.com/elexis-eu/mwsa#sense363> <http://www.w3.org/2004/02/skos/core#definition> "a person who is an expert, or a book that can be referred to, on a particular subject"@en .
+<https://github.com/elexis-eu/mwsa#authority_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#authority_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense364> .
+<https://github.com/elexis-eu/mwsa#authority_noun> <http://www.w3.org/2000/01/rdf-schema#label> "authority"@en .
+<https://github.com/elexis-eu/mwsa#sense364> <http://www.w3.org/2004/02/skos/core#definition> "a natural quality in a person which makes him able to control and influence people"@en .
+<https://github.com/elexis-eu/mwsa#automatic_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#automatic_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense369> .
+<https://github.com/elexis-eu/mwsa#automatic_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "automatic"@en .
+<https://github.com/elexis-eu/mwsa#sense369> <http://www.w3.org/2004/02/skos/core#definition> "(of an action) without thinking"@en .
+<https://github.com/elexis-eu/mwsa#automatic_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#automatic_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense370> .
+<https://github.com/elexis-eu/mwsa#automatic_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "automatic"@en .
+<https://github.com/elexis-eu/mwsa#sense370> <http://www.w3.org/2004/02/skos/core#definition> "always happening because of a rule or system"@en .
+<https://github.com/elexis-eu/mwsa#available_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#available_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense374> .
+<https://github.com/elexis-eu/mwsa#available_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "available"@en .
+<https://github.com/elexis-eu/mwsa#sense374> <http://www.w3.org/2004/02/skos/core#definition> "able or ready to be used"@en .
+<https://github.com/elexis-eu/mwsa#avenue_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#avenue_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense377> .
+<https://github.com/elexis-eu/mwsa#avenue_noun> <http://www.w3.org/2000/01/rdf-schema#label> "avenue"@en .
+<https://github.com/elexis-eu/mwsa#sense377> <http://www.w3.org/2004/02/skos/core#definition> "a road, often with trees along either side."@en .
+<https://github.com/elexis-eu/mwsa#avoid_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#avoid_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense380> .
+<https://github.com/elexis-eu/mwsa#avoid_verb> <http://www.w3.org/2000/01/rdf-schema#label> "avoid"@en .
+<https://github.com/elexis-eu/mwsa#sense380> <http://www.w3.org/2004/02/skos/core#definition> "to keep away from (a place, person or thing)"@en .
+<https://github.com/elexis-eu/mwsa#await_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#await_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense384> .
+<https://github.com/elexis-eu/mwsa#await_verb> <http://www.w3.org/2000/01/rdf-schema#label> "await"@en .
+<https://github.com/elexis-eu/mwsa#sense384> <http://www.w3.org/2004/02/skos/core#definition> "to wait for"@en .
+<https://github.com/elexis-eu/mwsa#aware_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#aware_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense387> .
+<https://github.com/elexis-eu/mwsa#aware_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "aware"@en .
+<https://github.com/elexis-eu/mwsa#sense387> <http://www.w3.org/2004/02/skos/core#definition> "knowing; informed; conscious (of)"@en .
+<https://github.com/elexis-eu/mwsa#off_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#off_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense390> .
+<https://github.com/elexis-eu/mwsa#off_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "off"@en .
+<https://github.com/elexis-eu/mwsa#sense390> <http://www.w3.org/2004/02/skos/core#definition> "away from; down from"@en .
+<https://github.com/elexis-eu/mwsa#off_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#off_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense391> .
+<https://github.com/elexis-eu/mwsa#off_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "off"@en .
+<https://github.com/elexis-eu/mwsa#sense391> <http://www.w3.org/2004/02/skos/core#definition> "not wanting or allowed to have (food etc)"@en .
+<https://github.com/elexis-eu/mwsa#off_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#off_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense392> .
+<https://github.com/elexis-eu/mwsa#off_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "off"@en .
+<https://github.com/elexis-eu/mwsa#sense392> <http://www.w3.org/2004/02/skos/core#definition> "out of (a vehicle, train etc)"@en .
+<https://github.com/elexis-eu/mwsa#off_adverb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#off_adverb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense398> .
+<https://github.com/elexis-eu/mwsa#off_adverb> <http://www.w3.org/2000/01/rdf-schema#label> "off"@en .
+<https://github.com/elexis-eu/mwsa#sense398> <http://www.w3.org/2004/02/skos/core#definition> "away (from a place, time etc)"@en .
+<https://github.com/elexis-eu/mwsa#off_adverb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#off_adverb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense399> .
+<https://github.com/elexis-eu/mwsa#off_adverb> <http://www.w3.org/2000/01/rdf-schema#label> "off"@en .
+<https://github.com/elexis-eu/mwsa#sense399> <http://www.w3.org/2004/02/skos/core#definition> "not working; not giving power etc"@en .
+<https://github.com/elexis-eu/mwsa#off_adverb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#off_adverb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense400> .
+<https://github.com/elexis-eu/mwsa#off_adverb> <http://www.w3.org/2000/01/rdf-schema#label> "off"@en .
+<https://github.com/elexis-eu/mwsa#sense400> <http://www.w3.org/2004/02/skos/core#definition> "not at work"@en .
+<https://github.com/elexis-eu/mwsa#off_adverb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#off_adverb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense401> .
+<https://github.com/elexis-eu/mwsa#off_adverb> <http://www.w3.org/2000/01/rdf-schema#label> "off"@en .
+<https://github.com/elexis-eu/mwsa#sense401> <http://www.w3.org/2004/02/skos/core#definition> "completely"@en .
+<https://github.com/elexis-eu/mwsa#off_adverb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#off_adverb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense402> .
+<https://github.com/elexis-eu/mwsa#off_adverb> <http://www.w3.org/2000/01/rdf-schema#label> "off"@en .
+<https://github.com/elexis-eu/mwsa#sense402> <http://www.w3.org/2004/02/skos/core#definition> "not as good as usual, or as it should be"@en .
+<https://github.com/elexis-eu/mwsa#off_adverb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#off_adverb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense403> .
+<https://github.com/elexis-eu/mwsa#off_adverb> <http://www.w3.org/2000/01/rdf-schema#label> "off"@en .
+<https://github.com/elexis-eu/mwsa#sense403> <http://www.w3.org/2004/02/skos/core#definition> "(of food) rotten"@en .
+<https://github.com/elexis-eu/mwsa#off_adverb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#off_adverb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense404> .
+<https://github.com/elexis-eu/mwsa#off_adverb> <http://www.w3.org/2000/01/rdf-schema#label> "off"@en .
+<https://github.com/elexis-eu/mwsa#sense404> <http://www.w3.org/2004/02/skos/core#definition> "out of a vehicle, train etc"@en .
+<https://github.com/elexis-eu/mwsa#off_adverb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#off_adverb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense405> .
+<https://github.com/elexis-eu/mwsa#off_adverb> <http://www.w3.org/2000/01/rdf-schema#label> "off"@en .
+<https://github.com/elexis-eu/mwsa#sense405> <http://www.w3.org/2004/02/skos/core#definition> "cancelled"@en .
+<https://github.com/elexis-eu/mwsa#offend_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#offend_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense416> .
+<https://github.com/elexis-eu/mwsa#offend_verb> <http://www.w3.org/2000/01/rdf-schema#label> "offend"@en .
+<https://github.com/elexis-eu/mwsa#sense416> <http://www.w3.org/2004/02/skos/core#definition> "to make feel upset or angry"@en .
+<https://github.com/elexis-eu/mwsa#offend_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#offend_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense417> .
+<https://github.com/elexis-eu/mwsa#offend_verb> <http://www.w3.org/2000/01/rdf-schema#label> "offend"@en .
+<https://github.com/elexis-eu/mwsa#sense417> <http://www.w3.org/2004/02/skos/core#definition> "to be unpleasant or disagreeable"@en .
+<https://github.com/elexis-eu/mwsa#offensive_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#offensive_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense420> .
+<https://github.com/elexis-eu/mwsa#offensive_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "offensive"@en .
+<https://github.com/elexis-eu/mwsa#sense420> <http://www.w3.org/2004/02/skos/core#definition> "insulting"@en .
+<https://github.com/elexis-eu/mwsa#offensive_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#offensive_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense421> .
+<https://github.com/elexis-eu/mwsa#offensive_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "offensive"@en .
+<https://github.com/elexis-eu/mwsa#sense421> <http://www.w3.org/2004/02/skos/core#definition> "disgusting"@en .
+<https://github.com/elexis-eu/mwsa#offensive_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#offensive_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense422> .
+<https://github.com/elexis-eu/mwsa#offensive_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "offensive"@en .
+<https://github.com/elexis-eu/mwsa#sense422> <http://www.w3.org/2004/02/skos/core#definition> "used to attack"@en .
+<https://github.com/elexis-eu/mwsa#offer_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#offer_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense426> .
+<https://github.com/elexis-eu/mwsa#offer_verb> <http://www.w3.org/2000/01/rdf-schema#label> "offer"@en .
+<https://github.com/elexis-eu/mwsa#sense426> <http://www.w3.org/2004/02/skos/core#definition> "to put forward (a gift, suggestion etc) for acceptance or refusal"@en .
+<https://github.com/elexis-eu/mwsa#offer_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#offer_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense427> .
+<https://github.com/elexis-eu/mwsa#offer_verb> <http://www.w3.org/2000/01/rdf-schema#label> "offer"@en .
+<https://github.com/elexis-eu/mwsa#sense427> <http://www.w3.org/2004/02/skos/core#definition> "to say that one is willing"@en .
+<https://github.com/elexis-eu/mwsa#offer_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#offer_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense432> .
+<https://github.com/elexis-eu/mwsa#offer_noun> <http://www.w3.org/2000/01/rdf-schema#label> "offer"@en .
+<https://github.com/elexis-eu/mwsa#sense432> <http://www.w3.org/2004/02/skos/core#definition> "an act of offering"@en .
+<https://github.com/elexis-eu/mwsa#offer_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#offer_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense433> .
+<https://github.com/elexis-eu/mwsa#offer_noun> <http://www.w3.org/2000/01/rdf-schema#label> "offer"@en .
+<https://github.com/elexis-eu/mwsa#sense433> <http://www.w3.org/2004/02/skos/core#definition> "an offering of money as the price of something"@en .
+<https://github.com/elexis-eu/mwsa#offhand_adverb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#offhand_adverb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense439> .
+<https://github.com/elexis-eu/mwsa#offhand_adverb> <http://www.w3.org/2000/01/rdf-schema#label> "offhand"@en .
+<https://github.com/elexis-eu/mwsa#sense439> <http://www.w3.org/2004/02/skos/core#definition> "without thinking about something first"@en .
+<https://github.com/elexis-eu/mwsa#offhand_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#offhand_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense441> .
+<https://github.com/elexis-eu/mwsa#offhand_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "offhand"@en .
+<https://github.com/elexis-eu/mwsa#sense441> <http://www.w3.org/2004/02/skos/core#definition> "acting or speaking so casually that one is being rude"@en .
+<https://github.com/elexis-eu/mwsa#officer_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#officer_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense443> .
+<https://github.com/elexis-eu/mwsa#officer_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "officer"@en .
+<https://github.com/elexis-eu/mwsa#sense443> <http://www.w3.org/2004/02/skos/core#definition> "a person holding a commission in the army, navy or air force"@en .
+<https://github.com/elexis-eu/mwsa#officer_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#officer_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense444> .
+<https://github.com/elexis-eu/mwsa#officer_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "officer"@en .
+<https://github.com/elexis-eu/mwsa#sense444> <http://www.w3.org/2004/02/skos/core#definition> "a person who carries out a public duty"@en .
+<https://github.com/elexis-eu/mwsa#official_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#official_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense447> .
+<https://github.com/elexis-eu/mwsa#official_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "official"@en .
+<https://github.com/elexis-eu/mwsa#sense447> <http://www.w3.org/2004/02/skos/core#definition> "of or concerning a position of authority"@en .
+<https://github.com/elexis-eu/mwsa#official_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#official_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense448> .
+<https://github.com/elexis-eu/mwsa#official_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "official"@en .
+<https://github.com/elexis-eu/mwsa#sense448> <http://www.w3.org/2004/02/skos/core#definition> "done or confirmed by people in authority etc"@en .
+<https://github.com/elexis-eu/mwsa#official_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#official_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense453> .
+<https://github.com/elexis-eu/mwsa#official_noun> <http://www.w3.org/2000/01/rdf-schema#label> "official"@en .
+<https://github.com/elexis-eu/mwsa#sense453> <http://www.w3.org/2004/02/skos/core#definition> "a person who holds a position of authority"@en .
+<https://github.com/elexis-eu/mwsa#offline_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#offline_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense455> .
+<https://github.com/elexis-eu/mwsa#offline_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "offline"@en .
+<https://github.com/elexis-eu/mwsa#sense455> <http://www.w3.org/2004/02/skos/core#definition> "using a computer, but not connected to the Internet"@en .
+<https://github.com/elexis-eu/mwsa#offshore_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#offshore_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense457> .
+<https://github.com/elexis-eu/mwsa#offshore_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "offshore"@en .
+<https://github.com/elexis-eu/mwsa#sense457> <http://www.w3.org/2004/02/skos/core#definition> "in or on the sea, not far from the coast"@en .
+<https://github.com/elexis-eu/mwsa#offshore_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#offshore_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense458> .
+<https://github.com/elexis-eu/mwsa#offshore_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "offshore"@en .
+<https://github.com/elexis-eu/mwsa#sense458> <http://www.w3.org/2004/02/skos/core#definition> "(of winds) blowing away from the coast, out to sea"@en .
+<https://github.com/elexis-eu/mwsa#often_adverb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#often_adverb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense461> .
+<https://github.com/elexis-eu/mwsa#often_adverb> <http://www.w3.org/2000/01/rdf-schema#label> "often"@en .
+<https://github.com/elexis-eu/mwsa#sense461> <http://www.w3.org/2004/02/skos/core#definition> "many times"@en .
+<https://github.com/elexis-eu/mwsa#oh_interjection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#oh_interjection> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense464> .
+<https://github.com/elexis-eu/mwsa#oh_interjection> <http://www.w3.org/2000/01/rdf-schema#label> "oh"@en .
+<https://github.com/elexis-eu/mwsa#sense464> <http://www.w3.org/2004/02/skos/core#definition> "an expression of surprise, admiration etc"@en .
+<https://github.com/elexis-eu/mwsa#oil_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#oil_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense467> .
+<https://github.com/elexis-eu/mwsa#oil_noun> <http://www.w3.org/2000/01/rdf-schema#label> "oil"@en .
+<https://github.com/elexis-eu/mwsa#sense467> <http://www.w3.org/2004/02/skos/core#definition> "a usually thick liquid that will not mix with water, obtained from plants, animals and minerals"@en .
+<https://github.com/elexis-eu/mwsa#oil_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#oil_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense470> .
+<https://github.com/elexis-eu/mwsa#oil_verb> <http://www.w3.org/2000/01/rdf-schema#label> "oil"@en .
+<https://github.com/elexis-eu/mwsa#sense470> <http://www.w3.org/2004/02/skos/core#definition> "to put oil on or into"@en .
+<https://github.com/elexis-eu/mwsa#omit_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#omit_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense472> .
+<https://github.com/elexis-eu/mwsa#omit_verb> <http://www.w3.org/2000/01/rdf-schema#label> "omit"@en .
+<https://github.com/elexis-eu/mwsa#sense472> <http://www.w3.org/2004/02/skos/core#definition> "to leave out"@en .
+<https://github.com/elexis-eu/mwsa#omit_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#omit_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense473> .
+<https://github.com/elexis-eu/mwsa#omit_verb> <http://www.w3.org/2000/01/rdf-schema#label> "omit"@en .
+<https://github.com/elexis-eu/mwsa#sense473> <http://www.w3.org/2004/02/skos/core#definition> "not to do"@en .
+<https://github.com/elexis-eu/mwsa#on_adverb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#on_adverb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense476> .
+<https://github.com/elexis-eu/mwsa#on_adverb> <http://www.w3.org/2000/01/rdf-schema#label> "on"@en .
+<https://github.com/elexis-eu/mwsa#sense476> <http://www.w3.org/2004/02/skos/core#definition> "(especially of something being worn) so as to be touching, fixed to, covering etc the upper or outer side of"@en .
+<https://github.com/elexis-eu/mwsa#on_adverb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#on_adverb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense477> .
+<https://github.com/elexis-eu/mwsa#on_adverb> <http://www.w3.org/2000/01/rdf-schema#label> "on"@en .
+<https://github.com/elexis-eu/mwsa#sense477> <http://www.w3.org/2004/02/skos/core#definition> "used to show a continuing state etc, onwards"@en .
+<https://github.com/elexis-eu/mwsa#on_adverb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#on_adverb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense478> .
+<https://github.com/elexis-eu/mwsa#on_adverb> <http://www.w3.org/2000/01/rdf-schema#label> "on"@en .
+<https://github.com/elexis-eu/mwsa#sense478> <http://www.w3.org/2004/02/skos/core#definition> "(also adjective) (of electric light, machines etc) working"@en .
+<https://github.com/elexis-eu/mwsa#on_adverb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#on_adverb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense479> .
+<https://github.com/elexis-eu/mwsa#on_adverb> <http://www.w3.org/2000/01/rdf-schema#label> "on"@en .
+<https://github.com/elexis-eu/mwsa#sense479> <http://www.w3.org/2004/02/skos/core#definition> "(also adjective) (of films) able to be seen"@en .
+<https://github.com/elexis-eu/mwsa#on_adverb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#on_adverb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense480> .
+<https://github.com/elexis-eu/mwsa#on_adverb> <http://www.w3.org/2000/01/rdf-schema#label> "on"@en .
+<https://github.com/elexis-eu/mwsa#sense480> <http://www.w3.org/2004/02/skos/core#definition> "(also adjective) in or into a vehicle, train etc"@en .
+<https://github.com/elexis-eu/mwsa#once_adverb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#once_adverb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense488> .
+<https://github.com/elexis-eu/mwsa#once_adverb> <http://www.w3.org/2000/01/rdf-schema#label> "once"@en .
+<https://github.com/elexis-eu/mwsa#sense488> <http://www.w3.org/2004/02/skos/core#definition> "a single time"@en .
+<https://github.com/elexis-eu/mwsa#once_adverb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#once_adverb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense489> .
+<https://github.com/elexis-eu/mwsa#once_adverb> <http://www.w3.org/2000/01/rdf-schema#label> "once"@en .
+<https://github.com/elexis-eu/mwsa#sense489> <http://www.w3.org/2004/02/skos/core#definition> "at a time in the past"@en .
+<https://github.com/elexis-eu/mwsa#once_conjunction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#once_conjunction> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense496> .
+<https://github.com/elexis-eu/mwsa#once_conjunction> <http://www.w3.org/2000/01/rdf-schema#label> "once"@en .
+<https://github.com/elexis-eu/mwsa#sense496> <http://www.w3.org/2004/02/skos/core#definition> "when; as soon as"@en .
+<https://github.com/elexis-eu/mwsa#one_pronoun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#one_pronoun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense498> .
+<https://github.com/elexis-eu/mwsa#one_pronoun> <http://www.w3.org/2000/01/rdf-schema#label> "one"@en .
+<https://github.com/elexis-eu/mwsa#sense498> <http://www.w3.org/2004/02/skos/core#definition> "a single person or thing"@en .
+<https://github.com/elexis-eu/mwsa#one_pronoun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#one_pronoun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense499> .
+<https://github.com/elexis-eu/mwsa#one_pronoun> <http://www.w3.org/2000/01/rdf-schema#label> "one"@en .
+<https://github.com/elexis-eu/mwsa#sense499> <http://www.w3.org/2004/02/skos/core#definition> "anyone; any person"@en .
+<https://github.com/elexis-eu/mwsa#one-sided_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#one-sided_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense502> .
+<https://github.com/elexis-eu/mwsa#one-sided_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "one-sided"@en .
+<https://github.com/elexis-eu/mwsa#sense502> <http://www.w3.org/2004/02/skos/core#definition> "with one person or side having a great advantage over the other"@en .
+<https://github.com/elexis-eu/mwsa#one-sided_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#one-sided_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense503> .
+<https://github.com/elexis-eu/mwsa#one-sided_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "one-sided"@en .
+<https://github.com/elexis-eu/mwsa#sense503> <http://www.w3.org/2004/02/skos/core#definition> "representing only one aspect of a subject"@en .
+<https://github.com/elexis-eu/mwsa#one-way_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#one-way_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense506> .
+<https://github.com/elexis-eu/mwsa#one-way_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "one-way"@en .
+<https://github.com/elexis-eu/mwsa#sense506> <http://www.w3.org/2004/02/skos/core#definition> "in which traffic can move in one direction only"@en .
+<https://github.com/elexis-eu/mwsa#one-way_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#one-way_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense507> .
+<https://github.com/elexis-eu/mwsa#one-way_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "one-way"@en .
+<https://github.com/elexis-eu/mwsa#sense507> <http://www.w3.org/2004/02/skos/core#definition> "(especially American) valid for travel in one direction only"@en .
+<https://github.com/elexis-eu/mwsa#only_adverb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#only_adverb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense510> .
+<https://github.com/elexis-eu/mwsa#only_adverb> <http://www.w3.org/2000/01/rdf-schema#label> "only"@en .
+<https://github.com/elexis-eu/mwsa#sense510> <http://www.w3.org/2004/02/skos/core#definition> "alone"@en .
+<https://github.com/elexis-eu/mwsa#only_adverb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#only_adverb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense511> .
+<https://github.com/elexis-eu/mwsa#only_adverb> <http://www.w3.org/2000/01/rdf-schema#label> "only"@en .
+<https://github.com/elexis-eu/mwsa#sense511> <http://www.w3.org/2004/02/skos/core#definition> "showing the one action done, in contrast to other possibilities"@en .
+<https://github.com/elexis-eu/mwsa#only_adverb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#only_adverb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense512> .
+<https://github.com/elexis-eu/mwsa#only_adverb> <http://www.w3.org/2000/01/rdf-schema#label> "only"@en .
+<https://github.com/elexis-eu/mwsa#sense512> <http://www.w3.org/2004/02/skos/core#definition> "not longer ago than"@en .
+<https://github.com/elexis-eu/mwsa#only_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#only_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense517> .
+<https://github.com/elexis-eu/mwsa#only_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "only"@en .
+<https://github.com/elexis-eu/mwsa#sense517> <http://www.w3.org/2004/02/skos/core#definition> "without any others of the same type"@en .
+<https://github.com/elexis-eu/mwsa#only_conjunction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#only_conjunction> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense520> .
+<https://github.com/elexis-eu/mwsa#only_conjunction> <http://www.w3.org/2000/01/rdf-schema#label> "only"@en .
+<https://github.com/elexis-eu/mwsa#sense520> <http://www.w3.org/2004/02/skos/core#definition> "except that, but"@en .
+<https://github.com/elexis-eu/mwsa#onward_adverb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#onward_adverb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense522> .
+<https://github.com/elexis-eu/mwsa#onward_adverb> <http://www.w3.org/2000/01/rdf-schema#label> "onward"@en .
+<https://github.com/elexis-eu/mwsa#sense522> <http://www.w3.org/2004/02/skos/core#definition> "moving forward (in place or time)"@en .
+<https://github.com/elexis-eu/mwsa#opaque_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#opaque_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense525> .
+<https://github.com/elexis-eu/mwsa#opaque_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "opaque"@en .
+<https://github.com/elexis-eu/mwsa#sense525> <http://www.w3.org/2004/02/skos/core#definition> "not transparent"@en .
+<https://github.com/elexis-eu/mwsa#open_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#open_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense528> .
+<https://github.com/elexis-eu/mwsa#open_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "open"@en .
+<https://github.com/elexis-eu/mwsa#sense528> <http://www.w3.org/2004/02/skos/core#definition> "not shut, allowing entry or exit"@en .
+<https://github.com/elexis-eu/mwsa#open_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#open_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense529> .
+<https://github.com/elexis-eu/mwsa#open_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "open"@en .
+<https://github.com/elexis-eu/mwsa#sense529> <http://www.w3.org/2004/02/skos/core#definition> "allowing the inside to be seen"@en .
+<https://github.com/elexis-eu/mwsa#open_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#open_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense530> .
+<https://github.com/elexis-eu/mwsa#open_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "open"@en .
+<https://github.com/elexis-eu/mwsa#sense530> <http://www.w3.org/2004/02/skos/core#definition> "ready for business etc"@en .
+<https://github.com/elexis-eu/mwsa#open_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#open_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense531> .
+<https://github.com/elexis-eu/mwsa#open_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "open"@en .
+<https://github.com/elexis-eu/mwsa#sense531> <http://www.w3.org/2004/02/skos/core#definition> "not kept secret"@en .
+<https://github.com/elexis-eu/mwsa#open_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#open_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense532> .
+<https://github.com/elexis-eu/mwsa#open_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "open"@en .
+<https://github.com/elexis-eu/mwsa#sense532> <http://www.w3.org/2004/02/skos/core#definition> "frank"@en .
+<https://github.com/elexis-eu/mwsa#open_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#open_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense533> .
+<https://github.com/elexis-eu/mwsa#open_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "open"@en .
+<https://github.com/elexis-eu/mwsa#sense533> <http://www.w3.org/2004/02/skos/core#definition> "still being considered etc"@en .
+<https://github.com/elexis-eu/mwsa#open_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#open_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense534> .
+<https://github.com/elexis-eu/mwsa#open_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "open"@en .
+<https://github.com/elexis-eu/mwsa#sense534> <http://www.w3.org/2004/02/skos/core#definition> "empty, with no trees, buildings etc"@en .
+<https://github.com/elexis-eu/mwsa#open_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#open_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense545> .
+<https://github.com/elexis-eu/mwsa#open_verb> <http://www.w3.org/2000/01/rdf-schema#label> "open"@en .
+<https://github.com/elexis-eu/mwsa#sense545> <http://www.w3.org/2004/02/skos/core#definition> "to make or become open"@en .
+<https://github.com/elexis-eu/mwsa#open_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#open_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense546> .
+<https://github.com/elexis-eu/mwsa#open_verb> <http://www.w3.org/2000/01/rdf-schema#label> "open"@en .
+<https://github.com/elexis-eu/mwsa#sense546> <http://www.w3.org/2004/02/skos/core#definition> "to begin"@en .
+<https://github.com/elexis-eu/mwsa#office_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#office_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense552> .
+<https://github.com/elexis-eu/mwsa#office_noun> <http://www.w3.org/2000/01/rdf-schema#label> "office"@en .
+<https://github.com/elexis-eu/mwsa#sense552> <http://www.w3.org/2004/02/skos/core#definition> "the room or building in which the business of a firm is done"@en .
+<https://github.com/elexis-eu/mwsa#office_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#office_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense553> .
+<https://github.com/elexis-eu/mwsa#office_noun> <http://www.w3.org/2000/01/rdf-schema#label> "office"@en .
+<https://github.com/elexis-eu/mwsa#sense553> <http://www.w3.org/2004/02/skos/core#definition> "the room in which a particular person works"@en .
+<https://github.com/elexis-eu/mwsa#office_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#office_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense554> .
+<https://github.com/elexis-eu/mwsa#office_noun> <http://www.w3.org/2000/01/rdf-schema#label> "office"@en .
+<https://github.com/elexis-eu/mwsa#sense554> <http://www.w3.org/2004/02/skos/core#definition> "a room or building used for a particular purpose"@en .
+<https://github.com/elexis-eu/mwsa#office_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#office_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense555> .
+<https://github.com/elexis-eu/mwsa#office_noun> <http://www.w3.org/2000/01/rdf-schema#label> "office"@en .
+<https://github.com/elexis-eu/mwsa#sense555> <http://www.w3.org/2004/02/skos/core#definition> "a position of authority, especially in or as a government"@en .
+<https://github.com/elexis-eu/mwsa#oily_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#oily_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense559> .
+<https://github.com/elexis-eu/mwsa#oily_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "oily"@en .
+<https://github.com/elexis-eu/mwsa#sense559> <http://www.w3.org/2004/02/skos/core#definition> "of, like or covered with oil"@en .
+<https://github.com/elexis-eu/mwsa#oily_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#oily_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense560> .
+<https://github.com/elexis-eu/mwsa#oily_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "oily"@en .
+<https://github.com/elexis-eu/mwsa#sense560> <http://www.w3.org/2004/02/skos/core#definition> "trying to be too friendly or polite"@en .
+<https://github.com/elexis-eu/mwsa#old_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#old_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense562> .
+<https://github.com/elexis-eu/mwsa#old_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "old"@en .
+<https://github.com/elexis-eu/mwsa#sense562> <http://www.w3.org/2004/02/skos/core#definition> "advanced in age"@en .
+<https://github.com/elexis-eu/mwsa#old_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#old_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense563> .
+<https://github.com/elexis-eu/mwsa#old_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "old"@en .
+<https://github.com/elexis-eu/mwsa#sense563> <http://www.w3.org/2004/02/skos/core#definition> "having a certain age"@en .
+<https://github.com/elexis-eu/mwsa#old_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#old_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense564> .
+<https://github.com/elexis-eu/mwsa#old_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "old"@en .
+<https://github.com/elexis-eu/mwsa#sense564> <http://www.w3.org/2004/02/skos/core#definition> "having existed for a long time"@en .
+<https://github.com/elexis-eu/mwsa#old_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#old_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense565> .
+<https://github.com/elexis-eu/mwsa#old_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "old"@en .
+<https://github.com/elexis-eu/mwsa#sense565> <http://www.w3.org/2004/02/skos/core#definition> "no longer useful"@en .
+<https://github.com/elexis-eu/mwsa#old_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#old_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense566> .
+<https://github.com/elexis-eu/mwsa#old_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "old"@en .
+<https://github.com/elexis-eu/mwsa#sense566> <http://www.w3.org/2004/02/skos/core#definition> "belonging to times long ago"@en .
+<https://github.com/elexis-eu/mwsa#olive_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#olive_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense571> .
+<https://github.com/elexis-eu/mwsa#olive_noun> <http://www.w3.org/2000/01/rdf-schema#label> "olive"@en .
+<https://github.com/elexis-eu/mwsa#sense571> <http://www.w3.org/2004/02/skos/core#definition> "a type of edible fruit which is used as a garnish etc and which gives oil used for cooking"@en .
+<https://github.com/elexis-eu/mwsa#olive_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#olive_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense572> .
+<https://github.com/elexis-eu/mwsa#olive_noun> <http://www.w3.org/2000/01/rdf-schema#label> "olive"@en .
+<https://github.com/elexis-eu/mwsa#sense572> <http://www.w3.org/2004/02/skos/core#definition> "the tree on which it grows"@en .
+<https://github.com/elexis-eu/mwsa#olive_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#olive_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense573> .
+<https://github.com/elexis-eu/mwsa#olive_noun> <http://www.w3.org/2000/01/rdf-schema#label> "olive"@en .
+<https://github.com/elexis-eu/mwsa#sense573> <http://www.w3.org/2004/02/skos/core#definition> "(alsoolive-green) the brownish-green or yellowish-green colour/color of the fruit"@en .
+<https://github.com/elexis-eu/mwsa#olive_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#olive_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense574> .
+<https://github.com/elexis-eu/mwsa#olive_noun> <http://www.w3.org/2000/01/rdf-schema#label> "olive"@en .
+<https://github.com/elexis-eu/mwsa#sense574> <http://www.w3.org/2004/02/skos/core#definition> "(alsoolive-wood) the wood of the tree."@en .
+<https://github.com/elexis-eu/mwsa#omission_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#omission_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense577> .
+<https://github.com/elexis-eu/mwsa#omission_noun> <http://www.w3.org/2000/01/rdf-schema#label> "omission"@en .
+<https://github.com/elexis-eu/mwsa#sense577> <http://www.w3.org/2004/02/skos/core#definition> "something that has been left out"@en .
+<https://github.com/elexis-eu/mwsa#omission_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#omission_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense578> .
+<https://github.com/elexis-eu/mwsa#omission_noun> <http://www.w3.org/2000/01/rdf-schema#label> "omission"@en .
+<https://github.com/elexis-eu/mwsa#sense578> <http://www.w3.org/2004/02/skos/core#definition> "the act of omitting"@en .
+<https://github.com/elexis-eu/mwsa#on_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#on_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense580> .
+<https://github.com/elexis-eu/mwsa#on_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "on"@en .
+<https://github.com/elexis-eu/mwsa#sense580> <http://www.w3.org/2004/02/skos/core#definition> "touching, fixed to, covering etc the upper or outer side of"@en .
+<https://github.com/elexis-eu/mwsa#on_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#on_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense581> .
+<https://github.com/elexis-eu/mwsa#on_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "on"@en .
+<https://github.com/elexis-eu/mwsa#sense581> <http://www.w3.org/2004/02/skos/core#definition> "in or into (a vehicle, train etc)"@en .
+<https://github.com/elexis-eu/mwsa#on_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#on_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense582> .
+<https://github.com/elexis-eu/mwsa#on_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "on"@en .
+<https://github.com/elexis-eu/mwsa#sense582> <http://www.w3.org/2004/02/skos/core#definition> "at or during a certain day, time etc"@en .
+<https://github.com/elexis-eu/mwsa#on_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#on_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense583> .
+<https://github.com/elexis-eu/mwsa#on_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "on"@en .
+<https://github.com/elexis-eu/mwsa#sense583> <http://www.w3.org/2004/02/skos/core#definition> "about"@en .
+<https://github.com/elexis-eu/mwsa#on_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#on_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense584> .
+<https://github.com/elexis-eu/mwsa#on_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "on"@en .
+<https://github.com/elexis-eu/mwsa#sense584> <http://www.w3.org/2004/02/skos/core#definition> "in the state or process of"@en .
+<https://github.com/elexis-eu/mwsa#on_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#on_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense585> .
+<https://github.com/elexis-eu/mwsa#on_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "on"@en .
+<https://github.com/elexis-eu/mwsa#sense585> <http://www.w3.org/2004/02/skos/core#definition> "supported by"@en .
+<https://github.com/elexis-eu/mwsa#on_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#on_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense586> .
+<https://github.com/elexis-eu/mwsa#on_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "on"@en .
+<https://github.com/elexis-eu/mwsa#sense586> <http://www.w3.org/2004/02/skos/core#definition> "receiving, taking"@en .
+<https://github.com/elexis-eu/mwsa#on_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#on_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense587> .
+<https://github.com/elexis-eu/mwsa#on_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "on"@en .
+<https://github.com/elexis-eu/mwsa#sense587> <http://www.w3.org/2004/02/skos/core#definition> "taking part in"@en .
+<https://github.com/elexis-eu/mwsa#on_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#on_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense588> .
+<https://github.com/elexis-eu/mwsa#on_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "on"@en .
+<https://github.com/elexis-eu/mwsa#sense588> <http://www.w3.org/2004/02/skos/core#definition> "towards"@en .
+<https://github.com/elexis-eu/mwsa#on_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#on_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense589> .
+<https://github.com/elexis-eu/mwsa#on_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "on"@en .
+<https://github.com/elexis-eu/mwsa#sense589> <http://www.w3.org/2004/02/skos/core#definition> "near or beside"@en .
+<https://github.com/elexis-eu/mwsa#on_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#on_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense590> .
+<https://github.com/elexis-eu/mwsa#on_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "on"@en .
+<https://github.com/elexis-eu/mwsa#sense590> <http://www.w3.org/2004/02/skos/core#definition> "by means of"@en .
+<https://github.com/elexis-eu/mwsa#on_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#on_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense591> .
+<https://github.com/elexis-eu/mwsa#on_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "on"@en .
+<https://github.com/elexis-eu/mwsa#sense591> <http://www.w3.org/2004/02/skos/core#definition> "being carried by"@en .
+<https://github.com/elexis-eu/mwsa#on_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#on_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense592> .
+<https://github.com/elexis-eu/mwsa#on_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "on"@en .
+<https://github.com/elexis-eu/mwsa#sense592> <http://www.w3.org/2004/02/skos/core#definition> "when (something is, or has been, done)"@en .
+<https://github.com/elexis-eu/mwsa#on_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#on_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense593> .
+<https://github.com/elexis-eu/mwsa#on_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "on"@en .
+<https://github.com/elexis-eu/mwsa#sense593> <http://www.w3.org/2004/02/skos/core#definition> "followed by"@en .
+<https://github.com/elexis-eu/mwsa#one_number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#one_number> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense607> .
+<https://github.com/elexis-eu/mwsa#one_number> <http://www.w3.org/2000/01/rdf-schema#label> "one"@en .
+<https://github.com/elexis-eu/mwsa#sense607> <http://www.w3.org/2004/02/skos/core#definition> "the number or figure 1"@en .
+<https://github.com/elexis-eu/mwsa#one_number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#one_number> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense608> .
+<https://github.com/elexis-eu/mwsa#one_number> <http://www.w3.org/2000/01/rdf-schema#label> "one"@en .
+<https://github.com/elexis-eu/mwsa#sense608> <http://www.w3.org/2004/02/skos/core#definition> "the age of 1"@en .
+<https://github.com/elexis-eu/mwsa#offspring_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#offspring_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense610> .
+<https://github.com/elexis-eu/mwsa#offspring_noun> <http://www.w3.org/2000/01/rdf-schema#label> "offspring"@en .
+<https://github.com/elexis-eu/mwsa#sense610> <http://www.w3.org/2004/02/skos/core#definition> "(formal, humorous) someone’s child or children"@en .
+<https://github.com/elexis-eu/mwsa#offspring_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#offspring_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense611> .
+<https://github.com/elexis-eu/mwsa#offspring_noun> <http://www.w3.org/2000/01/rdf-schema#label> "offspring"@en .
+<https://github.com/elexis-eu/mwsa#sense611> <http://www.w3.org/2004/02/skos/core#definition> "an animal's baby or babies"@en .
+<https://github.com/elexis-eu/mwsa#absorb_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#absorb_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense613> .
+<https://github.com/elexis-eu/mwsa#absorb_verb> <http://www.w3.org/2000/01/rdf-schema#label> "absorb"@en .
+<https://github.com/elexis-eu/mwsa#sense613> <http://www.w3.org/2004/02/skos/core#definition> "to soak up"@en .
+<https://github.com/elexis-eu/mwsa#absorb_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#absorb_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense614> .
+<https://github.com/elexis-eu/mwsa#absorb_verb> <http://www.w3.org/2000/01/rdf-schema#label> "absorb"@en .
+<https://github.com/elexis-eu/mwsa#sense614> <http://www.w3.org/2004/02/skos/core#definition> "to take up the whole attention of (a person)"@en .
+<https://github.com/elexis-eu/mwsa#absorb_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#absorb_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense615> .
+<https://github.com/elexis-eu/mwsa#absorb_verb> <http://www.w3.org/2000/01/rdf-schema#label> "absorb"@en .
+<https://github.com/elexis-eu/mwsa#sense615> <http://www.w3.org/2004/02/skos/core#definition> "to learn and understand new information"@en .
+<https://github.com/elexis-eu/mwsa#absorb_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#absorb_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense616> .
+<https://github.com/elexis-eu/mwsa#absorb_verb> <http://www.w3.org/2000/01/rdf-schema#label> "absorb"@en .
+<https://github.com/elexis-eu/mwsa#sense616> <http://www.w3.org/2004/02/skos/core#definition> "to make something smaller become part of something bigger"@en .
+<https://github.com/elexis-eu/mwsa#according%20to_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#according%20to_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense620> .
+<https://github.com/elexis-eu/mwsa#according%20to_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "according to"@en .
+<https://github.com/elexis-eu/mwsa#sense620> <http://www.w3.org/2004/02/skos/core#definition> "as said or told by"@en .
+<https://github.com/elexis-eu/mwsa#according%20to_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#according%20to_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense621> .
+<https://github.com/elexis-eu/mwsa#according%20to_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "according to"@en .
+<https://github.com/elexis-eu/mwsa#sense621> <http://www.w3.org/2004/02/skos/core#definition> "in agreement with"@en .
+<https://github.com/elexis-eu/mwsa#according%20to_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#according%20to_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense622> .
+<https://github.com/elexis-eu/mwsa#according%20to_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "according to"@en .
+<https://github.com/elexis-eu/mwsa#sense622> <http://www.w3.org/2004/02/skos/core#definition> "in the order of"@en .
+<https://github.com/elexis-eu/mwsa#according%20to_preposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#according%20to_preposition> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense623> .
+<https://github.com/elexis-eu/mwsa#according%20to_preposition> <http://www.w3.org/2000/01/rdf-schema#label> "according to"@en .
+<https://github.com/elexis-eu/mwsa#sense623> <http://www.w3.org/2004/02/skos/core#definition> "in proportion to"@en .
+<https://github.com/elexis-eu/mwsa#acknowledge_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#acknowledge_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense626> .
+<https://github.com/elexis-eu/mwsa#acknowledge_verb> <http://www.w3.org/2000/01/rdf-schema#label> "acknowledge"@en .
+<https://github.com/elexis-eu/mwsa#sense626> <http://www.w3.org/2004/02/skos/core#definition> "to admit as being fact"@en .
+<https://github.com/elexis-eu/mwsa#acknowledge_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#acknowledge_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense627> .
+<https://github.com/elexis-eu/mwsa#acknowledge_verb> <http://www.w3.org/2000/01/rdf-schema#label> "acknowledge"@en .
+<https://github.com/elexis-eu/mwsa#sense627> <http://www.w3.org/2004/02/skos/core#definition> "to recognize that someone or something is important or good"@en .
+<https://github.com/elexis-eu/mwsa#acknowledge_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#acknowledge_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense628> .
+<https://github.com/elexis-eu/mwsa#acknowledge_verb> <http://www.w3.org/2000/01/rdf-schema#label> "acknowledge"@en .
+<https://github.com/elexis-eu/mwsa#sense628> <http://www.w3.org/2004/02/skos/core#definition> "to give thanks for"@en .
+<https://github.com/elexis-eu/mwsa#acknowledge_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#acknowledge_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense629> .
+<https://github.com/elexis-eu/mwsa#acknowledge_verb> <http://www.w3.org/2000/01/rdf-schema#label> "acknowledge"@en .
+<https://github.com/elexis-eu/mwsa#sense629> <http://www.w3.org/2004/02/skos/core#definition> "to greet someone"@en .
+<https://github.com/elexis-eu/mwsa#action_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#action_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense633> .
+<https://github.com/elexis-eu/mwsa#action_noun> <http://www.w3.org/2000/01/rdf-schema#label> "action"@en .
+<https://github.com/elexis-eu/mwsa#sense633> <http://www.w3.org/2004/02/skos/core#definition> "something done"@en .
+<https://github.com/elexis-eu/mwsa#action_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#action_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense634> .
+<https://github.com/elexis-eu/mwsa#action_noun> <http://www.w3.org/2000/01/rdf-schema#label> "action"@en .
+<https://github.com/elexis-eu/mwsa#sense634> <http://www.w3.org/2004/02/skos/core#definition> "movement"@en .
+<https://github.com/elexis-eu/mwsa#action_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#action_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense635> .
+<https://github.com/elexis-eu/mwsa#action_noun> <http://www.w3.org/2000/01/rdf-schema#label> "action"@en .
+<https://github.com/elexis-eu/mwsa#sense635> <http://www.w3.org/2004/02/skos/core#definition> "a legal case"@en .
+<https://github.com/elexis-eu/mwsa#action_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#action_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense636> .
+<https://github.com/elexis-eu/mwsa#action_noun> <http://www.w3.org/2000/01/rdf-schema#label> "action"@en .
+<https://github.com/elexis-eu/mwsa#sense636> <http://www.w3.org/2004/02/skos/core#definition> "a battle; fighting"@en .
+<https://github.com/elexis-eu/mwsa#action_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#action_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense637> .
+<https://github.com/elexis-eu/mwsa#action_noun> <http://www.w3.org/2000/01/rdf-schema#label> "action"@en .
+<https://github.com/elexis-eu/mwsa#sense637> <http://www.w3.org/2004/02/skos/core#definition> "the mechanical parts of a machine or the way the parts move"@en .
+<https://github.com/elexis-eu/mwsa#acute_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#acute_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense642> .
+<https://github.com/elexis-eu/mwsa#acute_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "acute"@en .
+<https://github.com/elexis-eu/mwsa#sense642> <http://www.w3.org/2004/02/skos/core#definition> "very great"@en .
+<https://github.com/elexis-eu/mwsa#acute_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#acute_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense643> .
+<https://github.com/elexis-eu/mwsa#acute_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "acute"@en .
+<https://github.com/elexis-eu/mwsa#sense643> <http://www.w3.org/2004/02/skos/core#definition> "quick-witted"@en .
+<https://github.com/elexis-eu/mwsa#acute_adjective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#acute_adjective> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense644> .
+<https://github.com/elexis-eu/mwsa#acute_adjective> <http://www.w3.org/2000/01/rdf-schema#label> "acute"@en .
+<https://github.com/elexis-eu/mwsa#sense644> <http://www.w3.org/2004/02/skos/core#definition> "(of the senses) keen"@en .
+<https://github.com/elexis-eu/mwsa#appreciate_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#appreciate_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense647> .
+<https://github.com/elexis-eu/mwsa#appreciate_verb> <http://www.w3.org/2000/01/rdf-schema#label> "appreciate"@en .
+<https://github.com/elexis-eu/mwsa#sense647> <http://www.w3.org/2004/02/skos/core#definition> "to be grateful for (something)"@en .
+<https://github.com/elexis-eu/mwsa#appreciate_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#appreciate_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense648> .
+<https://github.com/elexis-eu/mwsa#appreciate_verb> <http://www.w3.org/2000/01/rdf-schema#label> "appreciate"@en .
+<https://github.com/elexis-eu/mwsa#sense648> <http://www.w3.org/2004/02/skos/core#definition> "to value (someone or something) highly"@en .
+<https://github.com/elexis-eu/mwsa#appreciate_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#appreciate_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense649> .
+<https://github.com/elexis-eu/mwsa#appreciate_verb> <http://www.w3.org/2000/01/rdf-schema#label> "appreciate"@en .
+<https://github.com/elexis-eu/mwsa#sense649> <http://www.w3.org/2004/02/skos/core#definition> "understand; to be aware of"@en .
+<https://github.com/elexis-eu/mwsa#appreciate_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#appreciate_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense650> .
+<https://github.com/elexis-eu/mwsa#appreciate_verb> <http://www.w3.org/2000/01/rdf-schema#label> "appreciate"@en .
+<https://github.com/elexis-eu/mwsa#sense650> <http://www.w3.org/2004/02/skos/core#definition> "to increase in value"@en .
+<https://github.com/elexis-eu/mwsa#appreciate_verb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#appreciate_verb> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense651> .
+<https://github.com/elexis-eu/mwsa#appreciate_verb> <http://www.w3.org/2000/01/rdf-schema#label> "appreciate"@en .
+<https://github.com/elexis-eu/mwsa#sense651> <http://www.w3.org/2004/02/skos/core#definition> "to make (someone) an apprentice"@en .
+<https://github.com/elexis-eu/mwsa#attention_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#attention_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense654> .
+<https://github.com/elexis-eu/mwsa#attention_noun> <http://www.w3.org/2000/01/rdf-schema#label> "attention"@en .
+<https://github.com/elexis-eu/mwsa#sense654> <http://www.w3.org/2004/02/skos/core#definition> "notice"@en .
+<https://github.com/elexis-eu/mwsa#attention_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#attention_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense655> .
+<https://github.com/elexis-eu/mwsa#attention_noun> <http://www.w3.org/2000/01/rdf-schema#label> "attention"@en .
+<https://github.com/elexis-eu/mwsa#sense655> <http://www.w3.org/2004/02/skos/core#definition> "care"@en .
+<https://github.com/elexis-eu/mwsa#attention_noun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/lemon/ontolex#LexicalEntry> .
+<https://github.com/elexis-eu/mwsa#attention_noun> <http://www.w3.org/ns/lemon/ontolex#sense> <https://github.com/elexis-eu/mwsa#sense656> .
+<https://github.com/elexis-eu/mwsa#attention_noun> <http://www.w3.org/2000/01/rdf-schema#label> "attention"@en .
+<https://github.com/elexis-eu/mwsa#sense656> <http://www.w3.org/2004/02/skos/core#definition> "concentration of the mind"@en .
