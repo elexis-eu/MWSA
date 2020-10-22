@@ -1,7 +1,7 @@
 import json
 
 reversed_relationship = {"narrower": "broader", "broader": "narrower", "related": "related", "none": "none", "exact": "exact"}
-output_dir = "/Users/sina/My_GitHub/MWSA/TSV/"
+output_dir = "TSV/"
 
 languages= {
     "bg": "BG_MWSA.json",
@@ -22,7 +22,7 @@ languages= {
     }
 for lang in languages:
 	lang_output = list()
-	json_file_directory = "classification_datasets/Data/" + languages[lang]
+	json_file_directory = "JSON/" + languages[lang]
 	with open(json_file_directory) as f:
 		resource = json.load(f)["body"]
 		all_senses = dict()
@@ -49,7 +49,7 @@ for lang in languages:
 						# reverse the sense order and create a new sense match
 						all_senses[(s_2, s_1)] = reversed_relationship[new_alignment[(s_1, s_2)]]
 						lang_output.append("\t".join((i["lemma"], pos, gender, s_1, s_2, new_alignment[(s_1, s_2)])))
-						lang_output.append("\t".join((i["lemma"], pos, gender, s_1, s_2, reversed_relationship[new_alignment[(s_1, s_2)]])))
+						lang_output.append("\t".join((i["lemma"], pos, gender, s_2, s_1, reversed_relationship[new_alignment[(s_1, s_2)]])))
 					else:
 						all_senses[(s_1, s_2)] = "none"
 						lang_output.append("\t".join((i["lemma"], pos, gender, s_1, s_2, "none")))

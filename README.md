@@ -367,9 +367,16 @@ The current repository contains a set of 17 datasets of manually-annotated sense
 </table>
 </div>
 
+This repository contains datasets in JSON, RDF and TSV. In the latter format, each line corresponds to a sense pair where the last column represents the type of semantic relationship. We have also included the induced semantic relationships based on the symmetric property of the relationships, as follows:
+
+	especial	adjective		que se aplica exclusivamente a alguém ou a alguma coisa. ≈ exclusivo, particular, privado.	exclusivo.	narrower
+	especial	adjective		exclusivo.	que se aplica exclusivamente a alguém ou a alguma coisa. ≈ exclusivo, particular, privado.	broader
+
+where the first row represents a `narrower` relation while the second one is `broader` with the senses being swapped.
+
 ## Conversion to RDF
 
-`json-to-rdf.py` is a simple script that converts the JSON alignments into TSV and then RDF. 
+`json-to-rdf.py` is a simple script that converts the JSON alignments into TSV and then RDF. This allows you to use the datasets with [NAISC](https://github.com/insight-centre/naisc).
 
 ## Reference
 If you're using any part of these datasets, please don't forget to cite the following paper:
