@@ -12655,7 +12655,7 @@
             "resource_1_senses": [
                 {
                     "#text": "V/|\\Benaming voor een met glas gedekt gebouwtje of gebouw, thans dikwijls een zeer groot gebouw, voor het bewaren of onderhouden van planten uit een warmer klimaat; voor het broeien of trekken en kweeken van planten, bloemen en vruchten. Men onderscheidt koude, gematigde (of getemperde) en warme kassen; verg. voorts de samenst. broei-, kweek-, run-, stook-, trek-, vuur-, zonnekas enz., en zie voor enkele bijzonderheden ook bij de aanhalingen hieronder.",
-                    "sense_ID": "",
+                    "sense_ID": "V",
                     "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030663.bet.50"
                 },
                 {
@@ -18319,45 +18319,45 @@
             "lemma": "aaien",
             "part-of-speech_tag": "verb",
             "gender": "",
-            "WNT_meta_ID": "",
-            "ANW_meta_ID": "",
+            "WNT_meta_ID": "http://rdf.ivdnt.org/lexica/diamant/entry/WNT/M000020",
+            "ANW_meta_ID": "http://rdf.ivdnt.org/lexica/anw/lemma_533",
             "resource_1_senses": [
                 {
                     "#text": "1 Streelen, zacht met de hand over iets heen strijken, met het doel om een aangenaam gevoel te verwekken.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M000020.bet.1"
                 },
                 {
                     "#text": "2 Overdrachtelijk: Vleien.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "2",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M000020.bet.3"
                 },
                 {
                     "#text": "3 Ironisch: Iemand door aanraking opzettelijk zeer doen.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "3",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M000020.bet.4"
                 },
                 {
                     "#text": "2 De aanhalingen geven geen voorbeelden van overdrachtelijk gebruik, maar van gebruik in figuurlijk verband. Plaats als synoniem van vleien.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "4",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/S000016.bet.4"
                 }
             ],
             "resource_2_senses": [
                 {
                     "#text": "1.0 als liefkozing met een strijkende beweging zacht aanraken; zacht over iets heen strijken om een aangenaam gevoel op te wekken; het geven van een aai of van meerdere aaien",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1.0",
+                    "external_ID": "hhttp://rdf.ivdnt.org/lexica/anw/sense_534"
                 },
                 {
                     "#text": "2.0 licht aanraken; zacht over iets heen strijken",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "2.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_610946"
                 },
                 {
                     "#text": "2.1 op een zachte of kriebelende manier in contact komen; zacht over iets heen strijken; licht aanraken",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "2.1",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_610975"
                 }
             ],
             "alignment": [
@@ -18372,85 +18372,85 @@
             "lemma": "eten",
             "part-of-speech_tag": "verb",
             "gender": "",
-            "WNT_meta_ID": "",
-            "ANW_meta_ID": "",
+            "WNT_meta_ID": "http://rdf.ivdnt.org/lexica/diamant/entry/WNT/M016145",
+            "ANW_meta_ID": "http://rdf.ivdnt.org/lexica/anw/lemma_515828",
             "resource_1_senses": [
                 {
                     "#text": "A Bedr.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "A",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M016145.bet.1"
                 },
                 {
                     "#text": "A.1 Als spijs tot zich nemen; tot zijn spijs hebben, zich voeden met.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "A.1",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M016145.sense.2"
                 },
                 {
                     "#text": "A.2 Door gebruik als spijs geheel of gedeeltelijk doen verdwijnen; opeten. In dit gebruik verouderd.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "A.2",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M016145.bet.18"
                 },
                 {
                     "#text": "A.3 Van scheikundige werkingen of ziekteprocessen enz. Verteren; uitbijten; invreten.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "A.3",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M016145.bet.21"
                 },
                 {
                     "#text": "A.4 Door het gebruiken van spijs verkrijgen, zich door het gebruiken van spijs op den hals halen.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "A.4",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M016145.bet.23"
                 },
                 {
                     "#text": "A.5 Door het gebruiken als spijs brengen op de plaats die eene bepaling uitdrukt. Alleen in enkele weinig gewone verbindingen.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "A.5",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M016145.bet.28"
                 },
                 {
                     "#text": "B Onz. — 1) Spijs tot zich nemen.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "B.1",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M016145.bet.29"
                 },
                 {
                     "#text": "B.2 Een of den maaltijd gebruiken; inzonderheid en thans vrijwel uitsluitend: het middagmaal gebruiken.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "B.2",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M016145.bet.43"
                 },
                 {
                     "#text": "B.4 Van een ziekteproces: invreten. In dit gebruik verouderd.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "B.4",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M016145.bet.52"
                 },
                 {
                     "#text": "B.5 In gezelschapsspelen",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "B.5",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M016145.bet.53"
                 }
             ],
             "resource_2_senses": [
                 {
                     "#text": "1.0 iets als voedsel tot zich nemen; iets opeten; iets nuttigen",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_47971"
                 },
                 {
                     "#text": "1.1 zich door te eten op de hals halen; door te eten krijgen; te veel eten",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1.1",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_516322"
                 },
                 {
                     "#text": "2.0 voedsel tot zich nemen",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "2.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_515832"
                 },
                 {
                     "#text": "2.1 zich door te eten in een bepaalde toestand brengen; te veel eten",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "2.1",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_516323"
                 },
                 {
                     "#text": "3.0 een maaltijd gebruiken",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "3.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_515833"
                 }
             ],
             "alignment": [
@@ -18470,50 +18470,50 @@
             "lemma": "aak",
             "part-of-speech_tag": "noun",
             "gender": "",
-            "WNT_meta_ID": "",
-            "ANW_meta_ID": "",
+            "WNT_meta_ID": "http://rdf.ivdnt.org/lexica/diamant/entry/WNT/M000021",
+            "ANW_meta_ID": "http://rdf.ivdnt.org/lexica/anw/lemma_535",
             "resource_1_senses": [
                 {
                     "#text": "1 Groot, platbodemd, hoog opgeboeid lastschip op den Beneden-Rijn in gebruik.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M000021.bet.1"
                 },
                 {
                     "#text": "2 Kleiner vaartuig, met zoom- of klinkwerk opgeboeid.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "2",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M000021.bet.2"
                 },
                 {
                     "#text": "3 Op den Rijn, hetzelfde als roeiboot.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "3",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M000021.bet.3"
                 },
                 {
                     "#text": ") Benaming voor zekere, in haar historische ontwikkeling en geografische verspreiding nogal variëerende, soort van riviervaartuigen, oorspronkelijk en ook thans nog meest op den Beneden-Rijn in gebruik en vooral bestemd voor het vervoer van massagoederen; in 't algemeen lang, platboomd en zonder steven, vroeger soms met gebuikte, nu met rechte zijwanden, en tegenwoordig bijna uitsluitend gebezigd als sleepschip met zeer groot laadvermogen (tot boven 2000 ton). Daarnaast wordt de naam ook wel gebruikt voor sommige kleine schuitjes en roeibooten (zie b.v. HOEUFFT, Bred. T.). Zie verder de aanhalingen.",
                     "sense_ID": "",
-                    "external_ID": ""
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/S000019.bet.1"
                 },
                 {
                     "#text": "1) De bet. ”walgelijk vuil” is te begrijpen in verband met het voorafgaande woord: eig. ”massa die den uitroep aak! opwekt”. Aak moet verder nauw samenhangen met oudeng. acan, eng. to ache, ”pijn doen” en met het daarvan afgeleide oudeng. æce (m.), eng. ache, ”pijn”. Verg. ook mnl. akel, ”pijn, onaangename gewaarwording”, vervolgens ”onheusche bejegening”, ackel, eckel, ”walg” (KIL. [1599]) en mnl. akelig, eig. ”walging verwekkend”. Niet verwant met oudeng. ácol, nhd. ekel en nhd. heikel, die een Ogerm. ai als stamvocaal hebben. [V. L.] In het Zuiden, althans in Antw.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/S000022.bet.1"
                 }
             ],
             "resource_2_senses": [
                 {
                     "#text": "1.0 lang en smal vaartuig zonder steven en met een meestal platte bodem dat op binnenwateren gebruikt wordt om er vrachtgoederen mee te vervoeren",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_536"
                 },
                 {
                     "#text": "1.1 boot of kleiner schip dat meestal geen vrachtschip is, bv. een vissersboot, woonboot of een roeiboot",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1.1",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_538"
                 },
                 {
                     "#text": "2.0 plant uit de zeepboomfamilie die ongeveer tien meter hoog kan worden en als struik of heg groeit",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "2.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_537"
                 }
             ],
             "alignment": [
@@ -18533,75 +18533,75 @@
             "lemma": "bang",
             "part-of-speech_tag": "adjective",
             "gender": "",
-            "WNT_meta_ID": "",
-            "ANW_meta_ID": "",
+            "WNT_meta_ID": "http://rdf.ivdnt.org/lexica/diamant/entry/WNT/M005153",
+            "ANW_meta_ID": "http://rdf.ivdnt.org/lexica/anw/lemma_581777",
             "resource_1_senses": [
                 {
                     "#text": "A In actieve opvatting.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "A",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M005153.bet.1"
                 },
                 {
                     "#text": "A.3 Daarna wordt bang ook attributief gebezigd.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "A.3",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M005153.bet.8"
                 },
                 {
                     "#text": "B In passieve opvatting.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "B",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M005153.bet.15"
                 },
                 {
                     "#text": "B.1 Benauwd, onpasselijk, misselijk; thans nog gewestelijk in gebruik, b.v. op Goeree (zie Mag. v. Ned. Taalk. 5, 39 ).",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "B.1",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M005153.bet.16"
                 },
                 {
                     "#text": "B.2 Benauwd, beklemd op de borst, hetzij dat ook gemoedsangst al of niet daarvan de oorzaak is.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "B.2",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M005153.bet.17"
                 },
                 {
                     "#text": "B.4 Met betrekking tot geldzaken. Benauwd om iets uit te geven, deun, schriel.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "B.4",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M005153.bet.23"
                 },
                 {
                     "#text": "B.5 In angst verkeerende, ook als uitdrukking der meer verheven taal, in sterker opvatting dan onder 6) wordt bedoeld.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "B.5",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M005153.bet.24"
                 },
                 {
                     "#text": "B.6 Eene min of meer beredeneerde vrees voor iets hebbende, niet zelden in zeer zwakke opvatting.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "B.6",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M005153.bet.26"
                 }
             ],
             "resource_2_senses": [
                 {
                     "#text": "1.0 in angst verkerend; angst voelend",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_12663"
                 },
                 {
                     "#text": "2.0 een al dan niet beredeneerde vrees koesterend voor iets of iemand; ook: snel of in veel situaties angstig; geneigd tot bangheid; van nature angstig; bangelijk",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "2.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_581780"
                 },
                 {
                     "#text": "3.0 zich zorgen makend dat iets al of niet gebeuren zal; bezorgd",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "3.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_581787"
                 },
                 {
                     "#text": "4.0 blijk gevend van angst of voortkomend uit angst",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "4.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_582581"
                 },
                 {
                     "#text": "5.0 waarbij of waarin angst of bezorgdheid gevoeld wordt; ook: angstig of bezorgd makend; bang makend; angstaanjagend",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "5.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_12664"
                 }
             ],
             "alignment": [
@@ -18621,25 +18621,25 @@
             "lemma": "jarenlang",
             "part-of-speech_tag": "adjective",
             "gender": "",
-            "WNT_meta_ID": "",
-            "ANW_meta_ID": "",
+            "WNT_meta_ID": "http://rdf.ivdnt.org/lexica/diamant/entry/WNT/M028689",
+            "ANW_meta_ID": "http://rdf.ivdnt.org/lexica/anw/lemma_75295",
             "resource_1_senses": [
                 {
                     "#text": "1 Bijw. — Gedurende (vele) jaren.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M028689.bet.1"
                 },
                 {
                     "#text": "2 Als bnw. gebezigd. Vele jaren durende of geduurd hebbende; van vele jaren.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "2",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M028689.bet.2"
                 }
             ],
             "resource_2_senses": [
                 {
                     "#text": "1.0 die of dat verschillende jaren duurt; gedurende enige jaren; vaak met de nadruk op de voortdurende herhaling of lange duur van het genoemde en daardoor op de intensiteit, saaiheid of verveling die ermee samenhangt: verscheidene jaren na elkaar aanhoudend; onafgebroken gedurende enige jaren",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_75296"
                 }
             ],
             "alignment": [
@@ -18654,295 +18654,295 @@
             "lemma": "kat",
             "part-of-speech_tag": "noun",
             "gender": "",
-            "WNT_meta_ID": "",
-            "ANW_meta_ID": "",
+            "WNT_meta_ID": "http://rdf.ivdnt.org/lexica/diamant/entry/WNT/M030758",
+            "ANW_meta_ID": "http://rdf.ivdnt.org/lexica/anw/lemma_78332",
             "resource_1_senses": [
                 {
                     "#text": "I Eigenlijk, als diernaam.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "I",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030758.bet.1"
                 },
                 {
                     "#text": "I.A Naar de gewone opvatting, in toepassing op de eigenlijke katten.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "I.A",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030758.bet.2"
                 },
                 {
                     "#text": "I.A.I De naam van het welbekende viervoetige dier dat door den mensch voor de muizen- en rattenvangst en als gezellig huisdier gehouden wordt; meestal in toepassing op de gewone huiskat (in de wetenschap Felis domestica), welke, naar men aanneemt, herkomstig uit Egypte (afstammeling van een aldaar reeds in de Oudheid tot huisdier gemaakte, Nubische, wilde-kattensoort), over de Levant, in de latere middeleeuwen, in Europa is gekomen of ingevoerd, en aldaar met de inheemsche wilde kat (zie straks bij II) vermoedelijk sterk gekruist is geraakt.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "I.A.I",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030758.bet.3"
                 },
                 {
                     "#text": "I.A.I.1 Als naam voor de beide geslachten.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "I.A.I.1",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030758.bet.4"
                 },
                 {
                     "#text": "I.A.I.2 Als naam voor de (of een) vrouwelijke kat, wijfjeskat, genoemd of gedacht in tegenstelling met kater, den naam voor de mannetjeskat.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "I.A.I.2",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030758.bet.27"
                 },
                 {
                     "#text": "I.A.III Bij vergelijking.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "I.A.III",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030758.bet.34"
                 },
                 {
                     "#text": "I.A.III.2 Als tweede lid in namen van dieren die eenige overeenkomst met de kat hebben, b.v. in civetkat, poolkat.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "I.A.III.2",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030758.bet.35"
                 },
                 {
                     "#text": "I.B Bij uitbreiding, in de wetenschap, gewoonlijk in 't mv., als naam voor een geslacht van vleeschetende (verscheurende) viervoetige dieren, naar de kat (A, I) als type. Het geslacht der katachtige dieren (Felidae).",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "I.B",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030758.bet.37"
                 },
                 {
                     "#text": "II In de bet. I, A, I), in kinderspelen, in de volksgeneeskunde, in het volksgeloof (volksbijgeloof), enz.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "II",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030758.bet.38"
                 },
                 {
                     "#text": "II.1 Als benaming van, of als een naam bij sommige kinderspelen.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "II.1",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030758.bet.39"
                 },
                 {
                     "#text": "II.2 In de volksgeneeskunde.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "II.2",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030758.bet.46"
                 },
                 {
                     "#text": "II.3 Verrichtingen, houdingen enz. van de kat welke als voorteekens worden beschouwd.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "II.3",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030758.bet.48"
                 },
                 {
                     "#text": "II.4 Beteekenis van de kat voor het menschelijk geluk enz.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "II.4",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030758.bet.49"
                 },
                 {
                     "#text": "III In figuurlijke of overdrachtelijke toepassing van de bet. I, A, I) op personen.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "III",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030758.bet.53"
                 },
                 {
                     "#text": "III.1 In toepassing op iemand, hetzij van 't manl. of van 't vr. geslacht.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "III.1",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030758.bet.54"
                 },
                 {
                     "#text": "III.2 In toepassing op vrouwen en meisjes.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "III.2",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030758.bet.56"
                 },
                 {
                     "#text": "III.3 In toepassing op manspersonen.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "III.3",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030758.bet.62"
                 },
                 {
                     "#text": "IV In verschillende overdrachtelijke toepassingen van de bet. I, A, I) op zaken.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "IV",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030758.bet.69"
                 },
                 {
                     "#text": "IV.C Als benaming voor deelen van de kleedij.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "IV.C",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030758.bet.73"
                 },
                 {
                     "#text": "IV.C.1 Een halsbont van kattevel gemaakt, of een halsbont in 't algemeen. Verg. gelijkbet. poes, poesje.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "IV.C.1",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030758.bet.74"
                 },
                 {
                     "#text": "IV.C.2 Het omboordsel van het blauwkarsaaien mannenbuis (de blauwbaai) der Volendammers.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "IV.C.2",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030758.bet.75"
                 },
                 {
                     "#text": "IV.C.3 De naam van een kleedingstuk (lijfje of jakje) der Marker vrouwen.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "IV.C.3",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030758.bet.76"
                 },
                 {
                     "#text": "IV.D Als naam of benaming in de plantenkunde.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "IV.D",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030758.bet.77"
                 },
                 {
                     "#text": "IV.D.1 Zekere bloeiwijze: zie KATJE (II).",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "IV.D.1",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030758.bet.78"
                 },
                 {
                     "#text": "IV.D.2 Benaming voor de wilgensoort Salix fragilis, anders kattenhout (HEUKELS 223 [1907]).",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "IV.D.2",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030758.bet.79"
                 },
                 {
                     "#text": "IV.E In de dierkunde. — Benaming voor sommige conchyliën. Zie KATJE (III).",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "IV.E",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030758.bet.80"
                 },
                 {
                     "#text": "IV.E.2 Benaming voor de maskers van de Watertipula, een gezocht aas der hengelaars bij 't visschen op baars (CHOMEL, Verv. 3917 [1791]).",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "IV.E.2",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030758.bet.81"
                 },
                 {
                     "#text": "IV.F Bij het scheeps- en zeewezen en in de zeemanstaal. In verschillende beteekenissen.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "IV.F",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030758.bet.82"
                 },
                 {
                     "#text": "IV.F.1 Naam van het gijn om het anker, wanneer het bij het lichten boven water komt, mede onder den kraanbalk te hijschen; het bestaat uit het (drieschijfs) katblok met ijzeren haak (kathaak) om in den ring van het anker te worden gehoekt, den katlooper, en de schijven in den kraanbalk.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "IV.F.1",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030758.bet.83"
                 },
                 {
                     "#text": "IV.F.2 Naam voor een werpanker of ander licht anker dat aan de armen van een zwaar anker wordt vastgemaakt opdat beide ankers — eerst het lichte, daarna het zwaardere —, in den grond geworpen, gezamenlijk werken zullen om het schip op zijn plaats te houden (zie ook bij KATTEN, III, B).",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "IV.F.2",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030758.bet.85"
                 },
                 {
                     "#text": "IV.F.3 Naam voor een balk die, op den wal liggende, zijn steun vindt tegen twee in den grond geslagen of geheide palen en waarachter men de hand van het anker kan leggen om er tijdelijk het schip aan vast te leggen (te meren). Waarschijnlijk wordt dezelfde zaak bedoeld in de volgende — maar dan minder juiste — omschrijvingen: ”Kat … een Paal op de Kaai geslaagen, daar de Ankerstok aan gehegt werd” (V. WINSCHOOTEN, Seeman 8 [1681] en V. WINSCHOOTEN, Seeman 102 [1681]); ”Kat. Katteblok: een paal op de kaai geslagen daar d'ankerstok aan gehegt word” (HALMA); ”Paal op de Kaay geslagen om de anker-stok aan vast te maaken” (MARIN). Verg. ook DOORNKAAT-KOOLM. 2, 187 en KLUGE, Seemannsspr. 431.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "IV.F.3",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030758.bet.87"
                 },
                 {
                     "#text": "IV.F.4 Als naam voor zekere scheepstypen, zie KAT (II), A) en B).",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "IV.F.4",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030758.bet.89"
                 },
                 {
                     "#text": "IV.G Als term in het krijgswezen. Met verschillende beteekenissen. Zie KAT (III).",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "IV.G",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030758.bet.90"
                 },
                 {
                     "#text": "IV.H Geheide aanlegpaal, in het midden van een vaarwater (ZWIERS 1, 609 a [1917]).",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "IV.H",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030758.bet.91"
                 },
                 {
                     "#text": "IV.H.I Benaming voor een, door eenige in den grond geslagen paaltjes gesteund blok dat het uitglijden van het been eener heistelling moet beletten.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "IV.H.1",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030758.bet.92"
                 },
                 {
                     "#text": "IV.J In een oliemolen. Benaming voor een zwaar, langwerpig vierkant blok ijzer, onder de haai (hei; stamper). Zie BOEKENOOGEN 405.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "IV.J",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030758.bet.93"
                 },
                 {
                     "#text": "IV.K Benaming voor een soort van puthaak; stokdreg.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "IV.K",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030758.bet.94"
                 },
                 {
                     "#text": "IV.L In 't Bargoensch. Benaming voor een geldriem (TEIRL., Barg.); verg. gelijkbet. nhd. katze, geldkatze (D. Wtb. 5, 290).",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "IV.L",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030758.bet.95"
                 },
                 {
                     "#text": "IV.M In het Bredaasch taaleigen: een stukje, een sneedje.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "IV.M",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030758.bet.96"
                 },
                 {
                     "#text": "IV.N Benaming voor een soort van vuurwerk (verg. rotje).",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "IV.N",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030758.bet.97"
                 },
                 {
                     "#text": "IV.O Benaming (vooral bij militairen) voor een berisping: een ”uitbrander”; een ”standje”. Zie STOETT, Spreekw., n°. 1403 en 1939; PRICK, Verindisching 24.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "IV.O",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030758.bet.98"
                 },
                 {
                     "#text": "V In figuurlijke of figuurlijk gebezigde uitdrukkingen, in zegswijzen en spreekwoorden, met kat in de bet. I, A, I, 1).",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "V",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030758.bet.100"
                 },
                 {
                     "#text": "A De naam van zeker thans verouderd scheepstype: een soort van fluitschip (WITSEN, Scheepsb. 163 [1671]), gewoonlijk met slechts één dek, breed van voren en van achteren, met ronden achtersteven; de masten met stengen, maar zonder marsen; het geheel ruw van constructie: ”sans aucune forme agréable et sans ornement” (AUBIN, Dict. de Mar. 197 [1702]). Mlat. catta (ook gatus), ofra. chaz, chat, chatz, eng. cat(t), nhd. katze, enz. Naar allen schijn ontleend (in welken tijd en bij welk volk?) aan den naam van de kat, het bekende huisdier (KAT (I), I, A, I), maar zonder dat men de reden daarvoor kan nagaan (verg. N. E. D. II, 168 b). De katten werden, bij ons, voornamelijk gebezigd in den houthandel; vandaar gelijkbet. houthaalder (verg. Amstelodamum, Maandblad 5, 93 b (Dec. 1918). Gelijkbet. katschip (zie ald.).",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "A.1",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030759.bet.1"
                 },
                 {
                     "#text": "A In de middeleeuwen. Mnl. catte, mhd. katze, eng. cat (en cathouse) ofra. chat-chasteil; mlat. cattus. Een beweegbaar houten belegeringswerktuig op rollen, t.w. een soort van bedekte galerij, welke langzaam-aan vooruit werd gebracht; vooral gebezigd als bedekking om aarde en rijswerk aan te voeren tot demping van de vestinggracht, of wanneer men een vestingmuur wilde ondergraven (BOSSCHA, Held. te L.² 1, 60), en ook als stormtuig of tot beschieting (zie VERDAM 3, 1240 en de eerste aanhaling).",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "A.2",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030760.bet.1"
                 },
                 {
                     "#text": "B Soort van kanon: een kamerstuk waaruit steenen kogels geschoten werden; steenstuk; hd. katze, feuerkatze (D. Wtb. 5, 290).",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "B",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030760.bet.2"
                 },
                 {
                     "#text": "C Een verhoogd werk, blijvend, in eene vesting of versterking, of tijdelijk, bij eene belegering; mhd. nhd. katze, eng. cat. Gelijkbet. met fra. cavalier. (In deze bet. enkele malen onz.).",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "C",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030760.bet.3"
                 },
                 {
                     "#text": "C.1 Als inwendige versterking, tot het verkennen en bestrijken van het buiten de vesting gelegen terrein, enz.; zie nader de aanhaling uit V. KERKWIJK.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "C.1",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030760.bet.4"
                 },
                 {
                     "#text": "C.2 Als belegeringswerk dat b.v. wordt opgeworpen wanneer de belegeraar met zijn loopgraven tot aan den bedekten weg genaderd is: loopgraafkat; (verg. fra. cavalier de tranchée).",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "C.2",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M030760.bet.5"
                 }
             ],
             "resource_2_senses": [
                 {
                     "#text": "1.0 klein huisdier dat miauwt en spint en dat gehouden wordt als gezelschapsdier of voor het vangen van muizen en ratten; huiskat; poes",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_78333"
                 },
                 {
                     "#text": "1.1 beeld of afbeelding van een kat, bv. in de kunst",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1.1",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_195644"
                 },
                 {
                     "#text": "2.0 roofdier dat behoort tot de familie van de katachtigen (Felidae), bv. een tijger, leeuw of huiskat; katachtige",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "2.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_78334"
                 },
                 {
                     "#text": "3.0 bitse, vinnige vrouw; bits of vinnig meisje",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "3.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_78335"
                 },
                 {
                     "#text": "4.0 bitse opmerking; snauw",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "4.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_78336"
                 },
                 {
                     "#text": "5.0 middeleeuws belegeringswerktuig in de vorm van een lage, langwerpige houten constructie op rollen, die de aanvallers tegen een vestingmuur plaatsten om beschut en ongehinderd een bres in de muur te slaan, een muur te ondergraven of een vestinggracht te dempen",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "5.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_204707"
                 },
                 {
                     "#text": "6.0 hoog boven de wal uitstekende opstellingsplaats voor geschut, op een bastion of elders in een verdedigingswerk",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "6.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_204722"
                 },
                 {
                     "#text": "7.0 toestel waaraan een takel hangt en dat langs een geleidingsbaan wordt voortbewogen om lasten tussen vaste punten te vervoeren; loopkat",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "7.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_204817"
                 },
                 {
                     "#text": "8.0 gesel van touwen met geknoopte uiteinden waarmee men vroeger misdadige matrozen of slaven strafte; geselkat",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "8.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_204831"
                 }
             ],
             "alignment": [
@@ -18992,20 +18992,20 @@
             "lemma": "appartement",
             "part-of-speech_tag": "noun",
             "gender": "",
-            "WNT_meta_ID": "",
-            "ANW_meta_ID": "",
+            "WNT_meta_ID": "http://rdf.ivdnt.org/lexica/diamant/entry/WNT/S003983",
+            "ANW_meta_ID": "http://rdf.ivdnt.org/lexica/anw/lemma_8274",
             "resource_1_senses": [
                 {
                     "#text": "1) Deel van een huis (eenige vertrekken) als afzonderlijke woning of woongelegenheid voor een of meer personen; soms kan ook een enkel vertrek bedoeld worden.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1)",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/S003983.bet.1"
                 }
             ],
             "resource_2_senses": [
                 {
                     "#text": "1.0 woongelegenheid die bestaat uit een of meer bij elkaar behorende vertrekken in een groter gebouw met meer van dergelijke woongelegenheden; flat",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_8275"
                 }
             ],
             "alignment": [
@@ -19020,125 +19020,125 @@
             "lemma": "paard",
             "part-of-speech_tag": "noun",
             "gender": "",
-            "WNT_meta_ID": "",
-            "ANW_meta_ID": "",
+            "WNT_meta_ID": "http://rdf.ivdnt.org/lexica/diamant/entry/WNT/M051907",
+            "ANW_meta_ID": "http://rdf.ivdnt.org/lexica/anw/lemma_117151",
             "resource_1_senses": [
                 {
                     "#text": "I Eigenlijk. Het bekende, sierlijk gebouwde zoogdier uit de familie der Eenhoevigen, dat reeds in de vroegste tijden door den mensch getemd schijnt te zijn en hem als rij- en trekdier dient; in de wetenschap Equus caballus. Voor de afzonderlijke geslachten bezigt men bijzondere namen: hengst (ruin) en merrie; een jong paard heet veulen. Verder zijn voor het dier natuurlijk nog vele andere benamingen in gebruik.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "I",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M051907.bet.1"
                 },
                 {
                     "#text": "I.1 In 't algemeen.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "I.1",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M051907.bet.2"
                 },
                 {
                     "#text": "I.2 Men houdt paarden voor nut of genoegen.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "I.2",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M051907.bet.18"
                 },
                 {
                     "#text": "I.3 Als rijdier.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "I.3",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M051907.bet.27"
                 },
                 {
                     "#text": "I.4 Als trek- en lastdier.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "I.4",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M051907.bet.59"
                 },
                 {
                     "#text": "I.5 Men richt het paard af, om het voor rijdier geschikt te maken, enz.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "I.5",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M051907.bet.67"
                 },
                 {
                     "#text": "I.6 Het paard is een groot en sterk dier; in dien zin wordt het dikwijls in vergelijkingen gebezigd.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "I.6",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M051907.bet.69"
                 },
                 {
                     "#text": "II In oneigenlijke en overdrachtelijke toepassingen.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "II",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M051907.bet.77"
                 },
                 {
                     "#text": "II.1 Als benaming of speelterm bij vele kinderspelen, b.v. in de volgende opvattingen.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "II.1",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M051907.bet.78"
                 },
                 {
                     "#text": "II.2 In nabootsingen en afbeeldingen, ten doel hebbende een werkelijk paard weer te geven.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "II.2",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M051907.bet.90"
                 },
                 {
                     "#text": "II.3 In overdrachtelijke toepassing op zaken die men met een paard vergelijkt.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "II.3",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M051907.bet.99"
                 },
                 {
                     "#text": "II.4 In tal van technische toepassingen, inzonderheid als benaming van voorwerpen die dienen om iets te ondersteunen. Soms doet ook de vorm nog aan een paard denken.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "II.4",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M051907.bet.103"
                 },
                 {
                     "#text": "II.5 Bij verkorting voor paardeleder.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "II.5",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M051907.bet.126"
                 }
             ],
             "resource_2_senses": [
                 {
                     "#text": "1.0 hoefdier met manen, een langharige staart en relatief korte, opstaande oren, dat bij ons voornamelijk gebruikt wordt als rijdier of trekdier",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_117152"
                 },
                 {
                     "#text": "1.1 paardenvlees",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1.1",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_509435"
                 },
                 {
                     "#text": "2.0 beeld of afbeelding van een paard, bijvoorbeeld in de kunst",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "2.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_117153"
                 },
                 {
                     "#text": "3.0 namaakpaard dat gebruikt wordt als speelgoed, bijvoorbeeld een hobbelpaard, stokpaard of draaimolenpaard; speelgoedpaard",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "3.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_117154"
                 },
                 {
                     "#text": "4.0 schaakstuk met een bovengedeelte in de vorm van een paardenhoofd, dat per zet twee velden in horizontale en één in verticale richting, of twee velden in verticale en één in horizontale richting verplaatst mag worden, en dat daarbij over bezette velden heen mag springen",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "4.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_117155"
                 },
                 {
                     "#text": "5.0 turntoestel dat bestaat uit een dik en stevig, langwerpig kussen op poten, dat in het damesturnen en herenturnen wordt gebruikt als springtoestel en in het herenturnen ook voor het zogenaamde voltigeren, waarbij men oefeningen doet met de handen steunend op het kussen en een paar handvatten; springpaard of voltigeerpaard",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "5.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_117156"
                 },
                 {
                     "#text": "6.0 stoomlocomotief",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "6.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_117157"
                 },
                 {
                     "#text": "7.0 licht rupsvoertuig dat gebruikt wordt om hout te slepen of om materiaal te transporteren; lastpakker",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "7.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_502640"
                 },
                 {
                     "#text": "8.0 zevende dierenriemteken in de twaalfjaarlijkse cyclus van de Chinese dierenriem volgens de Chinese kalender",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "8.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_117158"
                 },
                 {
                     "#text": "8.1 iemand die geboren is onder het teken van het paard",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "8.1",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_117160"
                 }
             ],
             "alignment": [
@@ -19158,65 +19158,65 @@
             "lemma": "muur",
             "part-of-speech_tag": "noun",
             "gender": "",
-            "WNT_meta_ID": "",
-            "ANW_meta_ID": "",
+            "WNT_meta_ID": "http://rdf.ivdnt.org/lexica/diamant/entry/WNT/M040375",
+            "ANW_meta_ID": "http://rdf.ivdnt.org/lexica/anw/lemma_643027",
             "resource_1_senses": [
                 {
                     "#text": "1 Rechtopstaand metselwerk van zekere hoogte, lengte en dikte, gewoonlijk dienende tot afsluiting.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M040375.bet.1"
                 },
                 {
                     "#text": "2 In zegsw., die figuurlijk worden gebruikt (zie ook onder 3).",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "2",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M040375.bet.7"
                 },
                 {
                     "#text": "3 Wanneer de binnenzijde van een kamermuur wordt bedoeld, is het gebruik van muur in N.-N. minder gewoon dan dat van wand.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "3",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M040375.bet.8"
                 },
                 {
                     "#text": "4 In allerlei verband waarin men een muur of muren voorstelt als eene ruimte afsluitende.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "4",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M040375.bet.9"
                 },
                 {
                     "#text": "1 Naam voor verschillende planten, behoorende tot het geslacht Alsine of Stellaria, inzonderheid voor de Alsine media (Stellaria media Cyrillo), ook genaamd erf, hoenderbeet, vogelkruid, ”een van onze allergemeenste (d. i. allergewoonste) onkruiden in tuinen, bouwlanden, en op weilanden waar de graszode is weggenomen” (V. HALL, Landh. Flora 31 [1854]).",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M040376.bet.1"
                 },
                 {
                     "#text": "2 Met of zonder bepaling als naam voor andere planten.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "2",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M040376.bet.3"
                 }
             ],
             "resource_2_senses": [
                 {
                     "#text": "1.0 kruidachtig plantengeslacht uit de anjerfamile, met witte, stervormige bloemen (Stellaria)",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_643029"
                 },
                 {
                     "#text": "1.0 rechtopstaande constructie van steen, baksteen, beton, leem of hout die dient als afscheiding tussen twee ruimten",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_102608"
                 },
                 {
                     "#text": "2.0 iets wat iets afweert of afschermt; barrière",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "2.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_643026"
                 },
                 {
                     "#text": "2.1 opstelling bij een vrije trap waarbij de voetballers van de verdediging op een rij voor het doel staan als een muur; levende muur",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "2.1",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_643175"
                 },
                 {
                     "#text": "3.0 zeer steile helling",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "3.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_643289"
                 }
             ],
             "alignment": [
@@ -19241,25 +19241,25 @@
             "lemma": "januari",
             "part-of-speech_tag": "noun",
             "gender": "",
-            "WNT_meta_ID": "",
-            "ANW_meta_ID": "",
+            "WNT_meta_ID": "http://rdf.ivdnt.org/lexica/diamant/entry/WNT/M028667",
+            "ANW_meta_ID": "http://rdf.ivdnt.org/lexica/anw/lemma_75232",
             "resource_1_senses": [
                 {
                     "#text": "1 Eigenlijk, de naam van de maand.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M028667.bet.1"
                 },
                 {
                     "#text": "2 Overdrachtelijk. Benaming voor een groote, gloeiende doofkool in de stoof, b.v. in Groningen en Overijsel (MOLEMA 183 a; 530 a); eigenlijk: een kool als voor Januari, voor den koudsten tijd.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "2",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M028667.bet.5"
                 }
             ],
             "resource_2_senses": [
                 {
                     "#text": "1.0 eerste maand van het jaar",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_75233"
                 }
             ],
             "alignment": [
@@ -19274,125 +19274,125 @@
             "lemma": "vet",
             "part-of-speech_tag": "noun",
             "gender": "",
-            "WNT_meta_ID": "",
-            "ANW_meta_ID": "",
+            "WNT_meta_ID": "http://rdf.ivdnt.org/lexica/diamant/entry/WNT/M079849",
+            "ANW_meta_ID": "http://rdf.ivdnt.org/lexica/anw/lemma_551427",
             "resource_1_senses": [
                 {
                     "#text": "A In niet-technisch, niet-wetenschappelijk gebruik.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "A",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M079849.bet.1"
                 },
                 {
                     "#text": "A.I Eig.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "A.I",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M079849.bet.2"
                 },
                 {
                     "#text": "A.I.1 Naam voor de wit- of geelachtige, weeke of gemakkelijk week te maken, min of meer glibberige, amorfe stof die, hetzij in duidelijk te onderscheiden massa's of meer verspreid, tusschen de spieren en om verschillende organen van het dierlijk en menschelijk lichaam wordt aangetroffen (nader omschreven bij de bet. II) hieronder); smeer.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "A.I.1",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M079849.sense.3"
                 },
                 {
                     "#text": "A.I.2 Gelijksoortige substantie als de onder 1) genoemde, die een bestanddeel vormt van melk.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "A.I.2",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M079849.bet.40"
                 },
                 {
                     "#text": "A.I.3 Benaming voor de substantie die tusschen ongereinigde ruwe wol wordt aangetroffen en die bestaat uit gelijksoortige stof als onder 1), met verschillende bijmengsels.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "A.I.3",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M079849.bet.41"
                 },
                 {
                     "#text": "A.I.4 De onder 1) genoemde of een daarmee bereide substantie, gebezigd als cosmetisch middel.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "A.I.4",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M079849.bet.43"
                 },
                 {
                     "#text": "A.II Oneig. en fig.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "A.II",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M079849.bet.45"
                 },
                 {
                     "#text": "A.II.6 Als ben. voor het deel van bep. grondsoorten dat herinnert aan de onder I) genoemde substantie; verg. verder het bnw. vet (bet. 6).",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "A.II.6",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M079849.bet.46"
                 },
                 {
                     "#text": "A.II.7 Daar vet in de bet. I, 1) als een waardevol of zelfs het belangrijkste bestanddeel van dierlijke lichamen en spijzen geldt, wordt de naam overdrachtelijk gebruikt voor: voordeel, winst of rijkdom. Verg. het bnw. vet in den zin van voordeelig.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "A.II.7",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M079849.bet.47"
                 },
                 {
                     "#text": "A.II.8 Aansluitend bij de voorgaande bet., maar ook met gedachte aan het bnw. (in verband met spijzen en maaltijden) werd vet ook gebruikt voor: feestmaal. De gewone vorm is echter vetje (zie dat woord).",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "A.II.8",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M079849.bet.49"
                 },
                 {
                     "#text": "A.III In enkele, meest weinig gangbare of slechts gewestelijk bekende zegsw. en spreekw. Zie voorts nog HARREB. 2, LXXXV [1861]; HARREB. 3, XCIII [1870]; HARREB. 3, CXXXIII [1870]; HARREB. 3, 489 [1870].",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "A.III",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M079849.bet.50"
                 },
                 {
                     "#text": "B In technischen en wetenschappelijken zin.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "B",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M079849.bet.51"
                 },
                 {
                     "#text": "B.9 Een met of uit de onder A) genoemde bereide stof, of een van de hieronder (10, a))) nader omschreven substanties, dan wel een daarop gelijkende, gebezigd voor technische doeleinden, bepaaldelijk als smeermiddel (de huidige smeeroliën zijn geen vetten in scheikundigen zin).",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "B.9",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M079849.bet.52"
                 },
                 {
                     "#text": "B.10 In scheikundigen en technologischen zin.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "B.10",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M079849.bet.55"
                 },
                 {
                     "#text": "1) Oude en gewest. naam voor de veldsla, vermoedelijk als verkorting van vettik (zie ald.). Plaatselijk komt ook vetjes voor (HEUKELS 269 a [Gorkum, 1907]).",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1)",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M079850.bet.1"
                 },
                 {
                     "#text": "1) Plaatselijk in Z.-Nederl. naam van een der spelers bij sommige soorten van knikkerspel of een ander werpspel; zie verder de aanh. De reden van de benaming blijkt niet; mogelijk is zij ontleend aan een rijmpje als bij GALLÉE vermeld wordt i.v. vetvangen. Het is niet geheel zeker of de eerste aanh. hier thuis behoort.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1)",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M079851.bet.1"
                 }
             ],
             "resource_2_senses": [
                 {
                     "#text": "1.0 weke of vloeibare, min of meer glibberige stof die bestaat uit koolstof, waterstof en zuurstof, niet oplosbaar is in water en voorkomt in menselijk, dierlijk en plantaardig weefsel; ook: weefsel dat veel vet bevat; vetweefsel; ook: voedsel dat veel vet bevat",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_169764"
                 },
                 {
                     "#text": "1.1 soort vet",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1.1",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_552089"
                 },
                 {
                     "#text": "2.0 stof met een vetachtige consistentie op basis van olie of op basis van plantaardige en dierlijke oliën en vetten, gebruikt om iets in te vetten of te smeren; smeermidel; smeervet",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "2.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_169765"
                 },
                 {
                     "#text": "2.1 soort smeervet",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "2.1",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_551741"
                 },
                 {
                     "#text": "3.0 stof met een vetachtige consistentie op basis van water en vetstoffen die gebruikt wordt om de huid te beschermen; vettige crème",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "3.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_552751"
                 },
                 {
                     "#text": "4.0 dikke letters; vetgedrukte tekst",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "4.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_552107"
                 },
                 {
                     "#text": "5.0 plant met langwerpige of meer ronde tongvormige blaadjes die wordt gekweekt als bladgroente; veldsla",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "5.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_551464"
                 }
             ],
             "alignment": [
@@ -19422,110 +19422,110 @@
             "lemma": "zwemmen",
             "part-of-speech_tag": "verb",
             "gender": "",
-            "WNT_meta_ID": "",
-            "ANW_meta_ID": "",
+            "WNT_meta_ID": "http://rdf.ivdnt.org/lexica/diamant/entry/WNT/M090505",
+            "ANW_meta_ID": "http://rdf.ivdnt.org/lexica/anw/lemma_189991",
             "resource_1_senses": [
                 {
                     "#text": "1 Zich door het maken van bepaalde regelmatige bewegingen met armen en beenen of, in het geval van dieren, met pooten of andere ledematen in water of een andere vloeistof voortbewegen.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M090505.bet.1"
                 },
                 {
                     "#text": "2 Zich op of in een vloeistof bevinden of voortbewogen worden zonder te zinken; drijven. Van zaken. Verouderend, maar nog gewest. in gebr.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "2",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M090505.bet.63"
                 },
                 {
                     "#text": "3 Vloeien. Veroud., maar nog in wdb. en gewest. bewaard gebleven.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "3",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M090505.bet.69"
                 },
                 {
                     "#text": "4 (Fig.) Geheel omgeven zijn door of bedekt zijn met een vloeistof (of wat daarmee vergeleken wordt), die gewoonlijk in een bep. met in of van wordt genoemd; zeer nat zijn (van); drijven (in); baden (in).",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "4",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M090505.bet.76"
                 },
                 {
                     "#text": "6 (Fig.) Zich in de lucht voortbewegen of ophouden; zweven.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "6",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M090505.bet.101"
                 },
                 {
                     "#text": "7 (Fig.) Vertoeven, zich ophouden, of komen? (op een bep. plaats) zonder de gedachte dat het subject zich in vloeistof of een andere substantie bevindt. Van gepersonifieerde zaken en abstr. Sinds lang veroud. In de 1ste aanh. zou ook een bet. ‘binnensluipen, vloeien (in)’ bedoeld kunnen zijn (zie voor een vergelijkbaar geval Mnl. W. 7, 2524).",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "7",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M090505.bet.108"
                 },
                 {
                     "#text": "8 Baden, een bad nemen.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "8",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M090505.bet.110"
                 },
                 {
                     "#text": "9 (Katwijk) Waden.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "9",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M090505.bet.111"
                 },
                 {
                     "#text": "10 (W.-Friesl.) Met vuile voeten iets morsig maken, bevuilen. In deze toep. mog. als bedr. ww.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "10",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M090505.bet.112"
                 },
                 {
                     "#text": "11 (Fig.) (Brab.) Van paarden: onder het stappen de hoeven naar buiten bewegen.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "11",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M090505.bet.113"
                 }
             ],
             "resource_2_senses": [
                 {
                     "#text": "1.0 zich door bepaalde geordende lichaamsbewegingen in het water drijvend houden en voortbewegen; soms ook: zich voortbewegen in een andere vloeistof dan water",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_189992"
                 },
                 {
                     "#text": "1.1 een racewedstrijd in het zwemmen betwisten; racewedstrijden in het zwemmen betwisten; zwemmen in wedstrijdverband; wedstrijdzwemmen",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1.1",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_590842"
                 },
                 {
                     "#text": "1.2 bereiken als wedstrijdresultaat in het zwemmen; presteren bij het zwemmen",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1.2",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_591254"
                 },
                 {
                     "#text": "1.3 onderricht in het zwemmen; zwemles",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1.3",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_590843"
                 },
                 {
                     "#text": "1.4 zich door de lucht verspreiden; door de lucht drijven",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1.4",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_591461"
                 },
                 {
                     "#text": "1.5 vervuld zijn van iets wat in de lucht aanwezig is, een geur, een walm e.d.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1.5",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_591549"
                 },
                 {
                     "#text": "1.6 zich op een vage, onbestendige, onvaste, vluchtige manier ergens voordoen; op een vage, onbestendige, onvaste, vluchtige manier ergens aanwezig zijn",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1.6",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_591268"
                 },
                 {
                     "#text": "1.7 geheel omgeven zijn door een vocht of iets wat veel vocht bevat, zodanig dat het op zwemmen lijkt; drijven in vocht, in een overvloed aan vocht",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1.7",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_590798"
                 },
                 {
                     "#text": "2.0 iets in overvloed aanwezig hebben; in overvloed in zijn bezit hebben; in overvloed ter beschikking hebben",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "2.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_591182"
                 },
                 {
                     "#text": "3.0 in moeilijke, onzekere omstandigheden verkeren waarbij men zichzelf maar zonder hulp moet zien te redden",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "3.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_591183"
                 }
             ],
             "alignment": [
@@ -19545,50 +19545,50 @@
             "lemma": "dutten",
             "part-of-speech_tag": "verb",
             "gender": "",
-            "WNT_meta_ID": "",
-            "ANW_meta_ID": "",
+            "WNT_meta_ID": "http://rdf.ivdnt.org/lexica/diamant/entry/WNT/M015432",
+            "ANW_meta_ID": "http://rdf.ivdnt.org/lexica/anw/lemma_44184",
             "resource_1_senses": [
                 {
                     "#text": "1 Zijn geest niet laten werken, suffen, soezen.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M015432.bet.1"
                 },
                 {
                     "#text": "2 In gedachten verdiept zijn, peinzen, suffen. In dit gebruik in N.-Ndl. verouderd.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "2",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M015432.bet.3"
                 },
                 {
                     "#text": "3 Verkeerde denkbeelden hebben, het mis hebben, suffen. In dit gebruik verouderd.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "3",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M015432.bet.5"
                 },
                 {
                     "#text": "4 Droefgeestige gedachten hebben, droefgeestig zijn, tobben. Buiten de aanhalingen niet aangetroffen.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "4",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M015432.bet.6"
                 },
                 {
                     "#text": "5 Weifelen. In dit gebruik in N.-Ndl. verouderd.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "5",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M015432.bet.7"
                 },
                 {
                     "#text": "6 Twijfelen. In dit gebruik in N.-Ndl. verouderd.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "6",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M015432.bet.8"
                 },
                 {
                     "#text": "7 Voor korten tijd slapen, slapen buiten de gewone nachtrust. Thans het gewone gebruik.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "7",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M015432.bet.9"
                 }
             ],
             "resource_2_senses": [
                 {
                     "#text": "1.0 een kort en licht slaapje doen buiten de periode van de gewone nachtrust",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_44185"
                 }
             ],
             "alignment": [
@@ -19603,80 +19603,80 @@
             "lemma": "blij",
             "part-of-speech_tag": "adjective",
             "gender": "",
-            "WNT_meta_ID": "",
-            "ANW_meta_ID": "",
+            "WNT_meta_ID": "http://rdf.ivdnt.org/lexica/diamant/entry/WNT/M009391",
+            "ANW_meta_ID": "http://rdf.ivdnt.org/lexica/anw/lemma_21774",
             "resource_1_senses": [
                 {
                     "#text": "1 Vroolijk, opgewekt, zelfs eenigszins uitgelaten.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M009391.bet.1"
                 },
                 {
                     "#text": "2 Gelukkig, ook zalig.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "2",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M009391.bet.3"
                 },
                 {
                     "#text": "3 Verheugd, tevreden, voldaan, t.w. door eene bepaalde oorzaak, om eene bepaalde reden. Dikwijls in zeer zwakke opvatting.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "3",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M009391.bet.5"
                 },
                 {
                     "#text": "4 Van al wat als eene uiting is te beschouwen. Blijk gevende van opgewektheid, van vreugde, van voldaanheid.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "4",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M009391.bet.7"
                 },
                 {
                     "#text": "5 Van een toestand of eene omstandigheid waarin iemand zich vroolijk of gelukkig gevoelt.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "5",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M009391.bet.8"
                 },
                 {
                     "#text": "6 Van tijden en plaatsen.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "6",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M009391.bet.9"
                 },
                 {
                     "#text": "7 Van hetgeen iemand verheugt: verblijdend, heuglijk.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "7",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M009391.bet.10"
                 },
                 {
                     "#text": "8 Van al datgene waarin het krachtige leven der natuur zich uit; vandaar ook: levenslustig, jeugdig, frisch.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "8",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M009391.bet.11"
                 }
             ],
             "resource_2_senses": [
                 {
                     "#text": "1.0 in opgewekte stemming verkerend; vrolijk; opgewekt; ook: enigszins uitgelaten",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_21775"
                 },
                 {
                     "#text": "2.0 geneigd tot blijheid of vaak in opgewekte stemming; van nature vrolijk; vrolijk van aard",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "2.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_583227"
                 },
                 {
                     "#text": "3.0 tevreden met iets of iemand; verheugd over iets of iemand; content; tevreden; verheugd",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "3.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_582933"
                 },
                 {
                     "#text": "4.0 blijk gevend van blijheid of tevredenheid",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "4.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_582934"
                 },
                 {
                     "#text": "5.0 opluchting voelend; opgelucht",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "5.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_582959"
                 },
                 {
                     "#text": "6.0 wat blij maakt; gepaard gaand met blijdschap; verheugend",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "6.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_21776"
                 }
             ],
             "alignment": [
@@ -19706,100 +19706,100 @@
             "lemma": "voedsel",
             "part-of-speech_tag": "noun",
             "gender": "",
-            "WNT_meta_ID": "",
-            "ANW_meta_ID": "",
+            "WNT_meta_ID": "http://rdf.ivdnt.org/lexica/diamant/entry/WNT/M081242",
+            "ANW_meta_ID": "http://rdf.ivdnt.org/lexica/anw/lemma_173164",
             "resource_1_senses": [
                 {
                     "#text": "I In materieelen zin, eig.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "I",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M081242.bet.1"
                 },
                 {
                     "#text": "I.1 In het alg. Al wat door organismen wordt opgenomen om leven en groei, weefsels en organen in stand te houden.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "I.1",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M081242.bet.2"
                 },
                 {
                     "#text": "I.2 Wat de mensch voor zijn levensonderhoud tot zich neemt of daarvoor bestemt, spijs, eten. Voedsel is in het alg. spraakgebruik al wat gegeten wordt, ook vloeibare kost (soep, pap), niet wat men drinkt, maar een scherpe grens is er niet (zie de laatste aanh. onder a).",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "I.2",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M081242.bet.3"
                 },
                 {
                     "#text": "I.3 Het product der spijsvertering dat aan de leden, organen en weefsels van het lichaam wordt toegevoerd.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "I.3",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M081242.bet.16"
                 },
                 {
                     "#text": "I.4 Bij uitbr. Etenswaren, levensmiddelen.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "I.4",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M081242.bet.18"
                 },
                 {
                     "#text": "I.5 Met betr. tot dieren: wat zij tot hun levensonderhoud tot zich nemen, resp. wat hun door den mensch daartoe verstrekt wordt.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "I.5",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M081242.bet.19"
                 },
                 {
                     "#text": "I.6 Met betr. tot planten als levende organismen: wat zij aan den bodem onttrekken en uit hun omgeving opnemen om in leven te blijven.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "I.6",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M081242.bet.22"
                 },
                 {
                     "#text": "I.7 Een bepaalde soort van voedsel, spijs.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "I.7",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M081242.bet.23"
                 },
                 {
                     "#text": "I.8 Onderhoud, levensonderhoud.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "I.8",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M081242.bet.24"
                 },
                 {
                     "#text": "II Fig. — l) Wat dient tot onderhoud van den geestelijken mensch en van het \"eeuwig leven\", van de ziel. Deze beeldspraak is zeer oud; vgl. pabulum Christianae animae bij Hiëronymus (Lettres, ed. J. LABOURT, 1, 28). Veroud.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "II",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M081242.bet.25"
                 },
                 {
                     "#text": "II.2 Datgene waarvan de geest leeft en groeit, goestelijk voedsel.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "II.2",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M081242.bet.26"
                 },
                 {
                     "#text": "II.3 Wat tot object van de werking der zintuigen dient. Ongewoon.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "II.3",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M081242.bet.27"
                 },
                 {
                     "#text": "II.4 Datgene waardoor vuur en licht onderhouden worden, brandstof. Ook fig.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "II.4",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M081242.bet.28"
                 },
                 {
                     "#text": "II.5 Met betr. tot allerlei abstracta die voorgesteld worden als een werking of toestand die onderhouden wordt, kracht put uit hetgeen genoemd wordt als voedsel, als bron daarvan.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "II.5",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M081242.bet.29"
                 },
                 {
                     "#text": "II.6 Stof of dat wat stof bevat of levert voor gesprekken, geschriften of letterkundige vormen.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "II.6",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M081242.bet.34"
                 },
                 {
                     "#text": "II.7 Steun, houvast, grondslag. Gewest. in Z.-Nederl.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "II.7",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M081242.bet.35"
                 }
             ],
             "resource_2_senses": [
                 {
                     "#text": "1.0 al wat door organismen wordt opgenomen om leven en groei, weefsels en organen in stand te houden; al wat tot voeding dient",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_173165"
                 },
                 {
                     "#text": "2.0 iets wat de geest, de ziel of de zinnen voedt; iets wat een oordeel, gezindheid of gevoel aanwakkert, ontwikkelt of onderhoudt",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "2.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_554867"
                 }
             ],
             "alignment": [
@@ -19819,25 +19819,25 @@
             "lemma": "zonnesteek",
             "part-of-speech_tag": "noun",
             "gender": "",
-            "WNT_meta_ID": "",
-            "ANW_meta_ID": "",
+            "WNT_meta_ID": "http://rdf.ivdnt.org/lexica/diamant/entry/WNT/M089665",
+            "ANW_meta_ID": "http://rdf.ivdnt.org/lexica/anw/lemma_188643",
             "resource_1_senses": [
                 {
                     "#text": "1 Plotseling optredende aandoening van de hersenen door oververhitting t.g.v. de (langdurige) inwerking van fellen zonneschijn op het onbedekte hoofd; veel voorkomende verschijnselen hierbij zijn hoofdpijn, duizeligheid en misselijkheid; in geneeskundige terminologie heliosis en insolatie genoemd. Ook in verb. met hebben of krijgen.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M089665.bet.1"
                 },
                 {
                     "#text": "2 Ook wel in toep. op het in het voorjaar plotseling ernstig ziek worden van door witten roest (wortelbrand) aangetaste rozen- en perzikboomen.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "2",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M089665.bet.4"
                 }
             ],
             "resource_2_senses": [
                 {
                     "#text": "1.0 ziekteverschijnsel dat het gevolg is van een teveel aan warmte en zon op het hoofd en de nek; zonneslag",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_188644"
                 }
             ],
             "alignment": [
@@ -19852,40 +19852,40 @@
             "lemma": "wees",
             "part-of-speech_tag": "noun",
             "gender": "",
-            "WNT_meta_ID": "",
-            "ANW_meta_ID": "",
+            "WNT_meta_ID": "http://rdf.ivdnt.org/lexica/diamant/entry/WNT/M084767",
+            "ANW_meta_ID": "http://rdf.ivdnt.org/lexica/anw/lemma_179782",
             "resource_1_senses": [
                 {
                     "#text": "1 Kind, minderjarige waarvan de ouders overleden zijn.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "q",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M084767.bet.1"
                 },
                 {
                     "#text": "2 Hij die op eenigerlei wijze tot de misdeelden behoort, die in ongelukkige omstandigheden verkeert.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "2",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M084767.bet.16"
                 },
                 {
                     "#text": "4 Ben. van gesteenten, planten e.d.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "4",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M084767.bet.30"
                 },
                 {
                     "#text": "1 Overdekte rustplaats, tuinhuisje gevormd door lommerloof in tuinen en lusthoven, inz. gemaakt van latwerk begroeid met klimplanten; prieeltje.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M084768.bet.1"
                 },
                 {
                     "#text": "2 (Vel.) Steenen verhooging, rollaag, bruggetje in den kelder, bestemd voor berging, opslag (in den stal soms ook van hout, en dan verplaatsbaar).",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "2",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M084768.bet.2"
                 }
             ],
             "resource_2_senses": [
                 {
                     "#text": "1.0 kind van wie de beide ouders overleden zijn; kind zonder ouders",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_179783"
                 }
             ],
             "alignment": [
@@ -19900,40 +19900,40 @@
             "lemma": "zonnen",
             "part-of-speech_tag": "verb",
             "gender": "",
-            "WNT_meta_ID": "",
-            "ANW_meta_ID": "",
+            "WNT_meta_ID": "http://rdf.ivdnt.org/lexica/diamant/entry/WNT/M089653",
+            "ANW_meta_ID": "http://rdf.ivdnt.org/lexica/anw/lemma_188625",
             "resource_1_senses": [
                 {
                     "#text": "1 (Bedr.) In de zon leggen, zetten, hangen; aan de werking van het zonlicht blootstellen, inz. om te drogen, te luchten.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M089653.bet.1"
                 },
                 {
                     "#text": "2 (Wederk.) Zich in het zonlicht, in de warmte van de zon koesteren. Meestal in fig. verband of geheel fig. en verbonden met een bep. ingeleid door in of aan.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "2",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M089653.bet.5"
                 },
                 {
                     "#text": "3 (Onz.) In de zon liggen, staan e.d.; aan de werking van de zonnestralen blootgesteld zijn.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "3",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M089653.bet.6"
                 }
             ],
             "resource_2_senses": [
                 {
                     "#text": "1.0 in de zon liggen of zitten, meestal om bruin te worden of ter ontspanning",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_188626"
                 },
                 {
                     "#text": "1.1 zich in de stralen van de zon koesteren of ophouden; zich in de zonnestralen koesteren",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1.1",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_206168"
                 },
                 {
                     "#text": "1.2 in de zon leggen; aan de werking van de zonnestralen blootstellen",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1.2",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_206171"
                 }
             ],
             "alignment": [
@@ -19958,20 +19958,20 @@
             "lemma": "bronchiën",
             "part-of-speech_tag": "noun",
             "gender": "",
-            "WNT_meta_ID": "",
-            "ANW_meta_ID": "",
+            "WNT_meta_ID": "http://rdf.ivdnt.org/lexica/diamant/entry/WNT/A001623",
+            "ANW_meta_ID": "http://rdf.ivdnt.org/lexica/anw/lemma_26003",
             "resource_1_senses": [
                 {
                     "#text": ") Vertakkingen van de luchtpijp naar de longen.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/A001623.bet.1"
                 }
             ],
             "resource_2_senses": [
                 {
                     "#text": "1.0 vertakkingen van de luchtpijp naar de longen",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_26004"
                 }
             ],
             "alignment": [
@@ -19986,85 +19986,85 @@
             "lemma": "kunst",
             "part-of-speech_tag": "noun",
             "gender": "",
-            "WNT_meta_ID": "",
-            "ANW_meta_ID": "",
+            "WNT_meta_ID": "http://rdf.ivdnt.org/lexica/diamant/entry/WNT/M035837",
+            "ANW_meta_ID": "http://rdf.ivdnt.org/lexica/anw/lemma_86087",
             "resource_1_senses": [
                 {
                     "#text": "1 In 't Mnl. is de bet. kennis, kunde, wetenschap, zeer gewoon. In later tijd komt deze weinig of niet meer voor; wel nu en dan de, ook in 't Mnl. bekende, bet.: vak van kennis, studie of wetenschap, in 't bijzonder in toepassing op die vakken welke vrije of goede kunsten worden genoemd (verg. in denzelfden zin lat. ars). Deze bet. heeft kunst ook als lid van vele samenstellingen: zie daarover beneden bij de Samenst. en bij KUNDE, Samenst",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M035837.bet.4"
                 },
                 {
                     "#text": "2 Kennis dienstbaar gemaakt aan de praktijk, bekwaamheid, vaardigheid enz.; vervolgens ook: toepassing van bekwaamheid enz. Bepaaldelijk gebezigd voor bekwaamheid die door studie of oefening is verkregen, of een uitvloeisel is van bijzondere gaven; wanneer eene zaak ook op eenvoudige wijze gedaan kan worden, beteekent ”met kunst doen” dan ook: op eene wijze die van bijzondere bekwaamheid (enz.) getuigt. Niet alleen voor geestelijke maar ook wel voor lichamelijke bekwaamheid: in 't laatste geval echter wordt tevens een zekere theoretische kennis of verstandsvermogen bedoeld.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "2",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M035837.bet.5"
                 },
                 {
                     "#text": "3 De (bijzondere oefening of gaven vereischende) manier om iets te verrichten of eenig doel te bereiken. In scherts ook op eenvoudige dingen toegepast.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "3",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M035837.bet.9"
                 },
                 {
                     "#text": "4 In een beperkter opvatting. Eene zaak die volgens bepaalde regels wordt uitgevoerd of beoefend.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "4",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M035837.bet.16"
                 },
                 {
                     "#text": "5 Eén enkele toepassing van bekwaamheid, één enkele handeling die ten gevolge van oefening of bijzondere gaven kan verricht worden of verricht is, een kunststuk.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "5",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M035837.bet.18"
                 },
                 {
                     "#text": "6 Met betrekking tot het werk van schilders, beeldhouwers, musici enz.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "6",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M035837.bet.27"
                 },
                 {
                     "#text": "7 Bij uitbreiding. Collectieve naam voor voortbrengselen van de eene of andere kunst of van kunst in 't algemeen (zie de bett. 6, b en c), kunstwerken; soms zooveel als: kunstvoorwerpen.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "7",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M035837.bet.40"
                 },
                 {
                     "#text": "8 Niet zelden wordt de kunst (in een der bovengenoemde beteekenissen) als door oefening verkregen vermogen of menschelijk werk gesteld tegenover de natuur; soms wordt die tegenstelling niet bepaald uitgedrukt maar moet ze uit het verband worden opgemaakt. Meermalen treedt daarbij het begrip van het niet-natuurlijke, het ”kunstmatige” op den voorgrond, terwijl de eigenlijke bet. van 't woord kunst minder uitkomt.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "8",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M035837.bet.43"
                 },
                 {
                     "#text": "9 Kunst komt in verschillende van de bovengenoemde beteekenissen voor in eenige min of meer vaste verbindingen en zegswijzen, waarbij uit het verband moet worden opgemaakt in welken zin het gebruikt is, of waarin men de verschillende bett. niet altijd scherp kan onderscheiden.",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "9",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/diamant/sense/WNT/M035837.bet.45"
                 }
             ],
             "resource_2_senses": [
                 {
                     "#text": "1.0 kennis; kunde; ook: tak van wetenschap; vakgebied; vak",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "1.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_638235"
                 },
                 {
                     "#text": "2.0 kennis die wordt ingezet in de praktijk; toepassing van kennis of bekwaamheid; handeling waarvoor bijzondere kennis of bekwaamheid vereist is; vaardigheid; bekwaamheid",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "2.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_638236"
                 },
                 {
                     "#text": "3.0 bijzondere (oefening of gaven vereisende) manier (en de toepassing ervan) om iets te verrichten of tot stand te brengen",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "3.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_638268"
                 },
                 {
                     "#text": "4.0 het creatief en origineel tot uiting of voorstelling brengen van gedachten of gevoelens, bijvoorbeeld in een schilderij, een muziekstuk, of een beeldhouwwerk, waardoor bij de toeschouwers of toehoorders een schoonheidsbeleving, of een andere emotie, bijvoorbeeld verbazing, verwarring of verwondering opgewekt wordt",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "4.0",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_86088"
                 },
                 {
                     "#text": "4.1 voortbrengselen van het creatief en origineel tot uiting of voorstelling brengen van gedachten of gevoelens, bijvoorbeeld schilderijen, muziekstukken of beeldhouwwerken; kunstwerken",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "4.1",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_638267"
                 },
                 {
                     "#text": "4.2 richting binnen het creatief en origineel tot uiting of voorstelling brengen van gedachten of gevoelens; richting binnen de kunst; stroming binnen de kunst; benadering in de kunst",
-                    "sense_ID": "",
-                    "external_ID": ""
+                    "sense_ID": "4.2",
+                    "external_ID": "http://rdf.ivdnt.org/lexica/anw/sense_644316"
                 }
             ],
             "alignment": [
